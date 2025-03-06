@@ -1,0 +1,2001 @@
+Employee ID,Name,Age,Gender,Department,Job Title,Job Level,Work Location,Joining Date,Employee Status,Employment Type
+EMP0001,Jennifer Pena,32,Female,HR,Financial Analyst,Manager,Miami,07-10-2019,Active,Full-time
+EMP0002,Amanda Padilla,26,Female,Marketing,Project Manager,Entry,Houston,22-03-2024,Inactive,Part-time
+EMP0003,Carmen Griffin,24,Male,Sales,Software Engineer,Senior,New York,02-01-2018,Inactive,Intern
+EMP0004,Rachel Johnson,53,Female,Sales,Marketing Executive,Director,Miami,17-04-2024,Inactive,Part-time
+EMP0005,Nicole Perry,22,Male,HR,Data Analyst,Manager,San Francisco,10-04-2018,Inactive,Contract
+EMP0006,Dominic Robinson,55,Male,Operations,Data Analyst,Senior,Los Angeles,20-02-2022,Active,Contract
+EMP0007,Bobby Frost,30,Male,Finance,Physiotherapist,Entry,San Francisco,14-11-2018,Inactive,Part-time
+EMP0008,Richard Yates,35,Other,HR,Physiotherapist,Senior,San Francisco,28-07-2018,Inactive,Contract
+EMP0009,Michael Ruiz,46,Male,IT,Marketing Executive,Mid,Houston,23-10-2015,Active,Intern
+EMP0010,Terry Sherman,41,Other,Finance,Marketing Executive,Director,Los Angeles,28-11-2020,Active,Contract
+EMP0011,Michele Garcia,38,Other,HR,Marine Scientist,Manager,Chicago,06-07-2022,Active,Full-time
+EMP0012,Phillip Taylor,56,Female,IT,Marine Scientist,Manager,Houston,13-06-2019,Active,Full-time
+EMP0013,Kevin Trujillo,47,Male,HR,HR Manager,Entry,Houston,06-03-2017,Active,Intern
+EMP0014,Hannah Buchanan,36,Female,Operations,Data Analyst,Director,Los Angeles,18-07-2024,Active,Part-time
+EMP0015,Christopher Gross,46,Female,Operations,Marketing Executive,Manager,New York,23-06-2015,Active,Intern
+EMP0016,Patricia Pena,25,Other,Operations,Physiotherapist,Director,San Francisco,15-11-2018,Active,Contract
+EMP0017,Teresa White,48,Male,Sales,Physiotherapist,Mid,Los Angeles,02-04-2021,Inactive,Part-time
+EMP0018,Steven Robinson,37,Male,Marketing,Marine Scientist,Entry,San Francisco,09-06-2023,Inactive,Intern
+EMP0019,Ashley Heath,29,Other,Sales,Financial Analyst,Manager,San Francisco,14-07-2023,Inactive,Full-time
+EMP0020,Erika Taylor,39,Female,HR,Physiotherapist,Manager,New York,23-01-2021,Inactive,Full-time
+EMP0021,Patricia Berg,30,Male,HR,Marine Scientist,Senior,Chicago,22-03-2023,Active,Contract
+EMP0022,Tami Mendez,23,Male,Finance,Marine Scientist,Mid,Los Angeles,22-09-2021,Inactive,Part-time
+EMP0023,Claire Chandler,31,Other,HR,Software Engineer,Senior,Miami,03-05-2023,Inactive,Intern
+EMP0024,Mikayla Stone,48,Female,HR,HR Manager,Mid,Los Angeles,04-04-2017,Active,Part-time
+EMP0025,Courtney Harvey,32,Other,IT,Data Analyst,Manager,Miami,22-04-2016,Active,Part-time
+EMP0026,Beth Phillips,59,Male,HR,Marketing Executive,Entry,San Francisco,03-12-2020,Inactive,Intern
+EMP0027,Deanna Kim,22,Male,Marketing,HR Manager,Entry,San Francisco,14-03-2023,Inactive,Full-time
+EMP0028,Robert Terry,44,Male,Marketing,Marine Scientist,Director,San Francisco,13-02-2021,Inactive,Contract
+EMP0029,Aaron Herrera,31,Female,Sales,Marine Scientist,Director,Miami,24-02-2023,Active,Intern
+EMP0030,Michael Diaz,56,Female,Finance,Physiotherapist,Entry,Miami,05-11-2022,Inactive,Full-time
+EMP0031,Matthew Russell,52,Other,Marketing,Marketing Executive,Director,New York,28-08-2019,Inactive,Contract
+EMP0032,Hunter Cook,53,Male,Finance,Physiotherapist,Mid,Miami,30-05-2017,Active,Part-time
+EMP0033,Bobby Myers,49,Other,HR,Physiotherapist,Director,San Francisco,17-05-2015,Inactive,Full-time
+EMP0034,Teresa Martinez,45,Other,Operations,Financial Analyst,Manager,Los Angeles,22-01-2022,Active,Contract
+EMP0035,Shannon Cobb,33,Female,HR,Financial Analyst,Manager,Chicago,14-08-2024,Inactive,Full-time
+EMP0036,Michael Morales,26,Other,HR,Software Engineer,Senior,New York,31-03-2023,Active,Part-time
+EMP0037,Rachel Hall,49,Female,IT,Marine Scientist,Director,Los Angeles,02-11-2015,Inactive,Part-time
+EMP0038,Tanya Pugh,58,Other,Marketing,Software Engineer,Mid,Houston,03-03-2025,Inactive,Full-time
+EMP0039,Martin Simmons,44,Female,Sales,Marine Scientist,Director,Miami,18-08-2015,Active,Intern
+EMP0040,Jesse Bennett,43,Female,Operations,HR Manager,Mid,San Francisco,27-07-2021,Active,Contract
+EMP0041,Courtney Valdez,41,Other,HR,Financial Analyst,Senior,Houston,15-05-2017,Inactive,Contract
+EMP0042,Kristin Chen,23,Other,Sales,Physiotherapist,Senior,San Francisco,19-10-2018,Inactive,Contract
+EMP0043,Amy Brown,57,Other,Sales,Software Engineer,Senior,New York,21-01-2021,Inactive,Full-time
+EMP0044,Amanda Jones,46,Female,Finance,Marine Scientist,Entry,New York,08-03-2017,Active,Part-time
+EMP0045,Anthony Brown,60,Male,Finance,Data Analyst,Director,Houston,27-05-2023,Active,Part-time
+EMP0046,Martin Phelps,52,Female,Sales,Financial Analyst,Senior,Miami,04-05-2021,Inactive,Part-time
+EMP0047,Janet Anderson,24,Male,HR,Project Manager,Entry,Chicago,26-08-2017,Active,Full-time
+EMP0048,Yolanda Johnson,31,Male,Marketing,Financial Analyst,Senior,Los Angeles,24-11-2017,Active,Part-time
+EMP0049,Helen Harvey,41,Female,Finance,Project Manager,Manager,Los Angeles,10-12-2016,Active,Full-time
+EMP0050,Craig Obrien,53,Male,Sales,Physiotherapist,Director,New York,20-10-2020,Active,Intern
+EMP0051,Cindy Lopez,22,Female,Marketing,Physiotherapist,Senior,San Francisco,15-12-2020,Active,Intern
+EMP0052,Samuel Ramsey,38,Other,HR,Data Analyst,Director,Los Angeles,04-05-2015,Active,Intern
+EMP0053,Christina Rodriguez,46,Other,IT,Marine Scientist,Director,San Francisco,05-01-2019,Inactive,Full-time
+EMP0054,Margaret Thompson,59,Other,HR,Data Analyst,Entry,Houston,22-11-2020,Active,Part-time
+EMP0055,Jennifer Davis DDS,28,Male,Marketing,HR Manager,Manager,Chicago,15-07-2021,Active,Intern
+EMP0056,Lisa Osborne,57,Other,IT,HR Manager,Entry,New York,08-05-2017,Active,Intern
+EMP0057,Suzanne Hudson,27,Male,Marketing,HR Manager,Director,Los Angeles,13-10-2022,Active,Full-time
+EMP0058,Michelle Wilcox,52,Female,Operations,HR Manager,Entry,Houston,12-05-2022,Active,Contract
+EMP0059,Patrick Vincent,45,Female,HR,Marine Scientist,Manager,San Francisco,16-07-2018,Inactive,Full-time
+EMP0060,Danielle White,49,Female,HR,Data Analyst,Mid,Miami,09-08-2022,Inactive,Contract
+EMP0061,Bryce Page,57,Other,Finance,Software Engineer,Senior,Houston,08-09-2022,Active,Contract
+EMP0062,Rita Mendez,59,Male,IT,HR Manager,Entry,San Francisco,24-09-2017,Active,Full-time
+EMP0063,Heather Wheeler,30,Female,Finance,Marine Scientist,Manager,Houston,09-10-2024,Active,Intern
+EMP0064,Natasha Hensley,50,Female,Finance,Marine Scientist,Entry,San Francisco,18-01-2023,Inactive,Contract
+EMP0065,Kimberly Hernandez,56,Other,Marketing,Physiotherapist,Manager,Houston,08-04-2022,Inactive,Intern
+EMP0066,Jenny Roach,35,Male,Sales,HR Manager,Senior,New York,15-03-2016,Active,Full-time
+EMP0067,Jeffrey Rocha,52,Female,Operations,Software Engineer,Senior,San Francisco,12-08-2024,Inactive,Contract
+EMP0068,Cassandra Walker,33,Male,HR,HR Manager,Entry,Los Angeles,18-05-2018,Inactive,Contract
+EMP0069,Lauren Abbott,39,Other,Sales,Marketing Executive,Entry,Houston,27-05-2016,Inactive,Intern
+EMP0070,Paul Johnson,36,Other,Operations,HR Manager,Mid,Los Angeles,29-11-2024,Active,Contract
+EMP0071,Lee Brown,57,Female,Sales,Software Engineer,Entry,Miami,29-05-2017,Active,Full-time
+EMP0072,Monica Peterson,53,Male,IT,Physiotherapist,Entry,Houston,15-12-2022,Active,Intern
+EMP0073,Sandra Miles,55,Female,Sales,Marine Scientist,Mid,Chicago,20-12-2023,Active,Intern
+EMP0074,Kevin Smith,35,Female,Finance,Marketing Executive,Entry,San Francisco,29-09-2018,Inactive,Contract
+EMP0075,Virginia Cook,25,Other,Finance,Physiotherapist,Senior,Houston,15-03-2018,Active,Contract
+EMP0076,Monica Smith,33,Male,IT,Software Engineer,Director,Los Angeles,02-02-2017,Inactive,Full-time
+EMP0077,Samantha Keith,44,Other,Marketing,Software Engineer,Senior,Chicago,05-09-2020,Active,Contract
+EMP0078,Melissa Garcia,60,Male,Finance,Marketing Executive,Manager,New York,10-04-2023,Inactive,Full-time
+EMP0079,Dustin Williams,29,Female,Sales,Marine Scientist,Senior,Houston,24-12-2021,Inactive,Full-time
+EMP0080,Gina Reed,34,Male,Marketing,Data Analyst,Senior,Chicago,27-09-2016,Active,Full-time
+EMP0081,Derek Carroll,33,Other,Marketing,Physiotherapist,Senior,Los Angeles,02-08-2018,Active,Full-time
+EMP0082,Terri Fitzgerald,28,Female,Marketing,Physiotherapist,Mid,New York,17-03-2022,Inactive,Part-time
+EMP0083,William Leonard,57,Other,Operations,Software Engineer,Entry,Los Angeles,20-02-2022,Inactive,Contract
+EMP0084,Jeanette Montgomery,58,Other,Operations,Project Manager,Manager,San Francisco,10-01-2021,Inactive,Intern
+EMP0085,Elizabeth Erickson,43,Female,Sales,Marketing Executive,Mid,Los Angeles,25-04-2017,Active,Part-time
+EMP0086,Caleb Harris,30,Female,HR,Software Engineer,Senior,Miami,10-06-2019,Inactive,Part-time
+EMP0087,Nicole Manning,53,Male,Marketing,Project Manager,Director,Los Angeles,05-01-2017,Active,Contract
+EMP0088,Mary Peterson,53,Other,Operations,Software Engineer,Mid,San Francisco,08-12-2022,Active,Intern
+EMP0089,Steven Wells,52,Female,HR,HR Manager,Mid,San Francisco,29-10-2023,Inactive,Contract
+EMP0090,Adam Allen,22,Female,Operations,Project Manager,Entry,Houston,02-02-2019,Inactive,Part-time
+EMP0091,Cody Mccoy,51,Male,Marketing,Data Analyst,Director,New York,23-07-2017,Inactive,Contract
+EMP0092,Tommy Carter,28,Male,Operations,Software Engineer,Manager,Houston,01-06-2017,Active,Intern
+EMP0093,Thomas Anderson,32,Female,Operations,Financial Analyst,Mid,Chicago,26-08-2015,Active,Intern
+EMP0094,Ashley Bennett MD,53,Other,HR,Marketing Executive,Senior,Miami,24-09-2015,Inactive,Part-time
+EMP0095,Sandra Brown,44,Male,IT,Software Engineer,Manager,Chicago,05-06-2020,Active,Part-time
+EMP0096,Jessica Lewis,32,Female,IT,Physiotherapist,Senior,Houston,03-06-2022,Active,Contract
+EMP0097,David Yang,44,Male,Sales,Marine Scientist,Entry,Miami,15-03-2016,Active,Part-time
+EMP0098,Lisa Reynolds,22,Other,Operations,HR Manager,Manager,Houston,17-01-2022,Inactive,Full-time
+EMP0099,Thomas Morgan,29,Other,Sales,Marketing Executive,Senior,Houston,19-06-2019,Inactive,Full-time
+EMP0100,Michelle Baker,42,Other,Operations,Marketing Executive,Senior,Los Angeles,09-12-2022,Active,Contract
+EMP0101,Aaron Carter,40,Other,HR,HR Manager,Senior,New York,03-04-2019,Inactive,Intern
+EMP0102,Brenda Luna,54,Male,HR,HR Manager,Entry,Los Angeles,20-10-2020,Active,Part-time
+EMP0103,Jill Smith,46,Other,IT,HR Manager,Manager,Houston,30-06-2018,Inactive,Part-time
+EMP0104,Austin Roman MD,48,Other,Marketing,Marketing Executive,Entry,Houston,18-05-2022,Inactive,Contract
+EMP0105,Michael Wilson,50,Other,IT,Marine Scientist,Mid,Miami,08-08-2015,Inactive,Contract
+EMP0106,Vincent Hunter,50,Male,Operations,Software Engineer,Senior,Miami,20-05-2021,Active,Intern
+EMP0107,Tammy Hoffman,46,Male,HR,Physiotherapist,Senior,Los Angeles,18-09-2018,Inactive,Contract
+EMP0108,Christopher Williams,60,Female,IT,Marketing Executive,Manager,Miami,02-05-2018,Active,Intern
+EMP0109,Jeffery Scott,43,Other,IT,Financial Analyst,Senior,Houston,29-07-2024,Inactive,Intern
+EMP0110,Jennifer Hill,58,Other,HR,Financial Analyst,Senior,Chicago,20-09-2024,Inactive,Part-time
+EMP0111,Aaron Cunningham,52,Female,IT,Marketing Executive,Entry,Houston,11-11-2021,Inactive,Contract
+EMP0112,Joseph Hall,33,Male,HR,Financial Analyst,Mid,Miami,01-03-2022,Active,Full-time
+EMP0113,Nathaniel Barrera,40,Female,Finance,Marine Scientist,Entry,New York,19-01-2020,Active,Part-time
+EMP0114,Brenda Austin,59,Female,Sales,Project Manager,Mid,Chicago,20-03-2023,Inactive,Intern
+EMP0115,Nicole Martinez,48,Other,Sales,Project Manager,Director,Chicago,23-04-2022,Inactive,Intern
+EMP0116,Angel Molina,41,Female,Finance,Software Engineer,Director,Chicago,06-04-2018,Inactive,Part-time
+EMP0117,David Green,24,Female,Marketing,Data Analyst,Entry,Miami,03-07-2019,Active,Part-time
+EMP0118,Erika Jones,55,Other,HR,Marine Scientist,Entry,Houston,05-07-2022,Active,Part-time
+EMP0119,Kimberly Chan,25,Other,Finance,Financial Analyst,Director,Chicago,10-12-2024,Inactive,Part-time
+EMP0120,Robert Martin,35,Other,Marketing,Financial Analyst,Director,San Francisco,22-07-2020,Active,Part-time
+EMP0121,Eric Knight,40,Male,Marketing,Marine Scientist,Entry,Chicago,12-02-2022,Inactive,Contract
+EMP0122,Michelle Shannon,31,Female,IT,Financial Analyst,Manager,Los Angeles,25-02-2020,Active,Part-time
+EMP0123,Christina Mcintyre,43,Female,IT,Software Engineer,Senior,San Francisco,04-03-2018,Inactive,Contract
+EMP0124,Amy Ford,30,Male,Finance,HR Manager,Senior,Chicago,30-11-2022,Active,Full-time
+EMP0125,Samantha Espinoza,51,Other,Marketing,Financial Analyst,Senior,Chicago,12-07-2020,Inactive,Contract
+EMP0126,Francis Allen,38,Female,Operations,Physiotherapist,Entry,Miami,16-06-2015,Active,Contract
+EMP0127,David Brooks,58,Female,Operations,Marine Scientist,Manager,Houston,16-09-2016,Inactive,Full-time
+EMP0128,Angel Jones,39,Female,IT,Marine Scientist,Manager,Los Angeles,11-05-2024,Active,Contract
+EMP0129,Jennifer Harvey,26,Other,Marketing,Software Engineer,Manager,Chicago,10-08-2023,Inactive,Contract
+EMP0130,Edward Gonzalez,23,Other,Operations,Software Engineer,Senior,Houston,17-12-2015,Inactive,Contract
+EMP0131,James Hicks,33,Other,HR,Marine Scientist,Director,San Francisco,02-02-2017,Inactive,Intern
+EMP0132,Frederick Williams,55,Other,Sales,HR Manager,Senior,Los Angeles,11-08-2017,Active,Contract
+EMP0133,Dalton Hunt,52,Male,Sales,Financial Analyst,Mid,Miami,16-12-2022,Inactive,Contract
+EMP0134,Ashley Stout,51,Male,Sales,HR Manager,Manager,New York,23-05-2023,Active,Contract
+EMP0135,Michael Jimenez,57,Male,IT,Project Manager,Senior,New York,24-04-2020,Inactive,Intern
+EMP0136,Joseph Rose,25,Female,Operations,HR Manager,Mid,Houston,29-04-2023,Active,Intern
+EMP0137,Carmen Dunn,37,Female,Marketing,Physiotherapist,Entry,Miami,28-05-2018,Active,Part-time
+EMP0138,Felicia Stanley,38,Female,IT,Project Manager,Manager,Miami,14-03-2015,Active,Part-time
+EMP0139,Brittany Ingram,32,Female,IT,Project Manager,Senior,San Francisco,25-12-2018,Active,Intern
+EMP0140,Robert Nguyen,59,Female,Finance,Project Manager,Entry,Chicago,18-12-2016,Inactive,Intern
+EMP0141,Lisa Silva,52,Female,HR,Project Manager,Entry,Chicago,18-02-2019,Inactive,Intern
+EMP0142,Amber Winters,23,Male,IT,Financial Analyst,Senior,San Francisco,20-01-2019,Inactive,Contract
+EMP0143,Michael Hull,60,Other,Operations,Financial Analyst,Director,Chicago,03-02-2021,Active,Part-time
+EMP0144,Karen Bolton,31,Other,Sales,Software Engineer,Senior,New York,03-04-2020,Inactive,Intern
+EMP0145,Randy Hansen,50,Female,IT,Software Engineer,Entry,Chicago,10-10-2019,Active,Part-time
+EMP0146,Kim Rowe,58,Other,Sales,Marketing Executive,Director,San Francisco,29-05-2022,Inactive,Contract
+EMP0147,Alison Barnes,58,Male,HR,Software Engineer,Mid,San Francisco,16-10-2017,Active,Contract
+EMP0148,Jonathan Lee,41,Male,Marketing,Project Manager,Senior,Chicago,17-10-2023,Active,Part-time
+EMP0149,John Castillo,60,Male,HR,Financial Analyst,Director,Chicago,11-10-2015,Inactive,Full-time
+EMP0150,Kelly James,43,Other,Marketing,Physiotherapist,Mid,Los Angeles,29-07-2016,Inactive,Contract
+EMP0151,Jean Schaefer,51,Female,Finance,Project Manager,Director,San Francisco,05-01-2019,Inactive,Full-time
+EMP0152,Mike Reeves,51,Other,Marketing,Software Engineer,Director,Los Angeles,31-03-2018,Active,Contract
+EMP0153,Douglas Perry,43,Male,Finance,Data Analyst,Senior,Chicago,25-08-2023,Active,Contract
+EMP0154,Mr. Tyler Nunez,45,Female,Sales,Physiotherapist,Entry,Los Angeles,03-11-2024,Inactive,Intern
+EMP0155,Suzanne Hall,46,Female,HR,Marine Scientist,Manager,Los Angeles,08-06-2019,Inactive,Part-time
+EMP0156,Danielle Shepherd,33,Female,Sales,Project Manager,Director,New York,28-03-2021,Active,Intern
+EMP0157,Nancy Campbell,29,Female,Finance,Project Manager,Manager,San Francisco,30-12-2019,Inactive,Intern
+EMP0158,Hannah Rasmussen,23,Other,Operations,Software Engineer,Entry,Miami,19-12-2023,Active,Contract
+EMP0159,Scott Beard,42,Other,Finance,Project Manager,Director,Los Angeles,23-12-2023,Inactive,Part-time
+EMP0160,Carl Craig,39,Female,Operations,Physiotherapist,Senior,New York,08-11-2023,Inactive,Full-time
+EMP0161,Juan James,43,Male,Marketing,Data Analyst,Mid,San Francisco,26-04-2024,Active,Part-time
+EMP0162,Gabriela Smith,33,Female,Sales,Financial Analyst,Mid,Miami,25-10-2017,Inactive,Part-time
+EMP0163,Kyle Moore,32,Other,Marketing,Financial Analyst,Senior,Chicago,03-12-2016,Active,Intern
+EMP0164,Toni Jones,34,Female,Finance,Marine Scientist,Mid,Miami,19-03-2021,Inactive,Part-time
+EMP0165,Richard Williams,52,Male,Marketing,Software Engineer,Manager,Los Angeles,27-11-2024,Inactive,Intern
+EMP0166,Julie Jones,60,Male,Sales,Project Manager,Director,San Francisco,05-07-2018,Inactive,Contract
+EMP0167,Christopher Li,32,Male,Finance,Marine Scientist,Senior,New York,09-07-2018,Inactive,Intern
+EMP0168,Carla Bailey,50,Female,Operations,Software Engineer,Manager,New York,28-05-2021,Inactive,Contract
+EMP0169,Anthony Wright,40,Female,Finance,Financial Analyst,Mid,Houston,15-10-2024,Inactive,Contract
+EMP0170,Amanda Macias,38,Female,HR,Project Manager,Senior,Houston,14-02-2016,Active,Part-time
+EMP0171,Kent Price,27,Male,Finance,Data Analyst,Entry,San Francisco,16-11-2021,Inactive,Full-time
+EMP0172,Dr. Traci Brown,47,Other,Sales,HR Manager,Manager,Houston,23-02-2024,Inactive,Full-time
+EMP0173,Sabrina Serrano,57,Male,Operations,Marketing Executive,Mid,New York,07-11-2022,Active,Intern
+EMP0174,Terry Ellis,35,Female,Finance,Software Engineer,Mid,Miami,25-04-2015,Active,Intern
+EMP0175,Tina Rowe,26,Other,IT,Software Engineer,Director,Houston,20-02-2016,Inactive,Contract
+EMP0176,Aaron Castro,23,Male,Finance,Data Analyst,Manager,San Francisco,27-10-2022,Active,Contract
+EMP0177,Jay Sanders,33,Male,Sales,Financial Analyst,Manager,Los Angeles,17-07-2023,Inactive,Part-time
+EMP0178,Cynthia Miller,41,Female,Marketing,Software Engineer,Manager,New York,21-12-2017,Inactive,Full-time
+EMP0179,Jonathan Duncan,43,Other,Operations,HR Manager,Mid,Houston,22-11-2019,Inactive,Full-time
+EMP0180,Sean Miller,49,Male,HR,Data Analyst,Entry,Chicago,16-04-2015,Inactive,Intern
+EMP0181,Ashley Armstrong,50,Male,IT,Marketing Executive,Mid,Chicago,29-12-2017,Active,Contract
+EMP0182,Traci Brown,33,Other,Operations,Marketing Executive,Director,Chicago,02-05-2020,Active,Full-time
+EMP0183,Suzanne Chen,47,Male,HR,Software Engineer,Manager,Los Angeles,12-11-2016,Inactive,Full-time
+EMP0184,Hannah Mendoza,34,Other,Sales,HR Manager,Director,San Francisco,13-02-2018,Inactive,Intern
+EMP0185,Alexis Thompson,48,Female,HR,Marine Scientist,Director,Houston,15-03-2024,Inactive,Part-time
+EMP0186,Matthew Hobbs,24,Female,HR,Data Analyst,Manager,Los Angeles,01-06-2023,Active,Part-time
+EMP0187,Ms. Leslie Nguyen,52,Male,Finance,Project Manager,Senior,Los Angeles,22-02-2025,Active,Contract
+EMP0188,Sabrina Berry,32,Female,Finance,Project Manager,Mid,San Francisco,29-07-2023,Active,Contract
+EMP0189,Matthew Collins,51,Other,Sales,Marine Scientist,Senior,Miami,10-08-2018,Active,Contract
+EMP0190,Alicia Bryant,43,Male,Finance,Software Engineer,Entry,Los Angeles,30-09-2015,Active,Part-time
+EMP0191,Amber Sanders,29,Female,IT,Data Analyst,Manager,Miami,07-06-2021,Inactive,Part-time
+EMP0192,Jessica Harris,29,Male,Marketing,HR Manager,Manager,Los Angeles,11-02-2020,Inactive,Contract
+EMP0193,Joanna Shea,58,Female,Marketing,Data Analyst,Mid,Los Angeles,09-01-2019,Active,Part-time
+EMP0194,John Pennington,35,Female,Marketing,Marine Scientist,Entry,Chicago,15-06-2024,Inactive,Full-time
+EMP0195,Alyssa Cole,32,Male,Finance,Project Manager,Manager,New York,08-08-2021,Active,Full-time
+EMP0196,Julia Ryan,56,Female,Operations,Project Manager,Director,San Francisco,23-03-2019,Inactive,Intern
+EMP0197,Justin Sanders,22,Other,Marketing,Marketing Executive,Director,New York,17-06-2019,Active,Part-time
+EMP0198,Randy Brock,42,Female,Sales,Physiotherapist,Manager,Chicago,19-12-2024,Active,Contract
+EMP0199,Eric Horton,32,Female,IT,Financial Analyst,Senior,San Francisco,15-12-2020,Inactive,Contract
+EMP0200,Jasmine Griffin,41,Male,Sales,Physiotherapist,Senior,Los Angeles,10-10-2021,Active,Intern
+EMP0201,Lisa Santiago,24,Male,Marketing,Marketing Executive,Entry,Miami,26-03-2015,Inactive,Contract
+EMP0202,Veronica Norton,24,Other,HR,Financial Analyst,Director,Houston,03-08-2018,Active,Intern
+EMP0203,Richard David,37,Male,Sales,Software Engineer,Entry,New York,24-10-2018,Active,Full-time
+EMP0204,Denise Gomez,35,Male,Marketing,Physiotherapist,Senior,Chicago,18-04-2016,Inactive,Part-time
+EMP0205,Jasmine White,60,Female,Operations,HR Manager,Mid,New York,10-05-2021,Inactive,Contract
+EMP0206,Frank Horton,58,Female,Finance,Financial Analyst,Director,Los Angeles,27-06-2023,Active,Full-time
+EMP0207,David Santiago,22,Male,Sales,HR Manager,Director,Los Angeles,17-04-2022,Active,Contract
+EMP0208,Kelly Gordon,53,Male,Sales,Project Manager,Manager,Chicago,09-03-2022,Active,Part-time
+EMP0209,Jacob Steele,45,Female,Operations,Software Engineer,Senior,Los Angeles,07-08-2020,Active,Contract
+EMP0210,Jennifer Lopez,22,Female,Operations,Financial Analyst,Entry,Los Angeles,27-04-2023,Active,Contract
+EMP0211,Daniel Herrera,30,Male,Finance,Marine Scientist,Senior,Houston,23-09-2016,Inactive,Part-time
+EMP0212,James Haynes,56,Other,Finance,HR Manager,Director,Chicago,03-07-2019,Inactive,Contract
+EMP0213,Jennifer Thomas,28,Other,Operations,Financial Analyst,Mid,New York,10-04-2021,Inactive,Contract
+EMP0214,Summer Clark,48,Other,Sales,Marketing Executive,Senior,Los Angeles,09-06-2021,Inactive,Intern
+EMP0215,David Nunez,53,Female,Operations,Marketing Executive,Entry,Chicago,21-05-2015,Active,Contract
+EMP0216,Jessica Russell,23,Other,IT,HR Manager,Entry,Miami,11-06-2022,Inactive,Full-time
+EMP0217,Robert Jackson,33,Other,Marketing,Financial Analyst,Entry,Miami,20-01-2020,Inactive,Contract
+EMP0218,Philip Mendez,41,Female,IT,Financial Analyst,Entry,Houston,22-09-2017,Inactive,Intern
+EMP0219,Robert Horn,49,Other,Marketing,Financial Analyst,Director,Chicago,20-07-2018,Inactive,Contract
+EMP0220,Lori Valdez,35,Female,Finance,Physiotherapist,Mid,New York,02-12-2023,Active,Intern
+EMP0221,Derrick Wright,26,Other,Finance,Project Manager,Director,San Francisco,19-07-2017,Inactive,Contract
+EMP0222,Samantha Mcdaniel,34,Female,Sales,Software Engineer,Senior,Houston,30-09-2023,Inactive,Intern
+EMP0223,Guy Bradley,35,Male,Operations,Physiotherapist,Mid,San Francisco,16-06-2022,Inactive,Full-time
+EMP0224,Theresa Mckenzie,53,Male,IT,HR Manager,Director,Miami,09-07-2016,Inactive,Part-time
+EMP0225,Jeremy Smith,43,Other,Finance,Marine Scientist,Senior,New York,30-11-2015,Inactive,Contract
+EMP0226,Carlos Gibson,29,Female,Finance,HR Manager,Director,Miami,04-08-2020,Active,Part-time
+EMP0227,Christina Williams,51,Other,Marketing,Marine Scientist,Entry,New York,03-04-2015,Active,Intern
+EMP0228,Samantha Smith MD,55,Female,Finance,Data Analyst,Entry,Los Angeles,28-07-2016,Inactive,Intern
+EMP0229,Shawn Wagner,50,Female,Sales,Software Engineer,Senior,New York,02-05-2020,Inactive,Part-time
+EMP0230,Vincent Harmon,59,Male,Sales,Project Manager,Mid,Chicago,12-07-2015,Inactive,Contract
+EMP0231,Cindy Romero,26,Other,Marketing,Data Analyst,Entry,Miami,19-06-2024,Inactive,Contract
+EMP0232,Brett Soto,30,Female,Operations,Software Engineer,Entry,Los Angeles,25-10-2021,Inactive,Contract
+EMP0233,Justin Zavala,57,Male,Operations,Software Engineer,Mid,New York,25-02-2016,Active,Contract
+EMP0234,Nancy Burgess,37,Male,Finance,Financial Analyst,Director,Miami,24-02-2023,Active,Part-time
+EMP0235,Juan Perry,43,Female,Marketing,Physiotherapist,Entry,Houston,14-09-2022,Inactive,Full-time
+EMP0236,Peter Bauer,58,Other,IT,Financial Analyst,Mid,Chicago,22-10-2015,Active,Part-time
+EMP0237,Pamela Marshall,58,Male,Finance,Software Engineer,Mid,Chicago,17-02-2022,Inactive,Full-time
+EMP0238,Jason Ford,59,Other,HR,Marketing Executive,Senior,Houston,19-12-2017,Inactive,Part-time
+EMP0239,Jeffrey Roy DDS,30,Male,Marketing,Marketing Executive,Manager,Houston,29-05-2016,Active,Intern
+EMP0240,Amy Vaughan,25,Female,Operations,Marine Scientist,Director,Miami,25-12-2021,Inactive,Contract
+EMP0241,Reginald Olson,47,Male,Finance,Marketing Executive,Mid,San Francisco,18-03-2022,Inactive,Intern
+EMP0242,Deborah Atkinson,50,Female,Finance,Financial Analyst,Mid,New York,18-11-2019,Active,Full-time
+EMP0243,Derrick Pierce,37,Other,HR,Marketing Executive,Mid,New York,25-07-2021,Inactive,Part-time
+EMP0244,Christopher Miller,26,Female,Marketing,Marine Scientist,Manager,Los Angeles,08-03-2022,Inactive,Full-time
+EMP0245,Colin Smith,31,Female,Finance,Data Analyst,Senior,Los Angeles,14-03-2017,Inactive,Part-time
+EMP0246,Manuel Burns,54,Male,Marketing,Physiotherapist,Manager,Miami,27-04-2020,Active,Contract
+EMP0247,Brandy Adams,33,Male,Operations,HR Manager,Director,Los Angeles,31-05-2024,Inactive,Intern
+EMP0248,Brittany Macdonald,42,Other,IT,Project Manager,Mid,Miami,10-02-2023,Inactive,Contract
+EMP0249,Lee Molina,37,Male,HR,Physiotherapist,Senior,Houston,10-09-2023,Active,Intern
+EMP0250,Ms. Jennifer Young,25,Female,HR,Marine Scientist,Senior,New York,10-03-2017,Inactive,Full-time
+EMP0251,Anthony Jackson,29,Female,IT,Data Analyst,Director,San Francisco,20-01-2024,Inactive,Full-time
+EMP0252,Michael Thompson,52,Female,Operations,Software Engineer,Mid,Chicago,25-10-2022,Active,Full-time
+EMP0253,Mark Frey,55,Female,HR,Data Analyst,Entry,New York,27-03-2020,Active,Full-time
+EMP0254,Cory Montgomery,36,Male,HR,Project Manager,Manager,Chicago,21-11-2017,Active,Full-time
+EMP0255,Allison Brady,53,Female,HR,Software Engineer,Senior,Houston,05-07-2024,Active,Full-time
+EMP0256,Alex Young,34,Male,Sales,HR Manager,Entry,New York,06-01-2020,Inactive,Contract
+EMP0257,Joshua Ortiz,60,Male,Operations,Financial Analyst,Manager,Houston,05-01-2020,Inactive,Full-time
+EMP0258,Thomas Phillips,41,Other,IT,Marine Scientist,Mid,Chicago,26-09-2021,Active,Contract
+EMP0259,Chad Smith,55,Female,IT,Data Analyst,Senior,Chicago,21-10-2021,Inactive,Part-time
+EMP0260,Veronica Hart,29,Female,Marketing,Financial Analyst,Mid,New York,12-05-2018,Inactive,Full-time
+EMP0261,Rachel Dixon,32,Male,Operations,Physiotherapist,Director,New York,31-10-2019,Inactive,Intern
+EMP0262,Susan Johnston,55,Other,Operations,Project Manager,Mid,Miami,07-11-2022,Active,Intern
+EMP0263,Sarah Garcia,57,Male,Finance,Marketing Executive,Manager,Houston,26-09-2021,Inactive,Part-time
+EMP0264,Rebecca Riley,59,Female,IT,Software Engineer,Director,Houston,17-04-2015,Inactive,Contract
+EMP0265,Gary Wright,33,Male,Operations,Software Engineer,Manager,San Francisco,26-05-2024,Inactive,Full-time
+EMP0266,Samantha Miranda,29,Other,Operations,Data Analyst,Entry,Houston,15-08-2016,Active,Full-time
+EMP0267,Kim Diaz,37,Female,Operations,HR Manager,Director,Los Angeles,18-09-2021,Active,Intern
+EMP0268,Rachel Huber,37,Female,Marketing,Project Manager,Entry,Miami,17-06-2022,Active,Full-time
+EMP0269,Carol Jenkins,23,Female,HR,Data Analyst,Senior,San Francisco,25-10-2020,Active,Part-time
+EMP0270,Jeffrey Morgan,29,Male,Marketing,Financial Analyst,Manager,Miami,11-03-2020,Inactive,Part-time
+EMP0271,Michelle Griffin,27,Male,Finance,Financial Analyst,Senior,Chicago,22-12-2021,Inactive,Contract
+EMP0272,Lauren Reid,38,Male,Marketing,Marketing Executive,Director,Los Angeles,09-12-2024,Active,Contract
+EMP0273,Amanda Moore,42,Other,Sales,HR Manager,Director,Los Angeles,23-09-2016,Inactive,Contract
+EMP0274,Ronald Hale,56,Male,IT,Project Manager,Entry,Los Angeles,12-05-2015,Active,Contract
+EMP0275,Kimberly Potts,58,Male,Finance,Data Analyst,Director,Chicago,10-03-2024,Inactive,Contract
+EMP0276,Samuel Baker,56,Other,Finance,Marketing Executive,Entry,Miami,12-07-2020,Inactive,Contract
+EMP0277,Mrs. Jessica Oconnell,44,Male,Operations,Data Analyst,Manager,New York,13-07-2022,Inactive,Part-time
+EMP0278,Erica Jones,39,Male,HR,Physiotherapist,Senior,Chicago,25-05-2024,Inactive,Part-time
+EMP0279,Eddie Jones,45,Male,Operations,Project Manager,Senior,New York,27-03-2019,Active,Full-time
+EMP0280,Alexander Frazier,52,Other,Operations,Software Engineer,Senior,New York,12-09-2023,Inactive,Part-time
+EMP0281,Mr. Robert Morris,54,Female,Finance,Marketing Executive,Manager,Chicago,23-09-2023,Active,Contract
+EMP0282,Shawn Beard,60,Other,Operations,Project Manager,Senior,Miami,30-03-2018,Active,Contract
+EMP0283,Justin Hanna,56,Other,Sales,Data Analyst,Director,Miami,09-06-2015,Active,Part-time
+EMP0284,Benjamin Rivera MD,35,Male,HR,Software Engineer,Entry,Miami,04-12-2015,Inactive,Part-time
+EMP0285,Ana Ramos,23,Female,Sales,Marine Scientist,Manager,Chicago,29-10-2020,Inactive,Contract
+EMP0286,Randy Hodge,23,Male,Sales,HR Manager,Entry,Los Angeles,05-12-2019,Inactive,Contract
+EMP0287,Kimberly Barton,37,Female,Marketing,Software Engineer,Manager,Houston,04-01-2016,Active,Part-time
+EMP0288,Melissa Washington,26,Male,Finance,HR Manager,Manager,San Francisco,28-01-2021,Active,Intern
+EMP0289,Gina Mcpherson,46,Other,IT,Marine Scientist,Manager,Chicago,09-10-2020,Inactive,Full-time
+EMP0290,Jason Chavez,60,Other,HR,Project Manager,Director,Miami,21-05-2016,Inactive,Part-time
+EMP0291,Carl Wilson,42,Female,Sales,Software Engineer,Manager,Chicago,06-01-2017,Active,Contract
+EMP0292,Vanessa Wood DDS,58,Female,Sales,Marine Scientist,Senior,Chicago,06-09-2018,Active,Intern
+EMP0293,Betty Richardson,33,Male,Marketing,Software Engineer,Entry,San Francisco,28-05-2016,Inactive,Full-time
+EMP0294,Michael Turner,35,Male,HR,Data Analyst,Director,Los Angeles,21-02-2023,Inactive,Contract
+EMP0295,Elizabeth Bradley,26,Male,Operations,Data Analyst,Entry,Houston,17-01-2018,Inactive,Contract
+EMP0296,Tammy Spencer,56,Other,Sales,Project Manager,Senior,San Francisco,01-06-2016,Active,Part-time
+EMP0297,Michael Terrell,50,Female,HR,Physiotherapist,Entry,Miami,06-12-2023,Active,Contract
+EMP0298,Rebecca Roberts,31,Male,IT,Financial Analyst,Senior,New York,04-09-2024,Active,Part-time
+EMP0299,Amber Conway,51,Male,Finance,Financial Analyst,Manager,Chicago,12-08-2024,Active,Part-time
+EMP0300,Shawn Morgan,36,Other,Finance,Physiotherapist,Mid,Los Angeles,12-02-2020,Inactive,Full-time
+EMP0301,Tammy Lawrence,55,Male,IT,Software Engineer,Entry,Chicago,22-04-2019,Active,Contract
+EMP0302,Tony Montgomery,27,Female,Sales,Project Manager,Director,Miami,05-09-2023,Inactive,Part-time
+EMP0303,Brittany Maxwell,52,Male,Sales,Project Manager,Senior,Chicago,01-07-2017,Inactive,Intern
+EMP0304,Melissa Lloyd,57,Female,Marketing,Marketing Executive,Manager,Houston,18-02-2022,Inactive,Part-time
+EMP0305,Stephanie Thomas,43,Other,Finance,Physiotherapist,Senior,Los Angeles,07-06-2017,Active,Intern
+EMP0306,Stephanie Guerra,30,Male,Sales,Marketing Executive,Entry,San Francisco,25-05-2019,Inactive,Contract
+EMP0307,Jessica Webb,24,Other,Marketing,Project Manager,Senior,Los Angeles,25-07-2018,Active,Part-time
+EMP0308,Susan Clark,40,Other,HR,HR Manager,Mid,New York,08-02-2024,Inactive,Intern
+EMP0309,Garrett Howard,23,Other,HR,Software Engineer,Director,Chicago,10-12-2019,Active,Part-time
+EMP0310,Timothy Salinas,38,Other,IT,Project Manager,Director,Los Angeles,25-12-2023,Inactive,Full-time
+EMP0311,Zachary Adams,41,Other,Marketing,Project Manager,Mid,Houston,09-09-2020,Active,Intern
+EMP0312,Kenneth Johnson,47,Female,Sales,Software Engineer,Director,San Francisco,19-02-2019,Inactive,Contract
+EMP0313,Anna Tran,54,Female,IT,Physiotherapist,Director,Los Angeles,26-10-2024,Active,Full-time
+EMP0314,Scott Munoz,51,Male,Finance,Physiotherapist,Entry,San Francisco,24-05-2021,Inactive,Contract
+EMP0315,Jonathan Vargas,31,Other,Marketing,Financial Analyst,Entry,Houston,23-12-2021,Active,Part-time
+EMP0316,Ashley Garcia,37,Other,Operations,Marine Scientist,Senior,Miami,08-07-2019,Inactive,Part-time
+EMP0317,Sabrina Villegas,29,Other,Operations,Physiotherapist,Director,Miami,11-10-2023,Active,Contract
+EMP0318,Robert Mccullough,41,Male,HR,Financial Analyst,Senior,New York,29-12-2018,Active,Intern
+EMP0319,James Ryan,55,Female,Marketing,Financial Analyst,Senior,Los Angeles,06-07-2021,Inactive,Full-time
+EMP0320,Mr. Bobby Golden,30,Other,HR,Physiotherapist,Director,Houston,19-03-2022,Active,Full-time
+EMP0321,Yvonne Dougherty,58,Female,Marketing,Data Analyst,Manager,Houston,12-08-2015,Active,Contract
+EMP0322,Brian Smith,52,Male,Marketing,Financial Analyst,Mid,Chicago,21-04-2015,Inactive,Part-time
+EMP0323,George King,44,Female,IT,Software Engineer,Director,Los Angeles,04-04-2017,Active,Contract
+EMP0324,David Ramirez,38,Male,Sales,Financial Analyst,Senior,Chicago,29-06-2019,Inactive,Part-time
+EMP0325,Kimberly Wright,42,Other,Operations,Physiotherapist,Director,Houston,13-11-2024,Inactive,Contract
+EMP0326,John Craig,47,Female,Sales,Financial Analyst,Manager,Miami,22-10-2019,Inactive,Part-time
+EMP0327,Jenna Morales PhD,34,Other,Operations,Marine Scientist,Manager,New York,23-10-2017,Active,Full-time
+EMP0328,Brenda Pearson,32,Other,Sales,HR Manager,Entry,Miami,14-11-2020,Inactive,Intern
+EMP0329,Kelly Johnson,26,Female,IT,Software Engineer,Mid,Los Angeles,28-01-2023,Inactive,Part-time
+EMP0330,Phillip Mata,60,Other,HR,Marine Scientist,Senior,Houston,08-06-2024,Inactive,Contract
+EMP0331,Jennifer Woods,42,Female,Sales,Data Analyst,Mid,Chicago,14-02-2018,Inactive,Contract
+EMP0332,Philip Logan,34,Female,IT,Marketing Executive,Director,Los Angeles,28-04-2023,Active,Full-time
+EMP0333,Sandy Duke,26,Other,HR,Financial Analyst,Senior,New York,09-05-2015,Active,Part-time
+EMP0334,Phillip Moses,28,Male,IT,Marketing Executive,Director,San Francisco,08-01-2018,Active,Part-time
+EMP0335,Jennifer Blake,42,Female,Marketing,HR Manager,Senior,Los Angeles,13-06-2018,Active,Part-time
+EMP0336,Dakota Gray,52,Other,IT,Project Manager,Director,New York,12-08-2021,Inactive,Intern
+EMP0337,Matthew Baxter,42,Female,Operations,Physiotherapist,Manager,Chicago,03-09-2019,Inactive,Part-time
+EMP0338,Nichole Wilson,45,Male,IT,Project Manager,Mid,San Francisco,19-03-2018,Active,Contract
+EMP0339,Linda Carter,30,Female,Operations,Project Manager,Director,New York,13-07-2015,Active,Full-time
+EMP0340,Maureen Stanley,26,Female,Finance,Marketing Executive,Mid,Houston,24-07-2024,Active,Full-time
+EMP0341,James Mullen,39,Other,Sales,Project Manager,Entry,Chicago,02-11-2016,Inactive,Contract
+EMP0342,Lindsey Osborne,56,Other,Sales,HR Manager,Senior,Houston,13-06-2024,Active,Contract
+EMP0343,Robert Anderson,48,Other,Operations,Marketing Executive,Senior,Houston,19-10-2022,Active,Part-time
+EMP0344,Anna Ward,30,Female,Finance,Financial Analyst,Director,San Francisco,24-08-2020,Inactive,Full-time
+EMP0345,William Mcdaniel,47,Male,Marketing,Financial Analyst,Entry,Chicago,02-12-2024,Inactive,Intern
+EMP0346,Julie Hernandez,57,Male,HR,Software Engineer,Senior,Los Angeles,23-10-2020,Active,Part-time
+EMP0347,Michael Collins,56,Other,Sales,Project Manager,Entry,Los Angeles,01-01-2023,Active,Contract
+EMP0348,Sandra Wright,50,Other,Operations,Software Engineer,Entry,San Francisco,28-07-2019,Active,Part-time
+EMP0349,Jennifer Johnson,27,Female,Sales,Financial Analyst,Senior,San Francisco,17-01-2023,Inactive,Contract
+EMP0350,Christopher Burke,59,Male,Marketing,Software Engineer,Mid,Chicago,19-04-2017,Inactive,Contract
+EMP0351,Philip Horne,33,Other,IT,Financial Analyst,Director,Los Angeles,22-05-2018,Inactive,Contract
+EMP0352,Phillip Coleman,50,Other,Operations,Marketing Executive,Senior,New York,14-12-2015,Active,Contract
+EMP0353,Gary Sanchez,43,Male,Sales,Marketing Executive,Senior,San Francisco,18-12-2020,Active,Full-time
+EMP0354,Kerry Schwartz,60,Male,Finance,HR Manager,Mid,New York,05-10-2015,Inactive,Full-time
+EMP0355,Scott Walls,28,Female,HR,Data Analyst,Senior,Miami,20-02-2016,Active,Intern
+EMP0356,Timothy Wagner,56,Male,IT,Financial Analyst,Manager,Chicago,31-07-2019,Inactive,Part-time
+EMP0357,Jennifer Villegas,45,Other,IT,Project Manager,Manager,Houston,12-01-2020,Inactive,Full-time
+EMP0358,Hector Franklin,55,Female,Sales,Software Engineer,Manager,Miami,28-10-2017,Active,Part-time
+EMP0359,Jeanette Russell,60,Female,Finance,Financial Analyst,Manager,Houston,11-12-2019,Active,Part-time
+EMP0360,Douglas Morgan,31,Female,Marketing,HR Manager,Director,Houston,06-04-2017,Inactive,Intern
+EMP0361,Mr. Steven Kelley,38,Male,IT,Software Engineer,Mid,Miami,13-02-2020,Inactive,Part-time
+EMP0362,Jonathan Kennedy,25,Other,Finance,Marketing Executive,Mid,Miami,21-03-2017,Inactive,Full-time
+EMP0363,Breanna Lutz,32,Female,IT,Data Analyst,Mid,Houston,11-09-2023,Active,Part-time
+EMP0364,Walter Morrison,53,Other,Marketing,HR Manager,Director,Miami,14-09-2015,Active,Contract
+EMP0365,Christopher Wong,55,Male,Finance,HR Manager,Senior,Los Angeles,10-01-2017,Inactive,Intern
+EMP0366,Stephen Blevins PhD,49,Female,Operations,Marine Scientist,Director,Chicago,26-04-2015,Active,Part-time
+EMP0367,Brian Jenkins,59,Male,HR,Financial Analyst,Entry,Los Angeles,11-10-2020,Inactive,Intern
+EMP0368,Jennifer Robinson,55,Other,HR,HR Manager,Mid,Miami,14-09-2015,Active,Intern
+EMP0369,Katelyn Salazar,54,Other,IT,Physiotherapist,Senior,Los Angeles,19-11-2020,Inactive,Intern
+EMP0370,April White,34,Other,Finance,Project Manager,Mid,Chicago,26-08-2019,Inactive,Part-time
+EMP0371,Zachary Zimmerman,58,Other,Marketing,Software Engineer,Entry,Houston,11-07-2023,Active,Intern
+EMP0372,Preston Martinez,39,Male,HR,Marine Scientist,Mid,Los Angeles,23-09-2024,Inactive,Part-time
+EMP0373,Calvin Maldonado,47,Male,IT,Software Engineer,Entry,Houston,25-07-2021,Active,Full-time
+EMP0374,Paul Lopez,23,Female,Operations,Marine Scientist,Mid,Los Angeles,15-11-2024,Active,Part-time
+EMP0375,Susan Phillips,33,Female,Sales,Marine Scientist,Senior,Los Angeles,03-12-2022,Active,Contract
+EMP0376,Shelly Lee,41,Other,Operations,HR Manager,Director,New York,20-04-2022,Inactive,Intern
+EMP0377,Derek Reed,57,Other,Marketing,Marine Scientist,Entry,New York,13-12-2017,Active,Part-time
+EMP0378,Jamie Williams,53,Male,Marketing,Financial Analyst,Manager,Miami,03-03-2023,Active,Contract
+EMP0379,Allen Hodges,32,Other,IT,Financial Analyst,Entry,Chicago,13-01-2025,Active,Part-time
+EMP0380,Spencer Garza,23,Male,Finance,HR Manager,Mid,Los Angeles,08-07-2021,Active,Intern
+EMP0381,Tom Perez,30,Other,Operations,Financial Analyst,Entry,San Francisco,03-11-2015,Inactive,Contract
+EMP0382,Marcus Robinson,29,Male,Sales,Physiotherapist,Director,San Francisco,03-10-2016,Active,Part-time
+EMP0383,Mary Hill,38,Other,Operations,Marine Scientist,Manager,New York,07-02-2023,Active,Part-time
+EMP0384,Gregory Davis,50,Male,HR,HR Manager,Manager,Miami,29-09-2020,Inactive,Part-time
+EMP0385,Andrew Martin,42,Other,Sales,Project Manager,Manager,Los Angeles,16-05-2015,Active,Full-time
+EMP0386,Dustin Welch,26,Male,Sales,Software Engineer,Manager,Los Angeles,08-04-2020,Active,Full-time
+EMP0387,Mr. Frank Jennings,52,Other,Finance,Physiotherapist,Senior,Chicago,03-02-2017,Active,Part-time
+EMP0388,Leslie Peters,46,Other,Operations,Project Manager,Entry,San Francisco,29-07-2016,Inactive,Contract
+EMP0389,Caitlin Barker,27,Male,Finance,Financial Analyst,Senior,New York,24-10-2015,Active,Intern
+EMP0390,Mark Miller,49,Male,Marketing,Data Analyst,Director,Miami,22-06-2023,Inactive,Part-time
+EMP0391,Jillian Garcia,51,Other,IT,Marine Scientist,Mid,Chicago,13-05-2019,Active,Part-time
+EMP0392,Robert Gonzalez,44,Female,IT,Software Engineer,Senior,Los Angeles,19-12-2024,Inactive,Full-time
+EMP0393,Henry Sweeney,51,Other,HR,Marketing Executive,Manager,Houston,17-04-2022,Inactive,Contract
+EMP0394,William Diaz,54,Male,HR,Software Engineer,Mid,Miami,28-07-2023,Inactive,Full-time
+EMP0395,Barbara Tanner,46,Male,Sales,Physiotherapist,Mid,San Francisco,30-06-2017,Inactive,Full-time
+EMP0396,Jenna Smith,36,Female,IT,Data Analyst,Entry,Houston,14-01-2018,Active,Intern
+EMP0397,Kayla Freeman,54,Male,Finance,Financial Analyst,Manager,Los Angeles,19-02-2022,Active,Part-time
+EMP0398,Robert Torres,23,Male,IT,Data Analyst,Entry,New York,25-02-2021,Inactive,Intern
+EMP0399,Justin Rodgers,28,Male,HR,Marine Scientist,Director,New York,04-03-2025,Active,Intern
+EMP0400,Judith Gonzalez,56,Other,IT,Marketing Executive,Senior,Miami,01-05-2024,Inactive,Part-time
+EMP0401,Autumn Armstrong,29,Female,Operations,Physiotherapist,Director,Los Angeles,03-06-2017,Inactive,Part-time
+EMP0402,Hannah Jones,54,Male,Finance,Marine Scientist,Manager,New York,14-09-2018,Active,Full-time
+EMP0403,Michael Bridges,37,Male,Sales,Software Engineer,Entry,Los Angeles,14-04-2018,Active,Intern
+EMP0404,Zachary Case,38,Other,Sales,HR Manager,Director,San Francisco,26-04-2023,Active,Full-time
+EMP0405,David Williams,39,Other,Finance,Project Manager,Mid,New York,31-12-2015,Inactive,Contract
+EMP0406,Heather Vincent,49,Male,IT,Financial Analyst,Director,San Francisco,09-03-2022,Active,Full-time
+EMP0407,Lisa Wolfe,49,Other,Finance,Data Analyst,Mid,Miami,20-02-2023,Active,Part-time
+EMP0408,Kelly Torres,26,Female,Sales,Marine Scientist,Senior,New York,10-02-2021,Active,Intern
+EMP0409,Jessica Lee,38,Male,IT,Software Engineer,Mid,San Francisco,14-03-2019,Inactive,Part-time
+EMP0410,Jimmy Johnson MD,27,Other,Sales,Data Analyst,Mid,Los Angeles,28-04-2022,Inactive,Contract
+EMP0411,Cody Young,36,Female,IT,Financial Analyst,Entry,Los Angeles,28-08-2018,Inactive,Part-time
+EMP0412,Jay Keith,42,Male,IT,Marketing Executive,Senior,San Francisco,14-04-2022,Inactive,Full-time
+EMP0413,Frances Bailey,45,Other,IT,Financial Analyst,Senior,New York,07-01-2019,Inactive,Part-time
+EMP0414,Scott Baker,34,Female,Sales,Project Manager,Entry,Los Angeles,21-07-2018,Inactive,Intern
+EMP0415,Christine Thompson,52,Female,HR,Data Analyst,Manager,San Francisco,08-10-2020,Active,Part-time
+EMP0416,Ricky Riley,51,Other,HR,Financial Analyst,Director,New York,02-06-2022,Inactive,Contract
+EMP0417,Caitlin Black,25,Female,HR,Financial Analyst,Manager,San Francisco,29-05-2023,Active,Full-time
+EMP0418,Julie Shaffer,54,Male,Operations,Data Analyst,Mid,Miami,23-06-2018,Active,Full-time
+EMP0419,Kristina Stewart,27,Male,Finance,Software Engineer,Director,Chicago,16-05-2018,Active,Contract
+EMP0420,Bradley Mcknight,58,Other,Sales,Marketing Executive,Manager,Chicago,07-07-2022,Active,Contract
+EMP0421,David Johnson,34,Other,Marketing,Financial Analyst,Senior,New York,23-05-2015,Active,Contract
+EMP0422,Angela Rowe,51,Female,Finance,Software Engineer,Director,San Francisco,01-08-2015,Inactive,Contract
+EMP0423,Lisa Jennings,41,Female,IT,Data Analyst,Senior,San Francisco,05-09-2020,Active,Full-time
+EMP0424,Daniel Kaufman,40,Female,Sales,Marketing Executive,Mid,Chicago,13-03-2015,Active,Full-time
+EMP0425,Lisa Schroeder,37,Male,Sales,Software Engineer,Manager,San Francisco,08-04-2017,Inactive,Intern
+EMP0426,Scott Williams,52,Other,Operations,HR Manager,Senior,Houston,01-11-2020,Active,Part-time
+EMP0427,Joseph Johnson,31,Male,Finance,Marketing Executive,Entry,Los Angeles,07-08-2015,Active,Contract
+EMP0428,Valerie Snyder,40,Female,Sales,Data Analyst,Senior,Chicago,23-08-2017,Inactive,Part-time
+EMP0429,Jennifer Anderson,36,Female,Marketing,Marine Scientist,Director,Chicago,04-09-2017,Active,Part-time
+EMP0430,Vicki Garner,32,Female,Marketing,Data Analyst,Senior,Los Angeles,21-05-2017,Active,Full-time
+EMP0431,Charles Taylor,48,Male,Marketing,Financial Analyst,Mid,San Francisco,26-12-2015,Active,Part-time
+EMP0432,Mackenzie Rodriguez,33,Other,Finance,Project Manager,Director,New York,21-10-2021,Active,Contract
+EMP0433,Eric Greene,45,Male,Operations,Data Analyst,Director,Houston,13-09-2023,Inactive,Full-time
+EMP0434,Nichole Bass,26,Male,Operations,Physiotherapist,Mid,Houston,08-08-2022,Inactive,Full-time
+EMP0435,Stacy House,52,Male,Marketing,HR Manager,Mid,New York,18-11-2016,Inactive,Part-time
+EMP0436,Jeff Smith,29,Female,Marketing,Project Manager,Mid,Miami,11-05-2022,Active,Intern
+EMP0437,Robert King,60,Other,Marketing,HR Manager,Mid,New York,16-06-2015,Inactive,Part-time
+EMP0438,Robert Gonzales,59,Other,Marketing,Financial Analyst,Mid,Los Angeles,24-03-2019,Inactive,Intern
+EMP0439,Kenneth Morgan,49,Female,Marketing,Data Analyst,Mid,Houston,28-08-2021,Active,Full-time
+EMP0440,Tamara Murphy,57,Male,Finance,HR Manager,Director,Chicago,07-08-2015,Active,Full-time
+EMP0441,Kristin Hughes,52,Female,Operations,Physiotherapist,Senior,San Francisco,06-11-2016,Inactive,Part-time
+EMP0442,Lori Rice,43,Other,Finance,Data Analyst,Senior,Miami,26-07-2017,Inactive,Part-time
+EMP0443,Dennis Smith,53,Female,Marketing,Physiotherapist,Manager,San Francisco,27-06-2023,Inactive,Contract
+EMP0444,Robert Smith,23,Female,Finance,Marketing Executive,Senior,Houston,12-08-2022,Active,Full-time
+EMP0445,Maurice Cox,49,Female,HR,HR Manager,Manager,San Francisco,12-08-2022,Active,Full-time
+EMP0446,Patrick Brown,54,Other,Finance,Data Analyst,Director,New York,05-10-2015,Active,Full-time
+EMP0447,Casey Gilmore,49,Female,Sales,Marketing Executive,Manager,New York,01-09-2018,Inactive,Contract
+EMP0448,Christopher Frey,31,Female,Marketing,Marketing Executive,Mid,Miami,05-05-2017,Inactive,Contract
+EMP0449,Jamie Wright,53,Male,IT,Marine Scientist,Entry,Los Angeles,20-10-2023,Active,Part-time
+EMP0450,Tony Parker,35,Male,IT,Project Manager,Entry,Miami,01-05-2023,Inactive,Intern
+EMP0451,Erika Reeves,44,Female,Operations,Physiotherapist,Mid,Houston,17-04-2018,Active,Full-time
+EMP0452,Judy Byrd,25,Male,Sales,Physiotherapist,Manager,Miami,16-03-2017,Active,Full-time
+EMP0453,Jerry Sanders,42,Female,Operations,Marine Scientist,Manager,Los Angeles,06-11-2017,Inactive,Full-time
+EMP0454,Craig Terrell,26,Other,Sales,Project Manager,Senior,Los Angeles,01-04-2023,Active,Part-time
+EMP0455,Juan Green,54,Male,IT,Financial Analyst,Manager,Los Angeles,20-11-2020,Active,Contract
+EMP0456,Michael George,38,Male,Operations,Marine Scientist,Entry,Miami,08-09-2015,Active,Part-time
+EMP0457,Lynn Williams,46,Female,Operations,Marine Scientist,Manager,Chicago,30-06-2019,Active,Full-time
+EMP0458,Stephanie Russo,51,Male,Marketing,Project Manager,Director,San Francisco,29-12-2020,Inactive,Full-time
+EMP0459,Matthew Jackson,40,Male,Finance,Software Engineer,Director,Chicago,22-11-2024,Active,Intern
+EMP0460,Donald Allen,54,Male,Marketing,Marketing Executive,Senior,San Francisco,11-05-2024,Active,Full-time
+EMP0461,Joshua Evans,41,Male,Marketing,HR Manager,Mid,Houston,15-06-2016,Active,Contract
+EMP0462,Jeremy Taylor,53,Other,Sales,Marketing Executive,Director,Chicago,12-04-2016,Active,Full-time
+EMP0463,Justin Tran,28,Female,HR,Software Engineer,Manager,Los Angeles,18-05-2019,Inactive,Part-time
+EMP0464,Mary Beck,34,Female,Finance,HR Manager,Director,Chicago,12-01-2024,Inactive,Contract
+EMP0465,Krystal Wheeler,34,Female,HR,Physiotherapist,Director,New York,17-05-2016,Inactive,Full-time
+EMP0466,Robin Wright,29,Male,Marketing,Project Manager,Mid,Chicago,07-03-2019,Active,Contract
+EMP0467,Paul Rush,60,Other,Sales,Software Engineer,Mid,Los Angeles,28-08-2017,Inactive,Intern
+EMP0468,Michele Rodriguez,34,Female,HR,HR Manager,Senior,Miami,25-06-2023,Active,Intern
+EMP0469,Jonathan Robinson,43,Other,Sales,Software Engineer,Entry,Houston,09-01-2017,Active,Full-time
+EMP0470,Calvin Bailey,22,Other,Sales,Marketing Executive,Director,Houston,06-03-2020,Inactive,Intern
+EMP0471,Mary Crawford,22,Male,HR,Data Analyst,Mid,Houston,21-05-2020,Inactive,Contract
+EMP0472,Tiffany Sanchez,36,Male,Finance,Data Analyst,Entry,Miami,24-11-2022,Active,Part-time
+EMP0473,Rebecca Jones,26,Male,HR,Physiotherapist,Manager,Chicago,14-12-2015,Inactive,Intern
+EMP0474,Mike Cuevas,22,Female,Finance,Project Manager,Director,Los Angeles,13-06-2021,Inactive,Contract
+EMP0475,Dylan Hansen,58,Other,Finance,Marine Scientist,Director,Miami,11-11-2022,Active,Intern
+EMP0476,Ariel Hunt,47,Other,Finance,Data Analyst,Senior,New York,11-06-2019,Active,Full-time
+EMP0477,Douglas Gomez,30,Other,Operations,Physiotherapist,Senior,Houston,21-10-2022,Active,Part-time
+EMP0478,Bryan Krause,53,Other,HR,Marketing Executive,Mid,Houston,08-07-2021,Active,Part-time
+EMP0479,Amanda Grimes,45,Other,HR,Software Engineer,Senior,San Francisco,26-03-2024,Inactive,Part-time
+EMP0480,Danny Lee,35,Other,HR,Project Manager,Manager,New York,08-01-2016,Inactive,Intern
+EMP0481,Monica Joyce DVM,35,Other,Operations,Data Analyst,Director,New York,18-11-2015,Inactive,Contract
+EMP0482,Brian Perez,24,Male,Sales,Software Engineer,Senior,Los Angeles,15-08-2016,Inactive,Contract
+EMP0483,Shannon Miller,29,Female,Operations,Marine Scientist,Senior,Houston,19-06-2020,Active,Intern
+EMP0484,Susan Harris,30,Male,Finance,Marine Scientist,Manager,Houston,21-07-2024,Active,Part-time
+EMP0485,Mr. Ronald Lopez MD,47,Other,Finance,Data Analyst,Senior,Miami,17-04-2016,Inactive,Intern
+EMP0486,Shannon Ramsey,38,Other,Finance,Financial Analyst,Senior,New York,08-09-2023,Inactive,Full-time
+EMP0487,Mitchell Holmes,35,Other,Sales,HR Manager,Manager,New York,19-09-2020,Inactive,Full-time
+EMP0488,Leslie Flowers,28,Male,Finance,Marketing Executive,Senior,Miami,04-06-2015,Active,Intern
+EMP0489,Charles Moore,47,Other,HR,Financial Analyst,Director,New York,16-10-2018,Inactive,Contract
+EMP0490,James Carey,35,Female,Finance,Financial Analyst,Director,Miami,09-12-2024,Active,Part-time
+EMP0491,David Villegas,49,Female,Marketing,Marketing Executive,Mid,Los Angeles,06-03-2018,Active,Part-time
+EMP0492,James Lowery,43,Other,HR,Financial Analyst,Director,New York,24-02-2025,Active,Intern
+EMP0493,Dylan Rios,33,Other,Sales,Project Manager,Entry,Miami,03-05-2015,Inactive,Intern
+EMP0494,Brooke King,30,Other,IT,Data Analyst,Director,Miami,27-06-2017,Inactive,Contract
+EMP0495,Derek Guzman,48,Female,HR,Marine Scientist,Entry,Houston,25-06-2021,Inactive,Full-time
+EMP0496,Elizabeth Hernandez,42,Male,IT,Data Analyst,Mid,Miami,07-12-2023,Active,Contract
+EMP0497,James Wells,43,Female,Finance,Data Analyst,Senior,Houston,30-07-2022,Active,Intern
+EMP0498,Erika Watkins,49,Male,Marketing,Financial Analyst,Mid,Chicago,01-06-2022,Active,Full-time
+EMP0499,Donald Hogan,42,Female,Operations,Marketing Executive,Mid,New York,06-08-2019,Active,Intern
+EMP0500,Douglas Ferguson,59,Male,Marketing,Marine Scientist,Mid,Houston,03-08-2022,Active,Intern
+EMP0501,Andrea Winters,57,Other,IT,Marine Scientist,Entry,Los Angeles,20-10-2023,Inactive,Part-time
+EMP0502,Tina Thompson,43,Other,Operations,Project Manager,Director,New York,29-11-2022,Active,Contract
+EMP0503,James Moore,56,Male,HR,Marine Scientist,Manager,San Francisco,01-01-2017,Active,Intern
+EMP0504,Jennifer Turner,27,Other,HR,HR Manager,Senior,Miami,25-07-2018,Active,Intern
+EMP0505,Morgan Green,53,Other,HR,Marketing Executive,Manager,Miami,07-08-2017,Inactive,Intern
+EMP0506,Rebecca Winters,34,Other,Operations,Marine Scientist,Manager,San Francisco,14-05-2023,Inactive,Intern
+EMP0507,Richard Sanchez,31,Other,Finance,Marketing Executive,Mid,Miami,25-07-2018,Active,Full-time
+EMP0508,William Spencer,29,Male,Sales,Marine Scientist,Senior,Los Angeles,22-12-2018,Active,Intern
+EMP0509,Christopher Mcconnell MD,24,Other,Operations,HR Manager,Manager,New York,26-08-2021,Inactive,Full-time
+EMP0510,Amy Casey,34,Male,Sales,Financial Analyst,Director,Los Angeles,03-12-2020,Active,Intern
+EMP0511,Crystal Coleman,59,Female,Sales,Marine Scientist,Manager,Miami,19-03-2017,Inactive,Contract
+EMP0512,Todd Barker,27,Male,IT,Project Manager,Senior,San Francisco,05-12-2021,Inactive,Full-time
+EMP0513,Cathy Hendricks,55,Male,HR,Financial Analyst,Mid,New York,06-10-2018,Active,Contract
+EMP0514,Molly Romero,51,Female,Operations,Marketing Executive,Senior,Houston,15-09-2018,Inactive,Intern
+EMP0515,Peter Wise,31,Male,IT,Software Engineer,Manager,Houston,16-10-2019,Inactive,Contract
+EMP0516,Joyce Reid,59,Female,Marketing,Project Manager,Manager,Houston,11-09-2024,Active,Full-time
+EMP0517,Carolyn Johnson,38,Male,Finance,Data Analyst,Director,New York,24-12-2017,Inactive,Part-time
+EMP0518,Ashley Hernandez,49,Female,HR,Marine Scientist,Manager,Los Angeles,24-09-2023,Inactive,Part-time
+EMP0519,Aaron Shaw,55,Male,Sales,Marine Scientist,Director,Chicago,01-04-2018,Inactive,Intern
+EMP0520,David Davis,48,Other,Finance,Marketing Executive,Manager,San Francisco,08-11-2023,Active,Full-time
+EMP0521,Christopher Williams,31,Other,HR,Software Engineer,Mid,San Francisco,02-04-2016,Inactive,Full-time
+EMP0522,Keith Wilson,22,Male,Finance,Project Manager,Mid,Chicago,03-03-2017,Inactive,Contract
+EMP0523,Gregory Mason,38,Female,Operations,Financial Analyst,Director,New York,13-07-2023,Active,Intern
+EMP0524,Kristopher Gonzales,41,Male,Marketing,Physiotherapist,Senior,San Francisco,03-11-2019,Active,Intern
+EMP0525,Laurie Robinson,38,Other,Finance,Data Analyst,Entry,New York,06-04-2015,Inactive,Part-time
+EMP0526,Gina Burns,36,Other,Marketing,Data Analyst,Director,Chicago,25-02-2024,Inactive,Contract
+EMP0527,Ethan Green,60,Female,HR,Marketing Executive,Mid,San Francisco,30-05-2020,Inactive,Contract
+EMP0528,Karen Valenzuela,33,Female,HR,Physiotherapist,Mid,New York,10-08-2018,Inactive,Intern
+EMP0529,Cassandra Mendoza,35,Male,IT,HR Manager,Entry,San Francisco,04-02-2020,Active,Contract
+EMP0530,Sharon Atkinson,55,Female,Sales,Project Manager,Mid,Los Angeles,07-01-2016,Active,Part-time
+EMP0531,Nicholas Bridges,28,Female,Operations,Financial Analyst,Entry,San Francisco,28-09-2022,Inactive,Intern
+EMP0532,Dr. Patricia Spencer,46,Male,Sales,Marine Scientist,Director,Houston,21-06-2024,Inactive,Full-time
+EMP0533,Denise Gonzalez,54,Female,Sales,Marketing Executive,Manager,San Francisco,27-06-2015,Inactive,Intern
+EMP0534,Cindy Smith,58,Male,Sales,HR Manager,Senior,New York,10-11-2020,Inactive,Full-time
+EMP0535,Brett Ortega,22,Male,IT,Marine Scientist,Mid,Houston,04-04-2015,Active,Intern
+EMP0536,Troy Parrish,58,Male,Operations,Marketing Executive,Entry,Miami,13-10-2024,Inactive,Part-time
+EMP0537,Nicholas Castro,51,Male,Finance,Financial Analyst,Manager,Miami,30-01-2017,Inactive,Full-time
+EMP0538,Robert Cook,40,Female,Operations,Project Manager,Director,Miami,05-12-2022,Active,Part-time
+EMP0539,Tammy Gonzalez,30,Male,Sales,Marine Scientist,Entry,San Francisco,01-09-2015,Inactive,Full-time
+EMP0540,Devin Lopez,41,Other,Sales,Physiotherapist,Manager,Miami,10-04-2015,Inactive,Intern
+EMP0541,Amy Garcia,27,Female,HR,Software Engineer,Director,Miami,30-04-2020,Inactive,Full-time
+EMP0542,Daniel Webb,22,Male,Marketing,Marine Scientist,Entry,San Francisco,11-11-2019,Inactive,Intern
+EMP0543,Joel Calderon DDS,23,Female,Marketing,Project Manager,Director,New York,18-04-2018,Inactive,Part-time
+EMP0544,Jordan Gray,23,Female,HR,Marketing Executive,Mid,Chicago,11-12-2022,Active,Part-time
+EMP0545,Ruth Buckley,51,Male,Finance,Software Engineer,Senior,Houston,31-01-2017,Active,Intern
+EMP0546,Aaron Mitchell,58,Other,Marketing,Physiotherapist,Manager,Miami,13-08-2017,Active,Full-time
+EMP0547,Donna White,53,Male,Marketing,Marine Scientist,Director,Miami,01-06-2024,Active,Contract
+EMP0548,Glenn Campbell,47,Other,Operations,Marine Scientist,Manager,New York,15-09-2019,Active,Part-time
+EMP0549,Garrett White,24,Other,Sales,Financial Analyst,Manager,Houston,03-01-2025,Active,Full-time
+EMP0550,Victoria Richardson,56,Female,HR,Project Manager,Director,Miami,03-10-2018,Inactive,Intern
+EMP0551,Joshua Ballard Jr.,33,Female,Finance,Project Manager,Director,Houston,02-09-2021,Active,Part-time
+EMP0552,Maria Hall MD,45,Male,Marketing,Marketing Executive,Manager,Los Angeles,10-05-2016,Active,Part-time
+EMP0553,Alejandro Santiago,52,Male,IT,Marketing Executive,Mid,Los Angeles,18-11-2023,Inactive,Part-time
+EMP0554,Shawn Miller,30,Other,Finance,Project Manager,Director,Los Angeles,30-06-2015,Active,Part-time
+EMP0555,John Aguilar,55,Female,HR,Data Analyst,Senior,Los Angeles,15-07-2017,Inactive,Part-time
+EMP0556,Nichole Watts,26,Female,HR,HR Manager,Entry,New York,01-08-2015,Inactive,Intern
+EMP0557,Mr. Scott Fleming III,39,Female,Marketing,Data Analyst,Mid,San Francisco,12-07-2022,Inactive,Part-time
+EMP0558,Heather Lee,42,Male,Operations,HR Manager,Manager,Miami,16-01-2022,Inactive,Contract
+EMP0559,Robert Mcdaniel,38,Other,IT,Software Engineer,Entry,Los Angeles,04-03-2018,Active,Contract
+EMP0560,Matthew Warner,52,Female,Sales,HR Manager,Senior,Chicago,19-05-2015,Active,Intern
+EMP0561,Kathryn Smith,38,Male,IT,HR Manager,Manager,Los Angeles,01-03-2020,Active,Part-time
+EMP0562,Alex Jordan,30,Female,Finance,Software Engineer,Director,San Francisco,25-06-2018,Active,Contract
+EMP0563,Melissa Thomas,52,Male,HR,Physiotherapist,Director,Houston,21-06-2019,Inactive,Contract
+EMP0564,Francisco Watkins,50,Male,Sales,Marine Scientist,Mid,San Francisco,12-06-2015,Active,Full-time
+EMP0565,Heather Sexton,33,Male,HR,Project Manager,Senior,Chicago,22-02-2022,Inactive,Intern
+EMP0566,Joseph Sherman,60,Other,Marketing,Financial Analyst,Director,Miami,07-09-2019,Inactive,Full-time
+EMP0567,Mrs. Charlotte Turner DDS,50,Male,Operations,Physiotherapist,Mid,Los Angeles,23-01-2016,Active,Full-time
+EMP0568,Heather Wilson,55,Female,Sales,Physiotherapist,Manager,Los Angeles,12-12-2015,Active,Part-time
+EMP0569,Deborah Williams,54,Female,Operations,Physiotherapist,Entry,San Francisco,01-11-2024,Inactive,Part-time
+EMP0570,Jacqueline Hughes,58,Other,Operations,Physiotherapist,Senior,San Francisco,08-09-2019,Inactive,Intern
+EMP0571,Natasha Neal,60,Male,IT,Financial Analyst,Entry,Los Angeles,28-12-2024,Inactive,Contract
+EMP0572,Hannah Norris,34,Other,Marketing,HR Manager,Mid,Houston,16-09-2019,Active,Intern
+EMP0573,Marc Brown,26,Male,Marketing,Marine Scientist,Director,Chicago,13-09-2016,Active,Contract
+EMP0574,Mary Horne,38,Other,Finance,Financial Analyst,Manager,Los Angeles,15-05-2023,Active,Full-time
+EMP0575,Lindsay Blanchard,45,Other,Operations,Financial Analyst,Entry,Miami,02-11-2022,Active,Intern
+EMP0576,Craig Riley,28,Female,IT,Marine Scientist,Director,Chicago,30-03-2020,Active,Full-time
+EMP0577,Cynthia Bird,31,Other,Finance,Financial Analyst,Director,Miami,14-01-2020,Active,Intern
+EMP0578,Katherine Garcia,56,Other,Finance,Financial Analyst,Mid,Chicago,21-04-2022,Inactive,Full-time
+EMP0579,David Weber,52,Male,Finance,Financial Analyst,Mid,Chicago,20-06-2018,Inactive,Full-time
+EMP0580,Danielle Smith,55,Female,Operations,Data Analyst,Mid,Miami,04-09-2023,Inactive,Intern
+EMP0581,Christopher Browning,37,Other,Sales,Project Manager,Entry,Los Angeles,07-10-2017,Inactive,Full-time
+EMP0582,Chase Glass,52,Female,Finance,Physiotherapist,Entry,Los Angeles,19-02-2022,Inactive,Contract
+EMP0583,Aaron Franklin,37,Male,Sales,Project Manager,Director,San Francisco,02-06-2021,Inactive,Contract
+EMP0584,Megan Ballard,32,Female,Finance,Software Engineer,Manager,Miami,19-02-2016,Inactive,Intern
+EMP0585,Tim Wilson,33,Other,Finance,Financial Analyst,Senior,Miami,05-09-2022,Inactive,Full-time
+EMP0586,Scott Velasquez,36,Other,IT,Software Engineer,Manager,Houston,06-07-2015,Active,Contract
+EMP0587,Gene Small,34,Male,HR,Marketing Executive,Senior,San Francisco,17-09-2021,Active,Full-time
+EMP0588,Gregory Spencer,22,Female,Finance,Financial Analyst,Manager,Los Angeles,11-03-2015,Inactive,Part-time
+EMP0589,Michelle Rodriguez,26,Female,HR,Software Engineer,Director,Miami,18-02-2023,Inactive,Part-time
+EMP0590,Jacqueline Ellis,24,Other,Marketing,Software Engineer,Senior,New York,09-12-2017,Inactive,Part-time
+EMP0591,Dawn Davis,23,Female,Sales,Project Manager,Mid,Miami,03-03-2016,Active,Full-time
+EMP0592,Melissa Gonzalez,40,Other,IT,Physiotherapist,Entry,New York,09-09-2018,Inactive,Part-time
+EMP0593,Troy Cervantes,24,Male,Operations,Marketing Executive,Manager,San Francisco,06-03-2016,Active,Contract
+EMP0594,Tammy Hart,34,Male,HR,Physiotherapist,Senior,Miami,27-11-2023,Active,Intern
+EMP0595,Gregory Daugherty,43,Male,IT,Data Analyst,Manager,Los Angeles,05-12-2022,Active,Full-time
+EMP0596,Travis Perry,36,Other,IT,Project Manager,Director,New York,16-08-2022,Active,Full-time
+EMP0597,Eric Coleman,31,Other,Finance,Financial Analyst,Senior,Los Angeles,29-11-2019,Active,Intern
+EMP0598,Joshua Smith,43,Other,HR,Software Engineer,Director,New York,05-11-2022,Inactive,Intern
+EMP0599,Sandra Chambers,41,Other,HR,Software Engineer,Senior,Chicago,02-03-2016,Inactive,Part-time
+EMP0600,Megan Richardson,25,Other,HR,Software Engineer,Director,Houston,25-10-2019,Inactive,Part-time
+EMP0601,Krystal Williamson,43,Male,Sales,Software Engineer,Director,Houston,11-05-2024,Active,Part-time
+EMP0602,Kimberly Parsons,57,Other,HR,Marketing Executive,Director,Miami,11-10-2022,Inactive,Part-time
+EMP0603,Kathryn Sanchez,54,Female,Sales,Marketing Executive,Entry,Chicago,01-12-2016,Active,Contract
+EMP0604,Tiffany Brewer,24,Other,Sales,Project Manager,Senior,Los Angeles,02-05-2016,Inactive,Part-time
+EMP0605,Anthony Martinez,24,Male,Finance,Marine Scientist,Manager,Houston,29-11-2022,Inactive,Part-time
+EMP0606,Thomas Anderson,42,Other,Operations,Physiotherapist,Manager,Chicago,25-11-2024,Active,Full-time
+EMP0607,Harold Richardson,42,Other,IT,Project Manager,Entry,Houston,22-12-2018,Inactive,Part-time
+EMP0608,Christina Brooks,60,Male,Marketing,Software Engineer,Senior,Houston,06-10-2019,Inactive,Part-time
+EMP0609,William Summers,48,Other,Operations,Project Manager,Mid,Houston,10-12-2022,Active,Intern
+EMP0610,David White,31,Other,Marketing,Software Engineer,Senior,San Francisco,07-01-2024,Active,Full-time
+EMP0611,Katie Gallagher,43,Female,Marketing,Physiotherapist,Manager,Chicago,29-06-2021,Inactive,Full-time
+EMP0612,Sherry Walters,35,Other,Finance,Project Manager,Mid,Chicago,23-03-2015,Inactive,Intern
+EMP0613,Daniel Martinez,34,Other,IT,Project Manager,Senior,San Francisco,10-03-2021,Inactive,Part-time
+EMP0614,Kimberly Collins,60,Male,IT,Marine Scientist,Entry,Los Angeles,02-07-2020,Inactive,Part-time
+EMP0615,Michael Ramirez,30,Female,Finance,HR Manager,Mid,Miami,08-09-2024,Active,Contract
+EMP0616,Donna Jacobson,45,Female,HR,Marine Scientist,Manager,Chicago,19-01-2021,Active,Full-time
+EMP0617,Raymond Foster,27,Other,IT,HR Manager,Senior,Miami,11-10-2022,Active,Full-time
+EMP0618,James Murphy,41,Male,Marketing,Project Manager,Entry,Miami,28-09-2021,Active,Intern
+EMP0619,John Lopez,56,Other,IT,Project Manager,Senior,Chicago,17-07-2019,Inactive,Intern
+EMP0620,Cathy Lowery,32,Female,Marketing,HR Manager,Senior,Los Angeles,17-01-2016,Active,Full-time
+EMP0621,Stacy Andrade,28,Female,Sales,Marketing Executive,Director,Chicago,02-06-2017,Inactive,Full-time
+EMP0622,Erica Gill,53,Other,HR,Financial Analyst,Manager,Chicago,14-04-2018,Active,Intern
+EMP0623,Marc Jones,60,Female,Finance,Marketing Executive,Senior,New York,01-12-2023,Inactive,Part-time
+EMP0624,Courtney Arias,54,Male,Operations,Physiotherapist,Mid,New York,16-02-2019,Inactive,Contract
+EMP0625,Kimberly Morales,31,Other,Operations,Financial Analyst,Mid,Los Angeles,23-08-2023,Inactive,Part-time
+EMP0626,Virginia Braun,32,Female,Finance,Marketing Executive,Director,Miami,20-06-2016,Active,Full-time
+EMP0627,Jane Meyers,52,Female,Marketing,Marketing Executive,Mid,Chicago,04-04-2017,Inactive,Part-time
+EMP0628,Dr. Nancy Gallegos,49,Female,Sales,HR Manager,Director,New York,06-04-2020,Inactive,Intern
+EMP0629,Christopher Patel,50,Other,IT,Project Manager,Senior,Chicago,17-09-2021,Active,Full-time
+EMP0630,Virginia Hodges,54,Other,Marketing,Financial Analyst,Senior,Miami,10-12-2022,Active,Contract
+EMP0631,Heidi Nicholson,37,Male,Sales,Physiotherapist,Mid,New York,25-03-2016,Active,Contract
+EMP0632,David Davis,52,Female,IT,Marketing Executive,Director,Miami,02-12-2021,Inactive,Part-time
+EMP0633,David Freeman,26,Other,HR,Physiotherapist,Senior,Los Angeles,10-05-2020,Inactive,Part-time
+EMP0634,David Wilson,32,Other,Finance,HR Manager,Senior,Miami,10-07-2021,Inactive,Full-time
+EMP0635,Kathryn Strong,35,Other,Operations,Physiotherapist,Mid,Chicago,10-12-2024,Active,Intern
+EMP0636,Carmen Castaneda,59,Female,Sales,Data Analyst,Senior,San Francisco,20-07-2023,Inactive,Contract
+EMP0637,Andrew Rodriguez,34,Other,Sales,Marketing Executive,Entry,San Francisco,25-12-2022,Inactive,Contract
+EMP0638,Luke Pittman,27,Female,Marketing,Marine Scientist,Entry,San Francisco,12-01-2024,Inactive,Part-time
+EMP0639,Ryan Marshall,33,Male,Marketing,Physiotherapist,Entry,San Francisco,06-02-2025,Active,Contract
+EMP0640,April Miller,37,Other,Operations,Project Manager,Manager,Miami,02-01-2016,Inactive,Full-time
+EMP0641,Michelle Williams,35,Female,IT,Project Manager,Senior,Miami,23-07-2021,Inactive,Full-time
+EMP0642,Jennifer Miller,50,Other,Sales,Physiotherapist,Senior,Chicago,04-01-2023,Active,Contract
+EMP0643,Laura Mcconnell,39,Female,Operations,HR Manager,Director,Chicago,18-07-2016,Active,Full-time
+EMP0644,William Harris,32,Male,Marketing,Project Manager,Manager,Chicago,04-10-2021,Active,Intern
+EMP0645,Emily Morris,29,Female,Sales,Financial Analyst,Senior,New York,01-03-2018,Inactive,Intern
+EMP0646,Patricia Ramsey,52,Other,HR,Physiotherapist,Senior,Miami,30-08-2016,Active,Part-time
+EMP0647,Gordon Schroeder,43,Male,Marketing,Marine Scientist,Entry,New York,13-08-2015,Inactive,Full-time
+EMP0648,Tricia Warner,25,Other,Marketing,Physiotherapist,Mid,San Francisco,12-03-2023,Active,Part-time
+EMP0649,Richard Moore,53,Female,Marketing,HR Manager,Entry,Houston,30-07-2022,Inactive,Intern
+EMP0650,Jason Henderson,59,Other,HR,HR Manager,Senior,Miami,04-04-2021,Active,Contract
+EMP0651,Michael Delacruz,57,Other,Finance,Software Engineer,Manager,San Francisco,08-12-2021,Active,Full-time
+EMP0652,Derek Jordan,38,Other,Operations,Marine Scientist,Mid,San Francisco,14-08-2023,Inactive,Part-time
+EMP0653,Tiffany Moran,51,Other,Operations,HR Manager,Manager,Miami,23-04-2017,Active,Part-time
+EMP0654,Billy Miller,30,Female,Operations,Physiotherapist,Director,San Francisco,14-01-2022,Active,Contract
+EMP0655,Laurie Kemp,45,Female,HR,Marine Scientist,Entry,Houston,19-11-2023,Inactive,Contract
+EMP0656,Matthew Ward,59,Other,Marketing,Data Analyst,Senior,New York,07-02-2018,Inactive,Contract
+EMP0657,James Monroe,46,Female,HR,Physiotherapist,Manager,New York,08-09-2023,Active,Full-time
+EMP0658,Paula Berg,50,Female,Finance,HR Manager,Entry,Miami,13-11-2023,Active,Contract
+EMP0659,Samantha Solomon,55,Other,Finance,Physiotherapist,Director,Chicago,22-07-2016,Active,Intern
+EMP0660,Phillip Meyer,25,Female,Finance,Marketing Executive,Mid,Los Angeles,06-05-2017,Active,Intern
+EMP0661,Richard Smith,51,Male,Sales,Data Analyst,Mid,Miami,18-12-2021,Inactive,Part-time
+EMP0662,Rhonda Romero,31,Male,Finance,Marketing Executive,Mid,Chicago,05-07-2019,Inactive,Part-time
+EMP0663,William Lang,33,Male,Marketing,HR Manager,Entry,Miami,07-09-2019,Inactive,Contract
+EMP0664,Shaun Goodman,32,Other,Operations,Financial Analyst,Manager,Chicago,19-08-2017,Inactive,Full-time
+EMP0665,Benjamin Brown,31,Female,Operations,Data Analyst,Senior,Miami,07-06-2021,Inactive,Intern
+EMP0666,Derek Foley,50,Other,IT,HR Manager,Manager,Houston,20-12-2016,Active,Intern
+EMP0667,Megan Mcmahon,31,Female,Sales,HR Manager,Senior,Los Angeles,19-12-2024,Inactive,Part-time
+EMP0668,Brandon Peterson,49,Female,Operations,Physiotherapist,Mid,Miami,22-08-2018,Active,Contract
+EMP0669,Daniel Garner,40,Female,Sales,Marine Scientist,Manager,Miami,20-08-2017,Inactive,Part-time
+EMP0670,Jason Wallace,57,Other,IT,Financial Analyst,Entry,Los Angeles,31-10-2019,Inactive,Contract
+EMP0671,Derrick Davis,56,Male,Marketing,Physiotherapist,Manager,Chicago,24-07-2024,Active,Contract
+EMP0672,Rhonda Wise,57,Other,Sales,Physiotherapist,Manager,Los Angeles,14-04-2021,Inactive,Full-time
+EMP0673,Shawn Hall,23,Female,HR,HR Manager,Entry,San Francisco,22-02-2016,Active,Part-time
+EMP0674,Michael Hernandez,27,Female,Sales,Physiotherapist,Senior,Chicago,21-04-2019,Active,Full-time
+EMP0675,Andrew Roach,56,Female,IT,Marine Scientist,Senior,Chicago,12-11-2024,Active,Full-time
+EMP0676,Heather Rios,37,Male,Finance,Marine Scientist,Director,Chicago,20-05-2021,Inactive,Intern
+EMP0677,Christina Webb,43,Female,Finance,Software Engineer,Mid,Los Angeles,12-03-2018,Inactive,Contract
+EMP0678,Randall Gardner,37,Other,Marketing,Marketing Executive,Entry,Chicago,13-08-2018,Inactive,Full-time
+EMP0679,David Schwartz,35,Male,IT,HR Manager,Manager,Los Angeles,01-03-2023,Inactive,Intern
+EMP0680,Brian Smith,34,Male,Sales,Data Analyst,Mid,Los Angeles,14-01-2020,Active,Full-time
+EMP0681,Daniel Perkins,53,Other,Marketing,Financial Analyst,Director,Chicago,11-09-2021,Active,Full-time
+EMP0682,Linda Cummings,45,Other,Finance,Marketing Executive,Manager,New York,28-01-2023,Active,Full-time
+EMP0683,Kayla Smith,36,Other,Marketing,HR Manager,Entry,Chicago,27-02-2017,Active,Intern
+EMP0684,Tiffany Rodriguez,47,Female,Marketing,Physiotherapist,Entry,Chicago,28-06-2017,Active,Part-time
+EMP0685,Amber Morris,37,Other,Marketing,Marine Scientist,Manager,Miami,23-07-2017,Active,Part-time
+EMP0686,Kathy Tucker,54,Male,Marketing,Project Manager,Senior,Houston,14-06-2022,Active,Part-time
+EMP0687,Kimberly Williams,48,Female,Sales,Marketing Executive,Director,Houston,09-07-2020,Active,Part-time
+EMP0688,Donald Burns,26,Male,HR,Financial Analyst,Entry,Houston,14-06-2017,Inactive,Intern
+EMP0689,Becky Thompson,31,Male,IT,Data Analyst,Entry,Los Angeles,03-10-2017,Active,Full-time
+EMP0690,Megan Cooper,30,Male,Finance,Physiotherapist,Manager,Miami,17-03-2021,Active,Intern
+EMP0691,Sarah Moore,22,Male,Finance,Project Manager,Mid,Chicago,26-08-2023,Active,Contract
+EMP0692,Jessica Gilbert,40,Male,Operations,Financial Analyst,Entry,Chicago,05-05-2020,Inactive,Intern
+EMP0693,Jodi Horn,24,Male,Operations,Financial Analyst,Director,Los Angeles,20-03-2017,Inactive,Contract
+EMP0694,Lisa Barajas,57,Male,HR,Data Analyst,Entry,Houston,13-11-2019,Inactive,Full-time
+EMP0695,Robert Fernandez,40,Male,Marketing,Marketing Executive,Director,San Francisco,15-01-2016,Inactive,Intern
+EMP0696,Allison Brady,52,Male,Marketing,Physiotherapist,Director,Houston,03-11-2017,Active,Full-time
+EMP0697,Ashley Ellis,33,Other,Marketing,Financial Analyst,Director,Chicago,05-04-2023,Inactive,Intern
+EMP0698,Angela Peterson,25,Male,Marketing,Project Manager,Director,Houston,28-04-2017,Inactive,Contract
+EMP0699,Anthony Garcia,49,Other,Finance,Data Analyst,Entry,Chicago,06-07-2024,Inactive,Contract
+EMP0700,Jessica Perry,50,Other,Operations,Marketing Executive,Director,San Francisco,08-11-2022,Inactive,Part-time
+EMP0701,Rachael Sanders,25,Other,Operations,HR Manager,Manager,San Francisco,11-10-2018,Active,Intern
+EMP0702,Taylor Reyes,31,Other,IT,Financial Analyst,Entry,San Francisco,17-04-2015,Active,Full-time
+EMP0703,George Carter,28,Female,IT,Marine Scientist,Senior,Miami,09-08-2023,Inactive,Part-time
+EMP0704,Karen Foster,51,Other,HR,HR Manager,Manager,San Francisco,22-07-2022,Active,Part-time
+EMP0705,Shane Jones,25,Female,IT,Financial Analyst,Senior,New York,11-03-2020,Inactive,Part-time
+EMP0706,Angelica Ward,41,Other,Operations,Software Engineer,Senior,Los Angeles,09-01-2025,Active,Contract
+EMP0707,Cassie Ford MD,42,Other,HR,Project Manager,Manager,New York,08-10-2020,Active,Contract
+EMP0708,Raymond May,50,Other,HR,Marketing Executive,Entry,New York,06-01-2017,Active,Contract
+EMP0709,Gerald Bentley,51,Other,Operations,Data Analyst,Manager,San Francisco,21-10-2022,Active,Intern
+EMP0710,Mary Avery,49,Other,Finance,Physiotherapist,Manager,Houston,22-07-2016,Active,Full-time
+EMP0711,David Fuller,23,Female,HR,Marine Scientist,Manager,Houston,08-02-2017,Inactive,Part-time
+EMP0712,Jeffrey Crawford,54,Other,IT,Software Engineer,Entry,San Francisco,26-07-2016,Inactive,Intern
+EMP0713,Catherine Ortiz,41,Male,IT,Data Analyst,Mid,Los Angeles,25-05-2015,Inactive,Contract
+EMP0714,Jeremy Watkins,43,Male,Operations,Marine Scientist,Manager,San Francisco,28-09-2022,Active,Full-time
+EMP0715,Robert Smith,22,Male,IT,Financial Analyst,Mid,Chicago,29-06-2016,Inactive,Intern
+EMP0716,Bryan Jackson,32,Male,HR,Financial Analyst,Mid,San Francisco,27-07-2023,Active,Part-time
+EMP0717,Erika Salas,47,Male,Operations,HR Manager,Mid,Chicago,08-07-2016,Inactive,Contract
+EMP0718,Jillian Andrews,58,Male,Operations,Project Manager,Director,San Francisco,18-08-2024,Active,Contract
+EMP0719,William Neal,46,Female,HR,Marine Scientist,Manager,New York,31-08-2024,Inactive,Contract
+EMP0720,Christine Foster,28,Female,Marketing,Project Manager,Senior,New York,22-03-2017,Active,Part-time
+EMP0721,Sarah Chang,22,Female,HR,Software Engineer,Senior,Los Angeles,04-04-2022,Active,Full-time
+EMP0722,Ashley Moore,58,Female,Operations,Software Engineer,Manager,Miami,18-06-2017,Inactive,Contract
+EMP0723,Arthur Hunt,37,Other,Marketing,Marketing Executive,Senior,San Francisco,30-07-2022,Active,Part-time
+EMP0724,Amanda Knight,49,Female,HR,Marketing Executive,Director,Houston,28-02-2019,Active,Full-time
+EMP0725,Kelly Owens,27,Male,Sales,Data Analyst,Director,Houston,05-04-2023,Inactive,Contract
+EMP0726,Angel Howard,33,Male,Marketing,Software Engineer,Manager,Miami,12-06-2019,Inactive,Intern
+EMP0727,Jay Ramirez,57,Male,Finance,Financial Analyst,Entry,New York,20-07-2019,Active,Intern
+EMP0728,Chase Price,51,Other,Marketing,Marketing Executive,Manager,Los Angeles,30-03-2021,Inactive,Intern
+EMP0729,Stephen Hayes,60,Other,Marketing,Financial Analyst,Senior,Houston,22-04-2016,Inactive,Contract
+EMP0730,Kyle Galvan,47,Male,Operations,HR Manager,Entry,Los Angeles,09-11-2016,Active,Part-time
+EMP0731,Joshua Sparks,45,Male,HR,HR Manager,Mid,New York,17-01-2018,Active,Part-time
+EMP0732,Jennifer Martinez,32,Other,Sales,Project Manager,Entry,New York,23-09-2020,Active,Intern
+EMP0733,James Lloyd,26,Other,Sales,Marine Scientist,Director,Miami,11-06-2018,Inactive,Part-time
+EMP0734,Megan Warren,38,Other,Finance,Physiotherapist,Director,Houston,27-12-2022,Active,Full-time
+EMP0735,Sherry Ashley,38,Other,Operations,Project Manager,Entry,Los Angeles,02-05-2021,Active,Part-time
+EMP0736,Deborah Kelly,59,Female,Finance,Software Engineer,Manager,Houston,15-08-2019,Active,Part-time
+EMP0737,Jason Waters,53,Male,Sales,Marine Scientist,Manager,Houston,22-09-2018,Inactive,Part-time
+EMP0738,Mary Coleman,57,Male,IT,Data Analyst,Entry,New York,18-03-2017,Inactive,Full-time
+EMP0739,Cynthia Haynes,23,Other,Sales,Project Manager,Entry,Los Angeles,07-01-2021,Active,Intern
+EMP0740,David Anderson,40,Other,Operations,Software Engineer,Entry,Chicago,27-06-2018,Active,Intern
+EMP0741,Francisco Booth,48,Female,Sales,Marketing Executive,Senior,Los Angeles,30-04-2021,Inactive,Part-time
+EMP0742,Tiffany Bailey,26,Other,HR,Marine Scientist,Mid,Houston,14-06-2019,Inactive,Full-time
+EMP0743,Maureen Gay,54,Other,Operations,Marine Scientist,Entry,Chicago,23-02-2017,Inactive,Part-time
+EMP0744,Alexandra White,36,Male,IT,HR Manager,Manager,Houston,03-05-2017,Active,Intern
+EMP0745,Eric Garcia,38,Female,Sales,Marketing Executive,Senior,Houston,24-02-2025,Active,Contract
+EMP0746,Alicia Morris,25,Male,Operations,Financial Analyst,Manager,New York,06-03-2021,Active,Contract
+EMP0747,Richard Nguyen,35,Male,HR,HR Manager,Senior,Chicago,19-02-2025,Inactive,Intern
+EMP0748,Megan Taylor,57,Male,Sales,Physiotherapist,Mid,Miami,26-10-2024,Inactive,Contract
+EMP0749,Dawn Bowman,24,Male,Operations,Marine Scientist,Manager,Houston,09-10-2017,Active,Intern
+EMP0750,Henry King,59,Female,Operations,Financial Analyst,Director,Houston,09-08-2019,Active,Part-time
+EMP0751,Mr. Alan Thompson,28,Male,Sales,Software Engineer,Entry,New York,03-12-2019,Inactive,Full-time
+EMP0752,Christopher Vazquez,43,Female,Marketing,Data Analyst,Entry,New York,07-05-2015,Inactive,Contract
+EMP0753,Mark Cooper,23,Female,IT,Physiotherapist,Senior,Chicago,22-04-2019,Inactive,Intern
+EMP0754,Donald Cross,23,Female,Sales,Data Analyst,Entry,Houston,16-05-2024,Active,Intern
+EMP0755,Gabriel Wilson,56,Male,Operations,HR Manager,Mid,New York,18-08-2015,Active,Part-time
+EMP0756,Joshua Walton,23,Female,IT,Marketing Executive,Director,Houston,19-07-2018,Inactive,Part-time
+EMP0757,Ashley Taylor,60,Female,IT,Software Engineer,Senior,Chicago,03-01-2024,Active,Part-time
+EMP0758,Michael Ochoa,46,Other,HR,HR Manager,Manager,New York,17-06-2018,Inactive,Contract
+EMP0759,Dustin Perez,42,Other,Sales,Marine Scientist,Manager,Miami,06-11-2015,Active,Intern
+EMP0760,Meredith Simmons,49,Other,HR,Physiotherapist,Mid,Chicago,30-12-2015,Active,Part-time
+EMP0761,Douglas Jimenez,47,Other,IT,Data Analyst,Manager,San Francisco,03-07-2019,Active,Full-time
+EMP0762,Eric Price,39,Other,Finance,HR Manager,Mid,Houston,27-08-2018,Active,Full-time
+EMP0763,John Smith,56,Male,Marketing,Data Analyst,Manager,Los Angeles,12-10-2024,Inactive,Full-time
+EMP0764,Thomas Cooke,51,Male,Finance,Physiotherapist,Senior,Chicago,22-03-2024,Inactive,Part-time
+EMP0765,Melissa Fisher,23,Female,Marketing,HR Manager,Mid,Los Angeles,29-06-2019,Inactive,Part-time
+EMP0766,Tyler Thomas,24,Male,Operations,HR Manager,Director,Houston,30-01-2016,Active,Full-time
+EMP0767,Lauren Chavez DVM,47,Male,IT,Data Analyst,Senior,New York,12-02-2017,Active,Contract
+EMP0768,Andrew Lewis DDS,47,Female,HR,Marketing Executive,Manager,Miami,07-06-2021,Inactive,Contract
+EMP0769,Amanda Sullivan,50,Other,Sales,Project Manager,Entry,Chicago,13-02-2016,Inactive,Contract
+EMP0770,Laura Nguyen,46,Female,HR,Financial Analyst,Director,San Francisco,17-05-2024,Active,Intern
+EMP0771,Sarah Guzman DDS,32,Male,Marketing,Software Engineer,Director,San Francisco,04-12-2021,Active,Contract
+EMP0772,Linda Hudson,45,Other,IT,Software Engineer,Senior,New York,07-05-2022,Active,Full-time
+EMP0773,Lori Villa,40,Other,IT,Physiotherapist,Mid,New York,10-03-2024,Inactive,Part-time
+EMP0774,Jerry Elliott,44,Female,Sales,Marine Scientist,Mid,Houston,14-11-2023,Inactive,Intern
+EMP0775,James Tucker,47,Female,IT,Marine Scientist,Director,San Francisco,07-08-2015,Active,Full-time
+EMP0776,Robert Medina,29,Female,Operations,Marketing Executive,Director,Los Angeles,28-08-2018,Inactive,Intern
+EMP0777,David Cook,57,Male,Sales,Financial Analyst,Senior,San Francisco,31-07-2022,Inactive,Part-time
+EMP0778,Kristin Andrade,59,Male,Sales,Physiotherapist,Manager,Los Angeles,01-01-2017,Inactive,Intern
+EMP0779,Samantha Davis,50,Female,Sales,HR Manager,Director,Chicago,14-11-2020,Active,Part-time
+EMP0780,Erica Dunn,24,Male,Marketing,Project Manager,Director,Los Angeles,09-09-2017,Inactive,Part-time
+EMP0781,Ms. Tara Mann,42,Female,IT,Marine Scientist,Mid,Chicago,09-11-2017,Inactive,Contract
+EMP0782,Sue Elliott,57,Male,Finance,Software Engineer,Entry,New York,04-07-2019,Active,Part-time
+EMP0783,Lori Henry,55,Other,Operations,Data Analyst,Mid,Los Angeles,30-05-2023,Inactive,Contract
+EMP0784,Tony Thomas,28,Other,Sales,Data Analyst,Entry,San Francisco,13-08-2022,Inactive,Part-time
+EMP0785,Mary Peterson,25,Female,HR,Financial Analyst,Director,Houston,24-04-2024,Active,Part-time
+EMP0786,Yolanda Yates,50,Male,IT,Marine Scientist,Manager,New York,26-01-2018,Active,Part-time
+EMP0787,April Stevens,47,Male,Operations,Software Engineer,Manager,New York,25-05-2019,Active,Contract
+EMP0788,Kelly Sutton,45,Female,Marketing,HR Manager,Senior,Miami,14-10-2024,Inactive,Part-time
+EMP0789,William Green,22,Female,Operations,Financial Analyst,Manager,San Francisco,15-11-2023,Active,Contract
+EMP0790,Erin Mckenzie,41,Female,HR,Financial Analyst,Senior,Chicago,23-10-2015,Active,Full-time
+EMP0791,Jeffrey Johnson,53,Other,Operations,Software Engineer,Director,Los Angeles,17-08-2021,Inactive,Contract
+EMP0792,Lori Scott,42,Other,Operations,Marketing Executive,Mid,Chicago,05-04-2024,Inactive,Full-time
+EMP0793,Miranda Mason,50,Other,HR,Project Manager,Director,Miami,06-11-2017,Active,Part-time
+EMP0794,Jermaine Thomas,29,Female,HR,Marine Scientist,Entry,Miami,11-09-2023,Inactive,Part-time
+EMP0795,Edward Alvarez,37,Other,HR,Marine Scientist,Mid,Chicago,31-01-2018,Active,Intern
+EMP0796,Noah Martin,35,Other,HR,Financial Analyst,Senior,San Francisco,04-04-2023,Inactive,Full-time
+EMP0797,Christopher Ayala,24,Male,Sales,Software Engineer,Manager,San Francisco,04-12-2018,Active,Intern
+EMP0798,Katherine Zimmerman,23,Female,Sales,Marketing Executive,Entry,New York,28-01-2019,Active,Full-time
+EMP0799,David Wood,55,Other,Finance,Software Engineer,Director,Los Angeles,11-07-2017,Active,Part-time
+EMP0800,Joshua Reese,26,Female,HR,Data Analyst,Senior,Chicago,07-04-2023,Active,Contract
+EMP0801,John Johnson,41,Male,IT,HR Manager,Director,New York,08-10-2023,Inactive,Part-time
+EMP0802,Robert Bryant,47,Other,Marketing,Physiotherapist,Mid,New York,23-05-2024,Active,Intern
+EMP0803,Ronald Hester,42,Female,Finance,Marine Scientist,Manager,Chicago,01-07-2017,Active,Full-time
+EMP0804,Jennifer Hammond,28,Other,IT,Software Engineer,Director,Los Angeles,18-09-2015,Inactive,Part-time
+EMP0805,Lisa Heath,22,Male,Marketing,Project Manager,Director,Chicago,08-01-2025,Inactive,Full-time
+EMP0806,Susan Mendoza,54,Other,Operations,Software Engineer,Mid,New York,22-10-2023,Inactive,Part-time
+EMP0807,Brenda Oneill,22,Female,HR,HR Manager,Manager,Los Angeles,24-04-2018,Inactive,Contract
+EMP0808,Andrew Patterson,53,Female,Marketing,Marketing Executive,Manager,San Francisco,27-11-2023,Inactive,Contract
+EMP0809,Dean Lopez,26,Other,Finance,HR Manager,Director,New York,15-06-2021,Inactive,Part-time
+EMP0810,Amy Hamilton,47,Other,Sales,HR Manager,Mid,Los Angeles,17-01-2023,Active,Full-time
+EMP0811,Shaun Burns,60,Other,HR,Marine Scientist,Mid,New York,24-03-2015,Active,Full-time
+EMP0812,James Wilson,29,Male,Finance,Physiotherapist,Manager,San Francisco,25-10-2024,Active,Intern
+EMP0813,Chelsea Smith,35,Female,Sales,Software Engineer,Mid,Miami,29-01-2021,Active,Full-time
+EMP0814,James Barry,52,Other,Finance,Software Engineer,Mid,San Francisco,05-10-2017,Active,Intern
+EMP0815,Daniel Clark,45,Male,Operations,Marketing Executive,Senior,Miami,02-04-2020,Active,Full-time
+EMP0816,Christy Martinez,40,Other,IT,Physiotherapist,Senior,Chicago,02-02-2025,Active,Intern
+EMP0817,Taylor Baird,23,Other,IT,HR Manager,Senior,Los Angeles,12-02-2020,Inactive,Intern
+EMP0818,Stephanie Ibarra,23,Female,Marketing,Project Manager,Entry,Los Angeles,11-11-2015,Inactive,Intern
+EMP0819,Jacob Gutierrez,52,Other,Sales,Physiotherapist,Senior,San Francisco,11-02-2017,Active,Part-time
+EMP0820,Kelly Cooper,58,Female,Sales,Software Engineer,Entry,Chicago,26-09-2016,Active,Intern
+EMP0821,Tracy Jones,58,Male,Sales,Physiotherapist,Entry,Los Angeles,16-04-2019,Inactive,Intern
+EMP0822,Devon Williams,56,Female,Marketing,Marketing Executive,Mid,San Francisco,02-01-2021,Active,Contract
+EMP0823,Jesus Smith,31,Male,Operations,Marketing Executive,Senior,New York,30-09-2015,Active,Full-time
+EMP0824,Joel Ward,27,Male,Sales,Project Manager,Manager,Chicago,25-02-2018,Inactive,Full-time
+EMP0825,Valerie Simmons,38,Other,HR,Data Analyst,Senior,Chicago,16-09-2017,Active,Part-time
+EMP0826,Nicole Holmes,50,Other,Marketing,Marketing Executive,Director,San Francisco,26-03-2021,Inactive,Contract
+EMP0827,Jessica Christian MD,58,Female,Sales,Data Analyst,Entry,San Francisco,18-11-2024,Active,Full-time
+EMP0828,Melanie Hudson,43,Female,Finance,Data Analyst,Entry,Miami,14-02-2020,Inactive,Intern
+EMP0829,Lisa Thompson,57,Male,Sales,Marine Scientist,Entry,Los Angeles,25-08-2021,Active,Contract
+EMP0830,Debra Daniels,56,Female,Finance,Physiotherapist,Senior,New York,11-04-2018,Inactive,Part-time
+EMP0831,Brooke Morgan,26,Female,Marketing,HR Manager,Senior,New York,11-05-2020,Inactive,Intern
+EMP0832,Colleen Wu,57,Male,HR,HR Manager,Mid,New York,23-01-2022,Active,Intern
+EMP0833,Michael Harrington,39,Female,Finance,Software Engineer,Entry,San Francisco,03-01-2016,Inactive,Intern
+EMP0834,Erica Ward,54,Male,HR,Marketing Executive,Mid,Chicago,18-03-2023,Active,Intern
+EMP0835,Tony Walton,28,Other,Marketing,Marine Scientist,Entry,New York,23-07-2015,Active,Full-time
+EMP0836,Garrett Willis,40,Other,Marketing,Data Analyst,Manager,New York,30-07-2017,Inactive,Intern
+EMP0837,Lauren Garcia,36,Other,Marketing,Marketing Executive,Mid,Miami,10-05-2024,Active,Intern
+EMP0838,Jeremy Haas,44,Other,HR,Project Manager,Senior,New York,25-09-2017,Inactive,Contract
+EMP0839,Theresa Ayers,54,Other,Marketing,Software Engineer,Manager,Miami,28-05-2016,Active,Full-time
+EMP0840,Stephanie Thomas,25,Female,Finance,Marine Scientist,Mid,Chicago,02-01-2016,Inactive,Part-time
+EMP0841,Melinda Williams,42,Female,HR,Marketing Executive,Mid,Los Angeles,03-12-2021,Inactive,Part-time
+EMP0842,Justin Molina,29,Female,Finance,Software Engineer,Manager,New York,06-05-2020,Active,Part-time
+EMP0843,Stephen Harvey,30,Female,HR,Financial Analyst,Entry,Chicago,14-08-2018,Active,Part-time
+EMP0844,Holly Stewart,25,Female,IT,Project Manager,Entry,San Francisco,16-02-2019,Inactive,Contract
+EMP0845,Reginald Madden,34,Other,Sales,Software Engineer,Senior,Houston,08-04-2017,Active,Full-time
+EMP0846,Alisha Edwards,35,Male,IT,Marine Scientist,Manager,San Francisco,31-10-2024,Inactive,Contract
+EMP0847,Christopher Rivera,57,Male,Finance,Financial Analyst,Manager,Houston,01-08-2023,Active,Intern
+EMP0848,Laura Mack,27,Other,IT,Software Engineer,Senior,San Francisco,14-10-2016,Inactive,Intern
+EMP0849,Nicholas Graham,35,Male,Operations,Financial Analyst,Manager,Miami,31-07-2022,Inactive,Contract
+EMP0850,Eddie Powell,39,Female,Marketing,Physiotherapist,Mid,New York,22-04-2020,Active,Part-time
+EMP0851,Benjamin Savage,29,Female,Finance,Physiotherapist,Mid,New York,15-12-2022,Active,Intern
+EMP0852,Robert Davis,59,Other,IT,Marine Scientist,Manager,Houston,18-05-2015,Active,Part-time
+EMP0853,Sheila Santiago,45,Male,Marketing,Financial Analyst,Entry,Los Angeles,16-02-2020,Active,Part-time
+EMP0854,Jacob Booker,53,Other,HR,Physiotherapist,Mid,Miami,18-09-2022,Inactive,Contract
+EMP0855,Joshua Page,26,Other,Finance,Marketing Executive,Senior,San Francisco,13-08-2019,Active,Full-time
+EMP0856,Timothy Stevenson,41,Other,Finance,Marketing Executive,Director,New York,07-01-2016,Inactive,Contract
+EMP0857,Jessica Gutierrez,37,Female,HR,Software Engineer,Manager,New York,06-07-2024,Inactive,Full-time
+EMP0858,Helen Greene,43,Other,Sales,Financial Analyst,Entry,Miami,13-09-2018,Inactive,Intern
+EMP0859,Jill Hill,50,Other,IT,Data Analyst,Manager,Miami,17-12-2022,Active,Contract
+EMP0860,Jenna Martinez,48,Other,Sales,Financial Analyst,Director,Chicago,03-09-2017,Inactive,Intern
+EMP0861,Timothy Bailey,36,Male,Finance,Financial Analyst,Senior,New York,05-05-2020,Inactive,Intern
+EMP0862,Mario Robles,27,Other,Sales,Physiotherapist,Senior,Chicago,08-09-2016,Active,Full-time
+EMP0863,Christopher Brown,52,Male,Finance,Data Analyst,Mid,Miami,11-03-2023,Inactive,Intern
+EMP0864,Kurt Gibbs,57,Male,Marketing,Marketing Executive,Mid,Los Angeles,18-09-2017,Active,Intern
+EMP0865,Douglas Douglas,35,Female,Marketing,HR Manager,Director,Chicago,28-09-2024,Active,Contract
+EMP0866,Todd Freeman,49,Female,HR,Project Manager,Entry,Miami,05-08-2019,Inactive,Intern
+EMP0867,Andrea Lee,23,Male,Sales,Project Manager,Entry,Chicago,19-12-2018,Inactive,Part-time
+EMP0868,Juan Mccarty,45,Male,Sales,Marketing Executive,Mid,San Francisco,24-04-2020,Inactive,Intern
+EMP0869,Bryan Brown,31,Other,Operations,Software Engineer,Entry,Chicago,20-03-2023,Inactive,Full-time
+EMP0870,Michael Mills,46,Female,IT,Project Manager,Manager,Houston,22-12-2016,Active,Intern
+EMP0871,Brandon Lopez,54,Other,IT,Marketing Executive,Mid,Chicago,01-01-2022,Active,Full-time
+EMP0872,Mr. Jason Miller Jr.,26,Female,Marketing,Project Manager,Senior,Chicago,04-12-2022,Inactive,Contract
+EMP0873,Omar Bowen,59,Female,IT,Software Engineer,Senior,Houston,18-04-2020,Active,Part-time
+EMP0874,Richard Stafford,43,Other,Operations,Physiotherapist,Mid,Los Angeles,13-04-2024,Inactive,Intern
+EMP0875,Andrew Mcknight,30,Other,IT,Marketing Executive,Director,San Francisco,10-02-2025,Active,Full-time
+EMP0876,John Wilkerson,44,Other,Sales,Software Engineer,Entry,Miami,28-06-2015,Active,Full-time
+EMP0877,Michelle Lindsey,56,Male,Sales,Marketing Executive,Entry,Houston,07-08-2017,Active,Full-time
+EMP0878,Nicholas Green,35,Female,HR,Software Engineer,Director,San Francisco,07-11-2024,Inactive,Part-time
+EMP0879,Christopher Gamble,24,Other,HR,HR Manager,Manager,Chicago,18-07-2016,Active,Intern
+EMP0880,Sean Gonzalez,29,Male,Operations,Marine Scientist,Mid,Miami,07-10-2021,Active,Intern
+EMP0881,Kathleen Robertson,54,Male,HR,HR Manager,Entry,Miami,21-08-2021,Active,Part-time
+EMP0882,Brian Lloyd,60,Other,HR,HR Manager,Mid,Chicago,12-05-2022,Inactive,Full-time
+EMP0883,Anthony Robertson,32,Male,IT,Marine Scientist,Entry,Chicago,11-09-2023,Inactive,Contract
+EMP0884,Kari Elliott,57,Female,IT,Marketing Executive,Director,Miami,02-12-2021,Inactive,Full-time
+EMP0885,Susan Mayo,47,Female,Finance,HR Manager,Mid,San Francisco,03-08-2024,Active,Part-time
+EMP0886,Victoria Holland,46,Male,Finance,Software Engineer,Entry,Miami,14-11-2015,Active,Contract
+EMP0887,Daniel Bishop,49,Female,Operations,Financial Analyst,Entry,Chicago,19-05-2016,Active,Contract
+EMP0888,Leslie Freeman,40,Female,Finance,Marketing Executive,Entry,New York,28-01-2020,Active,Contract
+EMP0889,Lindsay Scott,56,Female,Sales,Marine Scientist,Director,Miami,30-03-2016,Inactive,Intern
+EMP0890,Jessica Williamson,54,Male,IT,Software Engineer,Director,Los Angeles,15-07-2016,Active,Intern
+EMP0891,Benjamin Ross,45,Male,Marketing,Project Manager,Senior,Miami,01-12-2020,Active,Full-time
+EMP0892,Jacqueline Bell,43,Male,IT,Financial Analyst,Senior,San Francisco,11-12-2018,Inactive,Contract
+EMP0893,Rebecca Carroll,58,Female,Operations,Software Engineer,Director,Miami,22-06-2016,Active,Contract
+EMP0894,Kaylee White,48,Male,Finance,Physiotherapist,Entry,Los Angeles,05-10-2018,Inactive,Part-time
+EMP0895,Mr. Robert Becker,41,Female,Operations,Marketing Executive,Senior,Miami,05-08-2021,Active,Intern
+EMP0896,Christopher Williams,47,Female,Sales,HR Manager,Mid,Los Angeles,29-03-2018,Inactive,Full-time
+EMP0897,Joann Vargas,32,Male,Sales,HR Manager,Director,New York,17-01-2025,Active,Contract
+EMP0898,William Snow,40,Female,Operations,Financial Analyst,Director,New York,26-08-2023,Active,Part-time
+EMP0899,Michelle Huber,27,Male,Sales,HR Manager,Director,Houston,30-12-2024,Active,Full-time
+EMP0900,Jason Gibbs,33,Female,HR,Marine Scientist,Manager,San Francisco,30-07-2024,Inactive,Contract
+EMP0901,Cynthia Shaffer,25,Other,Finance,HR Manager,Senior,San Francisco,30-03-2022,Inactive,Intern
+EMP0902,Aaron Jenkins,23,Female,Sales,HR Manager,Entry,San Francisco,13-04-2017,Active,Part-time
+EMP0903,Shawn Shaw,25,Male,Operations,Financial Analyst,Mid,Los Angeles,23-12-2017,Inactive,Contract
+EMP0904,Christy George,38,Male,Finance,Marine Scientist,Director,Los Angeles,28-04-2023,Active,Contract
+EMP0905,Clifford Davis,30,Male,HR,HR Manager,Mid,Miami,24-01-2018,Inactive,Contract
+EMP0906,Mary Petersen,59,Female,IT,Physiotherapist,Director,Miami,13-06-2023,Active,Part-time
+EMP0907,Audrey Smith,25,Male,Sales,Project Manager,Manager,Houston,10-07-2022,Active,Full-time
+EMP0908,Amanda Jones,57,Male,Operations,Marine Scientist,Manager,Miami,08-10-2019,Active,Full-time
+EMP0909,Yolanda Edwards,47,Male,Finance,Financial Analyst,Director,Los Angeles,26-09-2021,Active,Full-time
+EMP0910,Jason Price,34,Other,Operations,Software Engineer,Senior,Houston,26-05-2019,Inactive,Intern
+EMP0911,Benjamin Serrano,54,Other,HR,Marketing Executive,Director,San Francisco,08-10-2015,Inactive,Full-time
+EMP0912,Michael Ramsey,46,Male,HR,Software Engineer,Senior,Miami,14-02-2023,Inactive,Full-time
+EMP0913,Michael Garza DDS,34,Male,Marketing,Software Engineer,Senior,New York,16-06-2016,Active,Full-time
+EMP0914,Amy Woodard,57,Male,HR,Marketing Executive,Senior,Los Angeles,12-09-2017,Inactive,Full-time
+EMP0915,John Bauer,29,Male,Sales,Data Analyst,Mid,New York,09-09-2018,Inactive,Contract
+EMP0916,Matthew West,37,Male,Operations,Financial Analyst,Mid,Houston,26-09-2017,Active,Intern
+EMP0917,Karen Sanders,31,Other,Operations,Project Manager,Mid,Chicago,19-08-2015,Inactive,Part-time
+EMP0918,Cathy Jordan,57,Other,Operations,Data Analyst,Director,Miami,09-02-2021,Inactive,Contract
+EMP0919,Amanda Pace,26,Other,Marketing,Project Manager,Mid,Houston,16-09-2017,Active,Intern
+EMP0920,Kaitlin Morris,45,Male,Marketing,Financial Analyst,Entry,Chicago,27-03-2017,Active,Contract
+EMP0921,George Ross,47,Male,Finance,Financial Analyst,Senior,Los Angeles,25-01-2017,Inactive,Full-time
+EMP0922,Andrew James DVM,34,Female,Operations,Marketing Executive,Senior,New York,04-04-2016,Active,Contract
+EMP0923,Adam Lucas,35,Other,Sales,HR Manager,Director,San Francisco,25-07-2021,Inactive,Contract
+EMP0924,Katherine Mcgee,51,Other,Finance,Marketing Executive,Director,Miami,12-06-2018,Inactive,Full-time
+EMP0925,Anthony Garcia,37,Male,HR,Financial Analyst,Entry,San Francisco,14-02-2023,Inactive,Full-time
+EMP0926,James Cervantes,57,Male,Marketing,Project Manager,Director,Houston,01-03-2022,Active,Part-time
+EMP0927,Rachel Hubbard,31,Female,Operations,Financial Analyst,Director,Chicago,08-06-2019,Active,Part-time
+EMP0928,John Johnson,44,Female,HR,Marketing Executive,Director,Houston,22-06-2021,Active,Intern
+EMP0929,Michelle Bray,42,Male,Operations,HR Manager,Manager,Miami,25-07-2016,Inactive,Intern
+EMP0930,Jennifer Smith,53,Female,Marketing,Software Engineer,Director,Miami,19-12-2022,Inactive,Contract
+EMP0931,Randall Norton,50,Male,Finance,Financial Analyst,Senior,Chicago,26-05-2016,Inactive,Intern
+EMP0932,Linda Brown,24,Other,IT,Marketing Executive,Manager,Miami,20-07-2021,Active,Contract
+EMP0933,Cindy Cabrera,36,Male,Finance,Financial Analyst,Senior,Los Angeles,09-08-2024,Active,Part-time
+EMP0934,Lisa Nelson,48,Male,IT,Financial Analyst,Entry,Miami,18-07-2015,Inactive,Full-time
+EMP0935,James Jones,56,Female,Marketing,Marine Scientist,Manager,Chicago,06-11-2021,Inactive,Part-time
+EMP0936,Justin Freeman,44,Other,Marketing,Data Analyst,Director,Los Angeles,02-04-2018,Inactive,Part-time
+EMP0937,Lydia Lane,39,Male,Marketing,HR Manager,Mid,Houston,17-10-2016,Active,Contract
+EMP0938,Jessica Cantu,36,Male,Marketing,Project Manager,Mid,San Francisco,02-04-2016,Inactive,Intern
+EMP0939,Erika Robinson,56,Male,HR,Marine Scientist,Entry,New York,15-09-2021,Active,Full-time
+EMP0940,Andrew Hall,31,Other,HR,HR Manager,Mid,Los Angeles,12-02-2024,Inactive,Part-time
+EMP0941,Andrew Rodriguez,42,Other,IT,HR Manager,Senior,Los Angeles,06-11-2015,Active,Part-time
+EMP0942,Raven Wood,57,Other,Marketing,Marketing Executive,Manager,Miami,02-04-2016,Inactive,Intern
+EMP0943,Lisa Fischer,55,Other,HR,Marine Scientist,Mid,Houston,06-10-2018,Inactive,Part-time
+EMP0944,Brenda Wu,46,Other,Sales,Marine Scientist,Entry,San Francisco,02-12-2020,Inactive,Full-time
+EMP0945,Gabriel Young,45,Female,HR,Project Manager,Manager,New York,10-01-2023,Active,Part-time
+EMP0946,Lindsay Hines,27,Other,Finance,Marine Scientist,Manager,Los Angeles,26-06-2015,Active,Contract
+EMP0947,Charles Sanchez,36,Other,Finance,Marine Scientist,Senior,Chicago,30-10-2018,Inactive,Part-time
+EMP0948,Lisa Shelton,46,Male,HR,Data Analyst,Manager,Los Angeles,20-09-2021,Inactive,Full-time
+EMP0949,Michael Clark,38,Male,Operations,Software Engineer,Entry,Houston,13-12-2021,Active,Full-time
+EMP0950,Adam Green,39,Other,Sales,Project Manager,Director,Miami,08-07-2021,Inactive,Intern
+EMP0951,Thomas Wilson,60,Female,IT,Marketing Executive,Senior,Chicago,21-10-2021,Inactive,Intern
+EMP0952,Rebecca Costa,30,Other,Finance,Physiotherapist,Director,Los Angeles,13-04-2017,Active,Contract
+EMP0953,Billy Diaz,54,Other,Operations,Data Analyst,Director,Chicago,27-06-2016,Inactive,Contract
+EMP0954,Jonathan Johnson,39,Female,IT,HR Manager,Mid,Houston,28-04-2020,Inactive,Full-time
+EMP0955,Melanie Stevenson,39,Female,Sales,Financial Analyst,Manager,New York,27-12-2020,Inactive,Intern
+EMP0956,Monica Farley,50,Other,Finance,Financial Analyst,Mid,Houston,12-07-2021,Active,Contract
+EMP0957,Donald Stewart,39,Other,IT,Financial Analyst,Director,Chicago,08-06-2023,Inactive,Part-time
+EMP0958,Jessica Larson,29,Other,Sales,Financial Analyst,Senior,Houston,15-03-2023,Inactive,Contract
+EMP0959,Timothy Wallace Jr.,47,Other,IT,Marketing Executive,Director,Los Angeles,15-03-2017,Active,Contract
+EMP0960,Jessica Richardson,48,Other,Marketing,HR Manager,Entry,San Francisco,08-08-2015,Active,Intern
+EMP0961,Michael Lopez DDS,41,Male,Marketing,Marine Scientist,Manager,Houston,30-04-2022,Inactive,Full-time
+EMP0962,Caroline Johnson,42,Male,IT,Financial Analyst,Mid,Miami,13-05-2015,Active,Contract
+EMP0963,Sonya Morris,38,Male,Finance,Financial Analyst,Mid,Houston,24-04-2018,Inactive,Contract
+EMP0964,Timothy Neal,44,Female,Operations,Marketing Executive,Mid,Los Angeles,07-01-2021,Active,Part-time
+EMP0965,Clarence Santiago,42,Other,HR,Marketing Executive,Director,Houston,18-05-2016,Inactive,Full-time
+EMP0966,Nathan Garcia,33,Female,Operations,Physiotherapist,Manager,Los Angeles,08-09-2015,Active,Intern
+EMP0967,Timothy Esparza,38,Male,Sales,Financial Analyst,Mid,San Francisco,08-10-2019,Active,Intern
+EMP0968,Marilyn Campos,42,Other,Finance,Project Manager,Manager,Miami,15-05-2022,Active,Contract
+EMP0969,Amber Hodges,27,Female,Sales,Marine Scientist,Entry,Miami,05-07-2024,Inactive,Intern
+EMP0970,Jack Fitzgerald,42,Other,Marketing,Marketing Executive,Entry,Houston,19-03-2016,Inactive,Full-time
+EMP0971,Charles Rodriguez,39,Female,Sales,Marine Scientist,Director,Chicago,12-12-2022,Inactive,Contract
+EMP0972,Jeremy Castaneda MD,41,Female,IT,Financial Analyst,Manager,Chicago,27-03-2020,Inactive,Full-time
+EMP0973,Warren Hahn,35,Female,Sales,Financial Analyst,Entry,San Francisco,02-06-2018,Active,Intern
+EMP0974,Kathleen Garrison,45,Other,Sales,HR Manager,Mid,Chicago,24-10-2019,Inactive,Intern
+EMP0975,Hannah Farmer,55,Male,Marketing,Project Manager,Entry,Houston,19-07-2019,Inactive,Contract
+EMP0976,Brenda Wu,34,Male,Marketing,Software Engineer,Manager,Chicago,05-12-2023,Inactive,Part-time
+EMP0977,Ann Wright,49,Female,Marketing,Marketing Executive,Manager,Chicago,01-12-2023,Inactive,Contract
+EMP0978,Sharon Henderson,49,Female,Operations,Financial Analyst,Manager,San Francisco,15-07-2024,Active,Part-time
+EMP0979,Matthew Smith,57,Female,Operations,Software Engineer,Senior,Los Angeles,03-01-2019,Inactive,Part-time
+EMP0980,Juan Johnson,60,Female,Finance,Financial Analyst,Director,San Francisco,24-11-2017,Active,Intern
+EMP0981,Ricky Anderson,47,Female,Marketing,Software Engineer,Entry,Miami,27-12-2016,Active,Contract
+EMP0982,Lorraine Hunt,54,Female,Finance,Marine Scientist,Mid,Chicago,29-06-2018,Active,Full-time
+EMP0983,Dustin Johnson,57,Male,Operations,Marine Scientist,Senior,Chicago,14-08-2023,Inactive,Intern
+EMP0984,Adam Stephens,22,Female,Marketing,Project Manager,Manager,San Francisco,25-09-2021,Inactive,Part-time
+EMP0985,Michele Gonzalez,44,Female,Marketing,Marine Scientist,Senior,New York,19-12-2023,Inactive,Contract
+EMP0986,Richard Holden,48,Other,IT,Marketing Executive,Manager,San Francisco,22-12-2019,Active,Full-time
+EMP0987,Maxwell Hernandez,44,Female,Finance,Marketing Executive,Entry,New York,24-06-2023,Active,Full-time
+EMP0988,Jennifer Ramirez,27,Male,Marketing,Physiotherapist,Manager,Houston,27-01-2021,Inactive,Part-time
+EMP0989,Vanessa Walker,58,Other,Operations,Marine Scientist,Manager,San Francisco,04-08-2020,Active,Part-time
+EMP0990,Taylor Lee,30,Female,Finance,HR Manager,Entry,San Francisco,24-12-2016,Inactive,Intern
+EMP0991,Diane Christian,30,Female,Finance,Marketing Executive,Manager,San Francisco,16-07-2015,Active,Contract
+EMP0992,Courtney Mccullough,36,Female,Sales,Marine Scientist,Entry,San Francisco,12-01-2019,Inactive,Contract
+EMP0993,Willie Washington,57,Female,Marketing,Marketing Executive,Entry,Miami,13-05-2021,Active,Intern
+EMP0994,Paul Brooks,33,Female,Operations,Physiotherapist,Senior,Chicago,28-04-2017,Active,Contract
+EMP0995,Benjamin Bell,58,Female,IT,Physiotherapist,Mid,Los Angeles,08-07-2015,Inactive,Contract
+EMP0996,Gabriel Olsen,40,Other,Finance,Data Analyst,Entry,San Francisco,16-06-2017,Active,Full-time
+EMP0997,Robert Harris,54,Other,Finance,Software Engineer,Entry,New York,06-06-2017,Inactive,Full-time
+EMP0998,Gary Collins,52,Male,HR,Physiotherapist,Senior,Houston,12-03-2019,Inactive,Contract
+EMP0999,Joshua Herring,59,Female,IT,Physiotherapist,Mid,Houston,13-02-2022,Active,Intern
+EMP1000,Pamela Reyes,54,Other,HR,Physiotherapist,Mid,Miami,06-12-2018,Active,Contract
+EMP1001,Daniel Lopez,33,Male,Finance,Marketing Executive,Senior,New York,03-06-2015,Inactive,Contract
+EMP1002,Jonathan Sherman,41,Female,Finance,Marketing Executive,Director,Chicago,13-03-2020,Inactive,Full-time
+EMP1003,Denise Jackson,51,Other,Operations,Project Manager,Senior,Houston,18-05-2021,Inactive,Full-time
+EMP1004,Erin Coleman,24,Other,Marketing,Software Engineer,Manager,Los Angeles,02-08-2017,Inactive,Part-time
+EMP1005,Ryan Garcia,41,Other,Operations,Data Analyst,Manager,Chicago,09-12-2021,Active,Full-time
+EMP1006,Derrick Foley,39,Female,Finance,Data Analyst,Director,Chicago,02-02-2020,Active,Intern
+EMP1007,Lisa Stevens,38,Male,Finance,Marketing Executive,Director,Miami,14-01-2020,Active,Intern
+EMP1008,Ashley Benjamin,49,Male,Operations,Financial Analyst,Manager,New York,17-06-2022,Inactive,Contract
+EMP1009,John Leonard,43,Other,Finance,Marine Scientist,Manager,Chicago,04-08-2016,Inactive,Full-time
+EMP1010,Robert Hoffman,38,Male,IT,Physiotherapist,Manager,Miami,31-08-2016,Active,Full-time
+EMP1011,Tonya Morales,52,Other,Marketing,Project Manager,Entry,San Francisco,06-10-2021,Active,Part-time
+EMP1012,Stephanie Lewis,53,Male,IT,Marketing Executive,Manager,Los Angeles,22-09-2015,Inactive,Intern
+EMP1013,Maxwell Fletcher,37,Female,Marketing,Marine Scientist,Director,Los Angeles,03-11-2021,Active,Intern
+EMP1014,Amanda Vargas,32,Other,Marketing,Software Engineer,Mid,Chicago,01-11-2020,Inactive,Contract
+EMP1015,Kimberly Burton,34,Female,Operations,Data Analyst,Manager,Los Angeles,24-05-2024,Active,Contract
+EMP1016,Amy Simpson,56,Female,IT,Software Engineer,Entry,San Francisco,29-12-2023,Inactive,Contract
+EMP1017,Richard Maxwell,56,Female,Marketing,HR Manager,Mid,New York,29-12-2015,Inactive,Part-time
+EMP1018,Anna Padilla,51,Male,IT,Financial Analyst,Senior,Los Angeles,31-07-2020,Inactive,Part-time
+EMP1019,Kimberly Mitchell,57,Male,Sales,Marine Scientist,Entry,Houston,04-11-2023,Inactive,Contract
+EMP1020,Thomas Andrews,58,Female,IT,Software Engineer,Mid,Chicago,01-01-2021,Inactive,Part-time
+EMP1021,Karen Rice,54,Female,Finance,Project Manager,Director,Houston,30-09-2017,Inactive,Full-time
+EMP1022,Nicholas Sullivan,45,Female,Finance,Financial Analyst,Director,Chicago,17-08-2023,Inactive,Part-time
+EMP1023,Frank Smith,45,Other,IT,HR Manager,Senior,Chicago,30-08-2022,Inactive,Part-time
+EMP1024,Carlos Black,51,Other,IT,HR Manager,Manager,New York,24-07-2024,Active,Part-time
+EMP1025,Miguel King,30,Male,Finance,Physiotherapist,Director,New York,31-07-2022,Active,Full-time
+EMP1026,Brandon Kennedy,54,Male,Finance,Data Analyst,Senior,New York,04-03-2022,Inactive,Contract
+EMP1027,Kimberly Pena,34,Female,Sales,Project Manager,Senior,Chicago,04-11-2016,Active,Intern
+EMP1028,Daniel Dickerson,32,Other,Sales,Marketing Executive,Mid,New York,07-04-2018,Inactive,Part-time
+EMP1029,Gregory Sims,55,Other,IT,Marketing Executive,Entry,New York,26-12-2016,Active,Intern
+EMP1030,Victor Ayers,58,Other,Finance,HR Manager,Mid,Houston,05-08-2024,Inactive,Part-time
+EMP1031,Stanley Mccullough,40,Other,HR,Marine Scientist,Mid,Miami,11-11-2016,Active,Intern
+EMP1032,James Phillips,41,Male,Finance,Marine Scientist,Manager,New York,24-06-2018,Active,Full-time
+EMP1033,Norma Melton,35,Other,Finance,Physiotherapist,Manager,Chicago,02-10-2021,Inactive,Part-time
+EMP1034,Stephen Dyer,44,Male,Sales,Marine Scientist,Manager,Chicago,17-03-2017,Active,Full-time
+EMP1035,Rhonda Wood,52,Male,Marketing,Software Engineer,Entry,San Francisco,08-07-2020,Active,Contract
+EMP1036,Arthur Bowman,32,Other,Operations,Financial Analyst,Manager,Miami,18-07-2021,Active,Part-time
+EMP1037,Mr. Jeffrey Brown MD,59,Female,Sales,Marketing Executive,Mid,Houston,11-04-2021,Inactive,Full-time
+EMP1038,Kristina Carrillo,55,Other,Finance,Physiotherapist,Manager,Miami,19-01-2017,Inactive,Intern
+EMP1039,Kimberly Little,56,Other,HR,Marine Scientist,Director,New York,19-04-2020,Inactive,Intern
+EMP1040,Tanner Ortiz,32,Other,Sales,HR Manager,Director,New York,28-02-2024,Active,Contract
+EMP1041,Darrell Davies,34,Other,Operations,Physiotherapist,Senior,Miami,31-10-2024,Inactive,Intern
+EMP1042,Thomas Cunningham,22,Other,IT,Software Engineer,Manager,Los Angeles,17-03-2016,Active,Contract
+EMP1043,Christina Wallace,39,Male,HR,HR Manager,Mid,Chicago,11-08-2024,Active,Contract
+EMP1044,Kevin Fisher Jr.,43,Female,Sales,Project Manager,Manager,Miami,05-10-2021,Inactive,Intern
+EMP1045,Mr. Sean Navarro DDS,32,Other,HR,Data Analyst,Manager,Houston,25-10-2015,Active,Full-time
+EMP1046,Kenneth Robertson,49,Female,HR,Software Engineer,Director,Chicago,22-12-2024,Active,Intern
+EMP1047,Reginald Ford,23,Female,Operations,Marine Scientist,Senior,Miami,11-08-2019,Inactive,Full-time
+EMP1048,Jeffrey Wong,40,Female,IT,Data Analyst,Manager,Houston,15-11-2022,Inactive,Full-time
+EMP1049,Christopher Lozano,24,Male,Marketing,Marine Scientist,Mid,New York,23-06-2020,Active,Part-time
+EMP1050,David Cobb,43,Other,Finance,Software Engineer,Manager,San Francisco,13-04-2023,Active,Full-time
+EMP1051,Victoria Schroeder,43,Other,Operations,Financial Analyst,Senior,Chicago,12-11-2017,Active,Part-time
+EMP1052,Mark Gentry,35,Other,Finance,HR Manager,Entry,New York,26-09-2021,Active,Part-time
+EMP1053,Kayla Scott,42,Male,Sales,HR Manager,Senior,Los Angeles,26-12-2015,Inactive,Full-time
+EMP1054,Dawn Banks,60,Male,Sales,Data Analyst,Mid,Chicago,25-06-2017,Active,Full-time
+EMP1055,Jose Johnson,33,Male,Finance,Software Engineer,Director,Chicago,08-02-2021,Inactive,Contract
+EMP1056,Gary Lee,34,Male,Operations,HR Manager,Mid,New York,27-09-2020,Inactive,Contract
+EMP1057,Chad Hernandez,58,Female,IT,Financial Analyst,Senior,Houston,15-06-2019,Active,Part-time
+EMP1058,Mr. James Johnson,55,Male,Sales,Marine Scientist,Manager,New York,28-02-2017,Inactive,Intern
+EMP1059,Leonard Williams,57,Other,Operations,Project Manager,Senior,Miami,04-11-2020,Inactive,Part-time
+EMP1060,Andrea Moreno,52,Male,Operations,Project Manager,Entry,Los Angeles,14-09-2016,Active,Contract
+EMP1061,Latoya Johnson,30,Male,Operations,Marine Scientist,Manager,San Francisco,19-02-2020,Active,Full-time
+EMP1062,Jade Henderson,23,Female,Finance,Project Manager,Director,Chicago,21-02-2022,Active,Full-time
+EMP1063,Teresa Smith,58,Female,Sales,Marketing Executive,Director,Chicago,17-04-2020,Active,Intern
+EMP1064,Harry Miller DDS,34,Female,Finance,Software Engineer,Manager,Chicago,26-11-2021,Active,Part-time
+EMP1065,Jason Delgado,54,Other,IT,Software Engineer,Entry,Houston,18-10-2019,Active,Full-time
+EMP1066,Sue Lindsey,50,Male,Marketing,Data Analyst,Entry,Chicago,16-10-2018,Active,Part-time
+EMP1067,Christine Kim,46,Male,Operations,Data Analyst,Manager,Chicago,09-05-2022,Active,Part-time
+EMP1068,Daniel Jackson,32,Male,Finance,Project Manager,Senior,Miami,23-02-2016,Inactive,Part-time
+EMP1069,Justin Pruitt,54,Male,Operations,Physiotherapist,Entry,San Francisco,11-01-2019,Active,Intern
+EMP1070,Ashley Green,43,Male,HR,Data Analyst,Entry,Houston,01-08-2024,Active,Intern
+EMP1071,Ruth Arnold,30,Female,HR,Marine Scientist,Director,Chicago,27-08-2024,Active,Full-time
+EMP1072,Robert Weber,50,Male,IT,Marketing Executive,Manager,Miami,26-09-2015,Inactive,Part-time
+EMP1073,Charles Garner,32,Other,Sales,HR Manager,Director,New York,16-07-2024,Active,Contract
+EMP1074,Jeremy Mayer,53,Male,Sales,Physiotherapist,Director,Houston,08-05-2018,Inactive,Full-time
+EMP1075,Kristin Perez,47,Male,Marketing,Marketing Executive,Entry,Chicago,29-10-2019,Active,Part-time
+EMP1076,Joshua Phillips,49,Male,Finance,Project Manager,Senior,Los Angeles,17-04-2022,Active,Contract
+EMP1077,Alexander Luna,25,Male,HR,Project Manager,Senior,Miami,23-05-2015,Active,Contract
+EMP1078,Curtis Salinas,24,Other,Operations,Data Analyst,Director,New York,22-10-2016,Inactive,Contract
+EMP1079,Andrew Foster,26,Male,Operations,Project Manager,Entry,New York,24-12-2024,Inactive,Part-time
+EMP1080,Amy Garrison,59,Other,Finance,Physiotherapist,Entry,San Francisco,19-11-2019,Inactive,Contract
+EMP1081,Tanner Flores,29,Female,IT,HR Manager,Director,Houston,06-05-2018,Active,Full-time
+EMP1082,Amanda Gray,28,Female,Operations,HR Manager,Manager,San Francisco,08-09-2020,Inactive,Full-time
+EMP1083,Mr. Jeffrey Baker,60,Male,Operations,Project Manager,Mid,Chicago,06-09-2015,Active,Full-time
+EMP1084,Michelle Greer,52,Male,Marketing,Marketing Executive,Mid,Los Angeles,10-01-2017,Inactive,Part-time
+EMP1085,Sharon Gomez,40,Female,Operations,HR Manager,Director,Miami,25-04-2018,Inactive,Intern
+EMP1086,Raymond Harris,52,Other,HR,Software Engineer,Manager,Miami,10-04-2016,Inactive,Full-time
+EMP1087,Dr. Curtis Garcia DVM,47,Male,Sales,Software Engineer,Entry,Chicago,04-10-2018,Active,Intern
+EMP1088,Danielle Stewart,58,Female,IT,Data Analyst,Senior,Miami,02-05-2021,Active,Full-time
+EMP1089,Jennifer Bailey,49,Other,Sales,Data Analyst,Senior,Los Angeles,19-03-2017,Inactive,Contract
+EMP1090,Carol Branch,42,Female,HR,Marketing Executive,Mid,Chicago,29-11-2018,Inactive,Part-time
+EMP1091,Emily Jones,48,Other,Marketing,Marine Scientist,Senior,Chicago,17-04-2019,Active,Intern
+EMP1092,Brenda Charles,59,Other,Operations,Data Analyst,Manager,New York,07-05-2018,Active,Contract
+EMP1093,Hector Jones,34,Male,Finance,Software Engineer,Director,Houston,21-04-2021,Inactive,Contract
+EMP1094,Mitchell Carter,27,Other,HR,Marine Scientist,Senior,Houston,01-03-2018,Active,Full-time
+EMP1095,Amy Cruz,47,Female,HR,HR Manager,Entry,Houston,27-05-2016,Inactive,Intern
+EMP1096,Javier Ray,26,Female,IT,Project Manager,Entry,Chicago,04-07-2022,Active,Contract
+EMP1097,Amanda Hayden,44,Male,Operations,Data Analyst,Senior,Los Angeles,09-08-2021,Active,Full-time
+EMP1098,Alyssa Rivas,51,Female,IT,Software Engineer,Entry,New York,31-01-2022,Inactive,Contract
+EMP1099,William Miller,29,Other,Marketing,Financial Analyst,Entry,Chicago,12-02-2018,Inactive,Full-time
+EMP1100,Pamela Mccann,23,Female,Operations,Data Analyst,Senior,Chicago,04-11-2021,Inactive,Contract
+EMP1101,Robin Clark,26,Male,Operations,Project Manager,Director,San Francisco,16-08-2016,Active,Contract
+EMP1102,Shannon Serrano,26,Female,Marketing,Physiotherapist,Mid,Miami,25-02-2022,Active,Full-time
+EMP1103,Emily Solomon,29,Male,Operations,Financial Analyst,Senior,Houston,04-03-2024,Inactive,Full-time
+EMP1104,Mercedes Griffin,30,Male,Finance,Software Engineer,Manager,Houston,06-04-2017,Inactive,Full-time
+EMP1105,Olivia Acosta,60,Other,Marketing,Project Manager,Senior,New York,23-05-2019,Active,Intern
+EMP1106,Daniel Potter,49,Female,HR,HR Manager,Mid,Houston,31-10-2018,Inactive,Contract
+EMP1107,Levi Paul,45,Female,Sales,Financial Analyst,Senior,Miami,13-01-2016,Active,Contract
+EMP1108,Joshua Johnson,52,Female,Finance,Software Engineer,Entry,Miami,11-03-2017,Inactive,Intern
+EMP1109,Nancy Burton,32,Other,Sales,HR Manager,Manager,San Francisco,09-02-2016,Inactive,Contract
+EMP1110,Cory Flores,29,Female,Finance,HR Manager,Director,Chicago,31-10-2020,Inactive,Contract
+EMP1111,Melinda Lopez,54,Female,HR,Project Manager,Entry,Houston,20-09-2024,Inactive,Part-time
+EMP1112,Michael Nichols,23,Male,IT,Data Analyst,Senior,Houston,04-02-2018,Inactive,Contract
+EMP1113,Courtney Graham,23,Female,Marketing,Marketing Executive,Director,Los Angeles,20-03-2022,Inactive,Intern
+EMP1114,Steven Anderson,41,Male,Finance,Project Manager,Manager,Houston,24-04-2018,Inactive,Full-time
+EMP1115,William Grant,34,Other,Finance,HR Manager,Mid,Chicago,26-03-2018,Inactive,Intern
+EMP1116,Mr. Matthew Maxwell,54,Other,Operations,Financial Analyst,Senior,Chicago,24-09-2020,Inactive,Part-time
+EMP1117,Deanna Cuevas,40,Female,IT,Financial Analyst,Mid,Miami,11-10-2019,Active,Intern
+EMP1118,Amanda Grant,49,Female,Finance,Software Engineer,Director,Los Angeles,09-10-2020,Inactive,Part-time
+EMP1119,Taylor Rice,54,Male,Finance,Software Engineer,Entry,Miami,01-04-2020,Inactive,Intern
+EMP1120,Sara Stevenson,52,Other,HR,Financial Analyst,Entry,Miami,08-06-2021,Active,Contract
+EMP1121,David Baker,59,Female,IT,Software Engineer,Mid,Houston,24-03-2018,Inactive,Part-time
+EMP1122,Crystal Burns,30,Male,HR,Marketing Executive,Senior,Chicago,08-05-2017,Inactive,Intern
+EMP1123,Emily Black,41,Other,Finance,Data Analyst,Senior,Chicago,12-05-2022,Active,Contract
+EMP1124,Laurie Howard,42,Other,HR,Data Analyst,Mid,Miami,22-07-2017,Active,Contract
+EMP1125,Matthew Wright,49,Female,Operations,HR Manager,Entry,Los Angeles,08-09-2019,Inactive,Contract
+EMP1126,Travis Curry,35,Other,Operations,Marine Scientist,Manager,San Francisco,11-02-2022,Inactive,Part-time
+EMP1127,Hannah Gordon,32,Male,Marketing,Project Manager,Manager,Chicago,21-12-2018,Inactive,Contract
+EMP1128,James Lutz,59,Other,HR,Software Engineer,Mid,Los Angeles,03-07-2019,Active,Intern
+EMP1129,Danny Skinner,53,Other,HR,Data Analyst,Entry,Houston,29-07-2017,Inactive,Contract
+EMP1130,Michael Garrison,50,Male,IT,Project Manager,Senior,Miami,06-05-2022,Active,Part-time
+EMP1131,Courtney Gutierrez,33,Other,Sales,Physiotherapist,Senior,Chicago,12-03-2020,Active,Contract
+EMP1132,Craig Williams,27,Female,Marketing,Marine Scientist,Mid,New York,03-10-2016,Inactive,Contract
+EMP1133,Dr. Brittney Hayes,30,Female,IT,Project Manager,Manager,Los Angeles,08-04-2022,Inactive,Full-time
+EMP1134,Michael Rice,29,Other,Operations,Financial Analyst,Mid,Chicago,13-06-2016,Active,Full-time
+EMP1135,Courtney Buchanan,27,Male,IT,Financial Analyst,Senior,Houston,04-02-2024,Inactive,Contract
+EMP1136,Joyce Nelson,28,Female,Sales,Financial Analyst,Entry,Houston,03-05-2019,Active,Full-time
+EMP1137,Vanessa Gutierrez,26,Female,HR,Software Engineer,Manager,Houston,08-12-2015,Inactive,Full-time
+EMP1138,Darin Melendez,23,Other,Operations,Marine Scientist,Manager,New York,07-10-2024,Inactive,Part-time
+EMP1139,Brittney Kerr,41,Male,Marketing,Project Manager,Entry,Chicago,15-03-2024,Active,Full-time
+EMP1140,Margaret Garcia,28,Female,IT,Financial Analyst,Mid,Houston,07-03-2017,Active,Contract
+EMP1141,Sherry Navarro,24,Other,IT,Data Analyst,Director,Chicago,26-07-2016,Inactive,Full-time
+EMP1142,Brittany Gallagher,55,Male,IT,Marketing Executive,Director,Los Angeles,14-05-2022,Inactive,Contract
+EMP1143,Brett Torres,40,Other,HR,Data Analyst,Manager,Miami,17-06-2018,Active,Intern
+EMP1144,Stephen Bennett,39,Other,Sales,Marketing Executive,Manager,New York,14-03-2018,Active,Full-time
+EMP1145,Kevin Smith,26,Female,Finance,Project Manager,Mid,San Francisco,02-12-2015,Active,Intern
+EMP1146,Jacob Heath,39,Male,IT,Financial Analyst,Director,Houston,23-06-2019,Inactive,Part-time
+EMP1147,Christina Williams,34,Female,Marketing,Data Analyst,Director,Chicago,17-12-2016,Inactive,Contract
+EMP1148,Timothy Reyes,44,Other,Sales,Project Manager,Entry,Miami,16-10-2021,Inactive,Full-time
+EMP1149,Steven Mata,31,Other,Sales,Software Engineer,Manager,San Francisco,10-02-2019,Inactive,Contract
+EMP1150,Lori Palmer,22,Male,IT,Financial Analyst,Senior,San Francisco,11-07-2017,Inactive,Part-time
+EMP1151,Tonya Nelson,28,Male,Operations,Physiotherapist,Director,San Francisco,23-05-2023,Inactive,Part-time
+EMP1152,Megan Miller,37,Female,Finance,Project Manager,Entry,New York,12-06-2022,Active,Part-time
+EMP1153,Matthew Davis,34,Female,HR,Marketing Executive,Director,San Francisco,20-10-2023,Inactive,Part-time
+EMP1154,Manuel Barnes,35,Female,Operations,Marketing Executive,Entry,Los Angeles,26-02-2022,Active,Contract
+EMP1155,Richard Singleton,26,Female,IT,Software Engineer,Director,San Francisco,22-06-2015,Inactive,Part-time
+EMP1156,Teresa Smith,47,Female,Sales,Software Engineer,Manager,Los Angeles,22-05-2023,Active,Part-time
+EMP1157,Dennis Mendez,47,Male,Finance,Marketing Executive,Director,Miami,08-02-2017,Active,Full-time
+EMP1158,Erika Peters,23,Other,Operations,Data Analyst,Senior,Houston,11-08-2020,Active,Part-time
+EMP1159,Jerry Lopez,23,Other,Marketing,Marketing Executive,Mid,New York,23-04-2017,Inactive,Contract
+EMP1160,Cesar Bell,40,Other,HR,Financial Analyst,Director,Chicago,13-07-2020,Inactive,Intern
+EMP1161,Mary Marks,52,Other,Operations,Physiotherapist,Mid,Miami,12-01-2020,Inactive,Intern
+EMP1162,Kelly Henry,29,Female,Operations,Marine Scientist,Manager,Miami,19-07-2016,Inactive,Intern
+EMP1163,Sean Weaver,32,Male,IT,Physiotherapist,Mid,New York,13-07-2023,Active,Part-time
+EMP1164,Dr. Cindy Mccann,50,Other,Finance,Financial Analyst,Entry,New York,10-11-2016,Active,Part-time
+EMP1165,Kathryn Moody,34,Male,Finance,Software Engineer,Director,Houston,07-01-2016,Inactive,Intern
+EMP1166,Tiffany Lewis,23,Male,Finance,HR Manager,Entry,Miami,06-11-2023,Active,Full-time
+EMP1167,Donna Vazquez,56,Female,IT,HR Manager,Director,Houston,09-07-2017,Active,Contract
+EMP1168,Regina Perez,48,Male,Sales,Financial Analyst,Senior,Chicago,30-01-2022,Active,Full-time
+EMP1169,Mackenzie Campbell,50,Female,Operations,Marketing Executive,Senior,San Francisco,26-04-2019,Inactive,Full-time
+EMP1170,Adam Hansen,26,Male,Operations,Marketing Executive,Senior,Miami,22-11-2020,Active,Full-time
+EMP1171,Marc Smith,35,Female,HR,Software Engineer,Senior,San Francisco,17-07-2021,Active,Intern
+EMP1172,Johnny Fuller,49,Other,Marketing,Physiotherapist,Mid,New York,12-04-2019,Active,Full-time
+EMP1173,Tina Gonzales,49,Female,Operations,Project Manager,Manager,New York,25-12-2019,Active,Part-time
+EMP1174,Elizabeth Scott,37,Male,Sales,Financial Analyst,Manager,Chicago,12-06-2020,Inactive,Full-time
+EMP1175,Casey Grimes,45,Female,Sales,HR Manager,Senior,Los Angeles,28-02-2021,Inactive,Part-time
+EMP1176,Catherine Ferguson,55,Female,Finance,Data Analyst,Manager,Chicago,25-11-2016,Active,Intern
+EMP1177,Andrea Myers,33,Other,Marketing,Data Analyst,Director,New York,04-09-2021,Inactive,Full-time
+EMP1178,Chad Ellis,56,Female,HR,Data Analyst,Director,New York,02-07-2019,Active,Part-time
+EMP1179,James Alexander,33,Female,Operations,Financial Analyst,Entry,San Francisco,21-07-2023,Active,Contract
+EMP1180,Michael Hernandez,56,Female,Sales,Physiotherapist,Director,Miami,02-04-2019,Active,Intern
+EMP1181,William Ball Jr.,35,Other,Marketing,Physiotherapist,Senior,Chicago,14-09-2015,Inactive,Part-time
+EMP1182,Stephanie Bean,60,Female,Sales,HR Manager,Entry,Houston,01-10-2018,Inactive,Intern
+EMP1183,Julie Walsh,41,Male,Operations,Software Engineer,Senior,Chicago,28-05-2016,Active,Contract
+EMP1184,Craig Sandoval,59,Female,Marketing,Marketing Executive,Senior,Los Angeles,25-11-2023,Inactive,Full-time
+EMP1185,Jonathan Yates,53,Female,Finance,Marketing Executive,Entry,Houston,04-01-2016,Active,Intern
+EMP1186,Joseph Miller,55,Other,HR,Marine Scientist,Senior,Los Angeles,03-07-2024,Active,Full-time
+EMP1187,Curtis Casey,49,Other,Operations,Physiotherapist,Entry,Chicago,19-10-2019,Inactive,Full-time
+EMP1188,Joshua Harris,30,Male,HR,Marine Scientist,Entry,Houston,30-09-2024,Active,Intern
+EMP1189,Michael Graves,40,Female,Finance,Data Analyst,Entry,Houston,21-08-2022,Active,Contract
+EMP1190,Natasha Baldwin,37,Other,Finance,Physiotherapist,Manager,Miami,18-05-2018,Active,Contract
+EMP1191,Tiffany Morales,25,Other,Finance,Physiotherapist,Director,Los Angeles,20-02-2018,Inactive,Full-time
+EMP1192,Martha Osborne,53,Female,Operations,Data Analyst,Entry,Houston,20-06-2022,Active,Contract
+EMP1193,Amber Case,34,Female,Operations,Project Manager,Mid,Chicago,17-03-2015,Active,Contract
+EMP1194,Tonya Weaver,51,Male,Finance,Financial Analyst,Mid,Miami,30-03-2020,Inactive,Intern
+EMP1195,David Ramirez,36,Male,HR,HR Manager,Director,San Francisco,07-08-2018,Inactive,Intern
+EMP1196,Juan Briggs,58,Female,Sales,Software Engineer,Senior,Houston,01-11-2015,Inactive,Contract
+EMP1197,Daniel Padilla,28,Female,HR,Financial Analyst,Director,Los Angeles,22-02-2023,Inactive,Part-time
+EMP1198,David Thomas,58,Female,HR,Physiotherapist,Manager,San Francisco,28-02-2025,Active,Part-time
+EMP1199,Jonathan Collier,35,Female,Marketing,Physiotherapist,Senior,New York,29-11-2020,Inactive,Full-time
+EMP1200,Scott Jenkins,32,Other,Marketing,Marine Scientist,Director,Chicago,17-01-2021,Inactive,Full-time
+EMP1201,Michael Kim,57,Other,Marketing,Project Manager,Senior,San Francisco,27-06-2022,Inactive,Part-time
+EMP1202,Cynthia Moore,55,Male,HR,Financial Analyst,Director,Houston,03-07-2023,Inactive,Contract
+EMP1203,Jasmine Miller,54,Female,IT,Data Analyst,Manager,Miami,28-09-2015,Active,Intern
+EMP1204,Kim Munoz,33,Other,Marketing,Project Manager,Director,New York,27-03-2024,Inactive,Contract
+EMP1205,Stephen Dorsey,29,Female,HR,Data Analyst,Mid,New York,26-10-2020,Active,Part-time
+EMP1206,Matthew Zamora,32,Male,Sales,Data Analyst,Manager,New York,10-08-2021,Inactive,Full-time
+EMP1207,Andrew Ortiz,57,Female,IT,Data Analyst,Mid,Los Angeles,07-11-2016,Active,Part-time
+EMP1208,James Byrd,32,Male,Marketing,Marine Scientist,Entry,Los Angeles,04-04-2024,Inactive,Part-time
+EMP1209,Ryan Parker,27,Female,Finance,Data Analyst,Mid,New York,16-07-2020,Active,Intern
+EMP1210,Elizabeth Moore,49,Male,Finance,HR Manager,Mid,Los Angeles,05-10-2017,Active,Intern
+EMP1211,Phillip Snyder,56,Male,Finance,Project Manager,Mid,Miami,17-09-2021,Inactive,Contract
+EMP1212,Alice Silva,36,Other,Sales,Marketing Executive,Senior,Miami,25-09-2018,Active,Intern
+EMP1213,Angela Braun,59,Female,Marketing,Marine Scientist,Entry,Miami,05-05-2015,Active,Intern
+EMP1214,Monica Lewis,59,Female,Sales,HR Manager,Director,Los Angeles,09-10-2020,Inactive,Contract
+EMP1215,William Green,51,Female,Finance,Data Analyst,Senior,New York,02-10-2024,Inactive,Intern
+EMP1216,Laura Goodwin,30,Male,Operations,Project Manager,Mid,New York,07-08-2018,Active,Contract
+EMP1217,Justin West,44,Male,Finance,Marine Scientist,Entry,Miami,06-07-2023,Inactive,Full-time
+EMP1218,Alison Carrillo,43,Female,Operations,Data Analyst,Director,San Francisco,21-02-2025,Inactive,Part-time
+EMP1219,Robert Riley,40,Female,IT,Marine Scientist,Manager,Houston,04-06-2023,Active,Contract
+EMP1220,Angela Burns,48,Female,Sales,Financial Analyst,Mid,Los Angeles,15-08-2021,Inactive,Part-time
+EMP1221,Keith Smith,50,Female,Finance,Project Manager,Mid,San Francisco,10-03-2023,Active,Contract
+EMP1222,Tracy Avila,55,Other,Marketing,Physiotherapist,Director,New York,08-02-2022,Inactive,Contract
+EMP1223,Christine Jones,49,Female,Marketing,Data Analyst,Senior,Miami,14-04-2015,Inactive,Part-time
+EMP1224,Timothy Davis,56,Male,IT,Marketing Executive,Mid,Chicago,01-06-2022,Active,Full-time
+EMP1225,James Smith MD,46,Male,Sales,Marine Scientist,Entry,New York,16-05-2019,Inactive,Contract
+EMP1226,Heather Mason,34,Male,Operations,Marine Scientist,Entry,San Francisco,12-12-2020,Inactive,Part-time
+EMP1227,Gina Washington,52,Female,Finance,Marine Scientist,Mid,Miami,19-11-2017,Active,Contract
+EMP1228,Louis Lawrence,48,Other,Operations,Physiotherapist,Mid,Houston,21-06-2022,Active,Contract
+EMP1229,Ryan Leblanc,51,Male,Marketing,Data Analyst,Entry,San Francisco,09-09-2015,Inactive,Intern
+EMP1230,Cynthia Tran,28,Other,IT,Project Manager,Director,Houston,29-06-2019,Active,Full-time
+EMP1231,Melissa Perry,49,Male,Operations,Project Manager,Senior,San Francisco,03-01-2023,Inactive,Part-time
+EMP1232,Aaron Mason,53,Female,Sales,Financial Analyst,Mid,New York,05-06-2023,Inactive,Part-time
+EMP1233,James Martinez,50,Female,Marketing,Physiotherapist,Manager,New York,21-05-2024,Inactive,Contract
+EMP1234,Michael Johnson,54,Female,Operations,Project Manager,Mid,Houston,19-10-2021,Inactive,Intern
+EMP1235,Sierra White,24,Female,Operations,Software Engineer,Manager,Houston,23-09-2015,Active,Intern
+EMP1236,Dr. Edward Anderson DVM,30,Male,IT,Project Manager,Entry,New York,10-08-2021,Active,Intern
+EMP1237,Dakota Garcia,52,Other,Finance,Data Analyst,Director,New York,03-10-2021,Active,Contract
+EMP1238,Sandra Hamilton,55,Other,Marketing,Project Manager,Entry,New York,25-12-2023,Inactive,Contract
+EMP1239,Tiffany Anderson,47,Female,HR,Project Manager,Mid,Los Angeles,08-04-2019,Active,Intern
+EMP1240,Mary Hubbard,31,Male,Marketing,Marine Scientist,Senior,San Francisco,01-02-2024,Active,Intern
+EMP1241,Elizabeth Salinas,60,Female,HR,Software Engineer,Mid,San Francisco,19-07-2024,Inactive,Intern
+EMP1242,Jessica Williams,24,Other,Sales,Marine Scientist,Director,Miami,02-01-2024,Inactive,Part-time
+EMP1243,Phillip Clay,35,Female,IT,Marine Scientist,Senior,New York,18-10-2023,Inactive,Full-time
+EMP1244,Renee Harris,35,Female,IT,Marketing Executive,Entry,San Francisco,24-05-2018,Active,Contract
+EMP1245,Martin Jacobson,44,Other,Sales,HR Manager,Senior,New York,11-05-2019,Inactive,Intern
+EMP1246,Cynthia Waller,37,Male,Operations,Marketing Executive,Mid,Miami,03-02-2025,Active,Full-time
+EMP1247,Kari Ochoa,52,Other,Finance,HR Manager,Entry,Chicago,07-11-2015,Active,Part-time
+EMP1248,Evan Strickland,32,Female,IT,Marine Scientist,Mid,Los Angeles,21-12-2016,Active,Full-time
+EMP1249,Kimberly Mcintosh MD,49,Other,Sales,Marine Scientist,Senior,Houston,31-07-2017,Inactive,Part-time
+EMP1250,Nathan Barnes,47,Female,HR,Physiotherapist,Senior,New York,16-12-2023,Inactive,Full-time
+EMP1251,Kevin Jordan,39,Male,Finance,Data Analyst,Manager,Los Angeles,17-01-2019,Inactive,Intern
+EMP1252,Renee Mendoza,49,Female,Finance,Physiotherapist,Director,Chicago,26-03-2021,Inactive,Full-time
+EMP1253,Cindy Peterson,36,Other,Finance,Marine Scientist,Mid,Houston,22-11-2020,Active,Contract
+EMP1254,Jeremy Rowe,36,Male,Marketing,Data Analyst,Mid,Chicago,30-07-2021,Active,Intern
+EMP1255,Sierra Matthews,43,Other,IT,Marketing Executive,Director,Miami,20-01-2018,Active,Intern
+EMP1256,Matthew Finley Jr.,41,Other,Operations,Physiotherapist,Mid,San Francisco,13-01-2018,Active,Contract
+EMP1257,Yvonne Wilson,46,Male,Operations,Marine Scientist,Entry,Los Angeles,13-06-2021,Active,Part-time
+EMP1258,Matthew Taylor,41,Female,Finance,Financial Analyst,Mid,New York,30-04-2017,Active,Intern
+EMP1259,Kenneth Brown,60,Female,HR,Marine Scientist,Entry,Chicago,17-04-2019,Active,Intern
+EMP1260,Julie Green,36,Female,Finance,Marine Scientist,Director,Miami,11-02-2021,Active,Contract
+EMP1261,Corey King,39,Male,Operations,Financial Analyst,Director,Chicago,09-09-2022,Inactive,Full-time
+EMP1262,Wanda Thomas,24,Female,HR,Project Manager,Entry,Houston,11-12-2024,Active,Intern
+EMP1263,Justin Nguyen,55,Male,Operations,Marine Scientist,Manager,New York,12-06-2021,Active,Contract
+EMP1264,Joel Garcia,41,Other,HR,Marketing Executive,Director,Los Angeles,07-07-2022,Active,Contract
+EMP1265,Nicole Lee,30,Female,Sales,Physiotherapist,Entry,Los Angeles,03-04-2024,Active,Part-time
+EMP1266,Kenneth Kelly,29,Other,IT,Project Manager,Director,Los Angeles,26-05-2021,Inactive,Intern
+EMP1267,Joshua Jenkins,39,Other,HR,Software Engineer,Director,Los Angeles,02-09-2019,Active,Intern
+EMP1268,Todd Brady,60,Other,IT,Physiotherapist,Manager,Miami,17-05-2021,Active,Full-time
+EMP1269,Tina Boyd,30,Other,Finance,HR Manager,Director,New York,30-07-2021,Active,Full-time
+EMP1270,Jared Knapp,58,Other,Finance,Marketing Executive,Mid,Houston,20-02-2025,Active,Full-time
+EMP1271,Isabel Walker,31,Male,HR,Physiotherapist,Mid,Los Angeles,29-12-2015,Active,Part-time
+EMP1272,Hannah Tucker,59,Other,Finance,Marine Scientist,Entry,Chicago,07-08-2015,Active,Contract
+EMP1273,Dawn Sandoval,48,Other,Finance,Data Analyst,Senior,New York,13-10-2021,Active,Contract
+EMP1274,John Espinoza,44,Other,Operations,HR Manager,Mid,San Francisco,13-11-2024,Inactive,Part-time
+EMP1275,Andrew Gonzalez,48,Other,Finance,HR Manager,Mid,San Francisco,04-03-2018,Inactive,Full-time
+EMP1276,Rachel Wilson,24,Male,IT,Marketing Executive,Mid,Los Angeles,28-09-2024,Inactive,Intern
+EMP1277,Kyle Clark,56,Other,Operations,Data Analyst,Director,Chicago,07-03-2024,Active,Part-time
+EMP1278,Mary Smith,36,Male,Operations,Marine Scientist,Director,Houston,07-03-2016,Active,Full-time
+EMP1279,Alyssa Kim,50,Male,HR,Project Manager,Director,New York,26-12-2022,Active,Intern
+EMP1280,Sarah Simmons,50,Male,Marketing,HR Manager,Entry,Chicago,10-09-2024,Active,Full-time
+EMP1281,Kara Davis,40,Female,Marketing,Marine Scientist,Director,Miami,24-10-2016,Inactive,Intern
+EMP1282,Kevin Garcia,26,Male,Marketing,Data Analyst,Entry,Houston,13-01-2021,Active,Full-time
+EMP1283,Anna Collins,48,Male,Sales,Project Manager,Entry,Los Angeles,20-04-2017,Inactive,Intern
+EMP1284,Howard Martin,39,Female,HR,HR Manager,Director,Houston,15-06-2019,Active,Contract
+EMP1285,Mary Anderson,55,Female,Finance,Project Manager,Manager,Los Angeles,12-01-2020,Inactive,Intern
+EMP1286,George Martinez,36,Female,Marketing,Financial Analyst,Mid,Miami,16-12-2023,Active,Intern
+EMP1287,Hayden Key DDS,34,Other,IT,Project Manager,Mid,Chicago,03-02-2022,Active,Part-time
+EMP1288,Ryan Short,55,Male,Finance,Marine Scientist,Manager,Los Angeles,20-04-2020,Active,Intern
+EMP1289,Martin Mcguire,33,Male,HR,Financial Analyst,Manager,Miami,23-03-2022,Inactive,Full-time
+EMP1290,Brandon Johnston,49,Female,Finance,Data Analyst,Senior,New York,03-05-2018,Inactive,Full-time
+EMP1291,Christopher Davis,52,Female,Sales,Project Manager,Director,Los Angeles,13-07-2019,Inactive,Contract
+EMP1292,Steven Buck,45,Female,Marketing,Marine Scientist,Manager,Los Angeles,30-06-2015,Inactive,Full-time
+EMP1293,James Spears,40,Female,Sales,Financial Analyst,Senior,Chicago,29-07-2018,Active,Intern
+EMP1294,David Williams DDS,49,Other,Finance,Software Engineer,Senior,Chicago,08-09-2018,Inactive,Part-time
+EMP1295,Anthony Oliver,49,Female,Operations,Data Analyst,Entry,Los Angeles,09-01-2017,Inactive,Intern
+EMP1296,Anna Bennett,34,Other,IT,Marketing Executive,Senior,Los Angeles,04-02-2020,Active,Part-time
+EMP1297,Amanda Brown,59,Male,IT,Data Analyst,Senior,Chicago,06-02-2018,Inactive,Part-time
+EMP1298,Alexis Goodwin,33,Female,Finance,Physiotherapist,Mid,Houston,13-08-2017,Inactive,Full-time
+EMP1299,Carla Bernard,58,Other,Operations,Marine Scientist,Mid,Miami,11-07-2018,Inactive,Intern
+EMP1300,John Cunningham,41,Other,Operations,Physiotherapist,Manager,New York,29-10-2020,Inactive,Part-time
+EMP1301,Bradley Smith,56,Male,Marketing,Financial Analyst,Director,New York,10-10-2017,Inactive,Intern
+EMP1302,Jason Carter,35,Male,Finance,Financial Analyst,Mid,Miami,15-07-2019,Active,Full-time
+EMP1303,Michael Richardson,49,Female,IT,Marine Scientist,Entry,Miami,22-04-2023,Inactive,Contract
+EMP1304,Thomas Kennedy,42,Male,IT,Data Analyst,Senior,San Francisco,08-04-2015,Active,Part-time
+EMP1305,Carla Williamson,24,Female,Finance,Physiotherapist,Senior,San Francisco,17-03-2018,Inactive,Full-time
+EMP1306,Cheryl Howell,32,Other,IT,Financial Analyst,Mid,Houston,16-02-2018,Active,Intern
+EMP1307,Kathleen Alvarez,28,Male,Operations,Financial Analyst,Senior,San Francisco,25-05-2022,Inactive,Part-time
+EMP1308,Erica Kim,31,Male,HR,Project Manager,Manager,Chicago,07-04-2020,Inactive,Full-time
+EMP1309,Amanda Johnson,53,Other,Sales,Project Manager,Director,New York,22-12-2021,Inactive,Contract
+EMP1310,James Francis,35,Male,IT,Data Analyst,Director,Houston,29-07-2016,Inactive,Intern
+EMP1311,Jennifer Bowen,53,Other,IT,Marketing Executive,Manager,Miami,15-01-2020,Active,Contract
+EMP1312,Morgan Roberts,24,Female,Sales,Physiotherapist,Mid,Chicago,25-08-2020,Active,Full-time
+EMP1313,Lauren Cruz,42,Male,Sales,HR Manager,Entry,New York,22-02-2022,Inactive,Part-time
+EMP1314,Greg West,49,Female,IT,Software Engineer,Senior,Miami,08-07-2019,Active,Intern
+EMP1315,Marco Wilcox,23,Female,HR,Physiotherapist,Mid,New York,27-10-2015,Inactive,Intern
+EMP1316,Stephen Rasmussen,26,Female,Operations,Marine Scientist,Mid,Houston,15-12-2020,Inactive,Part-time
+EMP1317,Melissa Schmidt,45,Male,Marketing,Marketing Executive,Director,Houston,19-04-2020,Active,Intern
+EMP1318,Richard Reynolds,50,Other,Finance,Data Analyst,Mid,New York,14-09-2023,Active,Contract
+EMP1319,Loretta Tate,39,Female,Operations,Financial Analyst,Senior,Houston,03-01-2016,Inactive,Contract
+EMP1320,Jordan Anderson,32,Other,Operations,Marketing Executive,Entry,Los Angeles,02-06-2019,Active,Full-time
+EMP1321,Jason Bender,50,Other,Finance,Marketing Executive,Director,Los Angeles,22-06-2022,Inactive,Full-time
+EMP1322,Amber Lopez,52,Female,Marketing,HR Manager,Mid,San Francisco,20-07-2024,Active,Intern
+EMP1323,Michael Herman,28,Other,Marketing,Marketing Executive,Entry,Houston,13-05-2016,Inactive,Intern
+EMP1324,Shannon Pearson,34,Female,HR,Data Analyst,Entry,San Francisco,25-08-2023,Inactive,Part-time
+EMP1325,Cindy Hester,30,Female,HR,Software Engineer,Director,New York,23-03-2015,Inactive,Full-time
+EMP1326,Tami Donaldson,52,Male,Finance,Financial Analyst,Senior,New York,27-12-2024,Active,Intern
+EMP1327,John Huffman,52,Female,Operations,Marine Scientist,Senior,New York,15-12-2021,Inactive,Full-time
+EMP1328,John Bryan,33,Other,Finance,HR Manager,Senior,Miami,28-09-2016,Active,Full-time
+EMP1329,Karen Brooks,35,Other,Marketing,Data Analyst,Director,Chicago,09-12-2021,Inactive,Part-time
+EMP1330,Kimberly Lawrence,40,Other,Sales,Financial Analyst,Senior,Houston,24-04-2021,Inactive,Contract
+EMP1331,Kimberly White,44,Other,Sales,Data Analyst,Mid,Chicago,15-05-2016,Inactive,Part-time
+EMP1332,Diana Casey,54,Female,Marketing,HR Manager,Mid,Miami,28-02-2016,Active,Intern
+EMP1333,Megan Gutierrez,52,Other,HR,Financial Analyst,Senior,New York,16-01-2016,Active,Intern
+EMP1334,Donald Duarte,32,Male,HR,Project Manager,Senior,Los Angeles,04-10-2015,Inactive,Part-time
+EMP1335,Nicole Johnson,43,Male,Sales,Financial Analyst,Senior,San Francisco,02-05-2018,Inactive,Full-time
+EMP1336,Jessica Ruiz,48,Other,HR,Software Engineer,Mid,San Francisco,18-07-2019,Inactive,Intern
+EMP1337,Cody Jones,28,Other,HR,Data Analyst,Entry,Miami,09-09-2020,Inactive,Full-time
+EMP1338,Dawn Prince,45,Male,Operations,Data Analyst,Director,Chicago,30-06-2020,Active,Part-time
+EMP1339,Mr. William Estes,24,Other,Marketing,Marine Scientist,Manager,Los Angeles,18-12-2018,Inactive,Full-time
+EMP1340,Ann Schultz,46,Other,HR,HR Manager,Director,Houston,04-07-2016,Inactive,Intern
+EMP1341,Brittany Lopez,24,Female,HR,Software Engineer,Director,Miami,03-11-2024,Active,Full-time
+EMP1342,Andrea Dominguez,45,Male,Sales,Marine Scientist,Manager,Miami,01-10-2020,Active,Contract
+EMP1343,Michael James,35,Female,Sales,Marine Scientist,Director,Los Angeles,04-03-2025,Active,Full-time
+EMP1344,Tonya Taylor,59,Female,Marketing,Marketing Executive,Entry,San Francisco,20-03-2018,Active,Intern
+EMP1345,Brittany Thompson,28,Other,Operations,Marine Scientist,Director,Houston,31-10-2019,Active,Full-time
+EMP1346,Monica Jackson,26,Other,Marketing,Financial Analyst,Mid,Houston,23-06-2015,Inactive,Full-time
+EMP1347,Tamara Diaz,58,Other,IT,Financial Analyst,Senior,Houston,08-07-2016,Inactive,Intern
+EMP1348,Joshua Green,25,Other,Finance,Data Analyst,Manager,New York,18-10-2018,Active,Part-time
+EMP1349,Mark Chambers,37,Female,IT,Marine Scientist,Mid,Houston,08-12-2022,Inactive,Contract
+EMP1350,Steven Palmer,43,Male,Operations,Physiotherapist,Senior,Chicago,14-01-2016,Inactive,Intern
+EMP1351,Pamela Ponce,27,Female,IT,HR Manager,Entry,Houston,03-12-2020,Active,Part-time
+EMP1352,Kelly Oconnell,22,Male,Operations,Marketing Executive,Senior,San Francisco,06-09-2024,Inactive,Intern
+EMP1353,Elizabeth Perez,34,Male,Operations,Project Manager,Senior,Miami,07-03-2021,Inactive,Full-time
+EMP1354,Pamela Alexander,34,Female,Finance,Physiotherapist,Entry,San Francisco,24-11-2021,Active,Part-time
+EMP1355,Emily Frederick,57,Male,Operations,Physiotherapist,Senior,San Francisco,08-01-2021,Inactive,Full-time
+EMP1356,Tonya Duran,39,Male,Marketing,Marketing Executive,Manager,San Francisco,22-01-2025,Active,Part-time
+EMP1357,Carl Mcmillan,57,Male,Marketing,Marketing Executive,Senior,Chicago,15-07-2024,Active,Part-time
+EMP1358,Andrew Smith,48,Female,IT,HR Manager,Director,Miami,21-06-2015,Inactive,Intern
+EMP1359,Marcus Washington,53,Female,Marketing,Physiotherapist,Manager,San Francisco,22-06-2019,Active,Part-time
+EMP1360,Robin Anderson,59,Male,Finance,Software Engineer,Entry,San Francisco,30-12-2017,Active,Intern
+EMP1361,Mrs. Wendy Vasquez,23,Female,HR,Software Engineer,Entry,New York,21-09-2024,Inactive,Full-time
+EMP1362,Kimberly Green,36,Female,Operations,Marketing Executive,Manager,San Francisco,28-04-2022,Inactive,Part-time
+EMP1363,Rebecca Stark,31,Male,Finance,Financial Analyst,Entry,Miami,08-11-2016,Inactive,Intern
+EMP1364,Alisha Mccullough,34,Female,Operations,Project Manager,Mid,Los Angeles,16-11-2016,Active,Contract
+EMP1365,Hannah Burch,22,Male,IT,Data Analyst,Entry,Houston,14-09-2015,Inactive,Part-time
+EMP1366,Patrick Silva,37,Male,Marketing,HR Manager,Mid,New York,03-06-2024,Active,Full-time
+EMP1367,Karen Martinez,36,Female,Marketing,Marine Scientist,Director,Houston,21-09-2023,Active,Full-time
+EMP1368,Jamie Vega,33,Male,HR,Marketing Executive,Senior,Los Angeles,09-07-2019,Inactive,Full-time
+EMP1369,Eugene Wilson Jr.,42,Other,IT,Software Engineer,Senior,Houston,12-04-2021,Active,Part-time
+EMP1370,Breanna Ruiz,46,Other,Marketing,Data Analyst,Manager,Chicago,14-02-2025,Inactive,Full-time
+EMP1371,Raymond Williams,45,Male,Operations,Software Engineer,Entry,Chicago,04-09-2022,Inactive,Full-time
+EMP1372,John Gentry,22,Other,Finance,Data Analyst,Manager,San Francisco,06-11-2018,Active,Contract
+EMP1373,Brian Stewart,31,Female,IT,Marine Scientist,Senior,Miami,11-01-2023,Active,Part-time
+EMP1374,Rebekah Ayers,25,Male,IT,Project Manager,Senior,New York,04-08-2023,Active,Part-time
+EMP1375,David Ashley,49,Other,Operations,Data Analyst,Director,Houston,27-12-2017,Active,Intern
+EMP1376,Beth Ross,36,Female,IT,Data Analyst,Director,Chicago,15-12-2016,Active,Intern
+EMP1377,John Davidson,39,Other,Sales,Marine Scientist,Mid,New York,17-11-2023,Active,Contract
+EMP1378,Christie Poole,42,Other,Sales,Software Engineer,Mid,New York,05-11-2022,Inactive,Contract
+EMP1379,Jonathon Mckenzie,53,Male,Finance,Physiotherapist,Senior,Los Angeles,15-06-2017,Active,Intern
+EMP1380,Jacqueline Hayes MD,28,Other,Marketing,HR Manager,Senior,Chicago,17-01-2024,Inactive,Part-time
+EMP1381,James Morgan,55,Other,Marketing,Software Engineer,Entry,Houston,01-03-2018,Inactive,Full-time
+EMP1382,Pamela Davila,23,Other,IT,Physiotherapist,Manager,Chicago,30-09-2023,Active,Full-time
+EMP1383,Amy Sanchez,39,Male,Operations,Marine Scientist,Mid,Chicago,06-12-2019,Inactive,Full-time
+EMP1384,Jamie Oneill,25,Male,IT,Project Manager,Director,New York,18-10-2017,Inactive,Contract
+EMP1385,Cody Lawrence,58,Male,Finance,Marketing Executive,Senior,San Francisco,08-06-2019,Active,Contract
+EMP1386,Justin Flores,56,Male,Operations,Data Analyst,Manager,Miami,11-07-2020,Inactive,Full-time
+EMP1387,Maureen Turner,45,Other,Marketing,Financial Analyst,Manager,San Francisco,23-03-2015,Inactive,Part-time
+EMP1388,Alisha Taylor,50,Other,Operations,Marine Scientist,Senior,Los Angeles,04-11-2024,Inactive,Part-time
+EMP1389,Jennifer Smith,39,Other,IT,Financial Analyst,Director,San Francisco,17-01-2024,Inactive,Intern
+EMP1390,Teresa Brown,35,Other,Finance,Physiotherapist,Entry,Miami,24-11-2015,Active,Contract
+EMP1391,Rachel Cook,39,Other,Sales,Physiotherapist,Mid,Miami,20-12-2021,Inactive,Full-time
+EMP1392,Mr. Adrian Hall DDS,22,Female,Finance,Data Analyst,Mid,Miami,27-03-2023,Inactive,Contract
+EMP1393,Denise Barnett,32,Other,Sales,Financial Analyst,Mid,Chicago,20-07-2016,Inactive,Intern
+EMP1394,James Evans,54,Female,HR,Financial Analyst,Mid,San Francisco,18-10-2016,Active,Part-time
+EMP1395,Jeffrey Miranda,25,Other,Marketing,Marine Scientist,Mid,New York,25-11-2019,Inactive,Part-time
+EMP1396,Leslie Mcdaniel,29,Male,Finance,Data Analyst,Senior,Miami,03-06-2022,Inactive,Part-time
+EMP1397,Mary Palmer,59,Male,Operations,Project Manager,Mid,Miami,01-04-2017,Inactive,Full-time
+EMP1398,Gregory Morales,48,Female,HR,Financial Analyst,Entry,Houston,28-01-2018,Active,Contract
+EMP1399,Jacob Gonzalez,32,Female,Sales,Marine Scientist,Manager,Houston,24-12-2015,Active,Contract
+EMP1400,Chelsea Tran,41,Other,Marketing,Financial Analyst,Mid,Houston,10-09-2022,Active,Full-time
+EMP1401,Kevin Anderson,35,Female,Sales,Marketing Executive,Director,Miami,04-04-2017,Inactive,Contract
+EMP1402,Laura Pennington,47,Female,Sales,Marine Scientist,Manager,Houston,05-07-2024,Inactive,Intern
+EMP1403,Bethany Burton,27,Other,Finance,Marine Scientist,Mid,Houston,31-08-2020,Inactive,Full-time
+EMP1404,Kevin Barber,37,Male,Sales,Data Analyst,Entry,Houston,26-11-2024,Active,Part-time
+EMP1405,Calvin Everett,51,Other,Finance,Data Analyst,Director,New York,13-07-2019,Inactive,Contract
+EMP1406,Stephanie Logan,47,Other,IT,Physiotherapist,Mid,Houston,23-06-2023,Inactive,Full-time
+EMP1407,Jackson Mcdaniel,29,Other,HR,Data Analyst,Senior,Miami,17-09-2021,Inactive,Full-time
+EMP1408,Michael Smith,31,Male,Sales,Project Manager,Entry,New York,30-05-2021,Inactive,Part-time
+EMP1409,Nicholas Miller,25,Other,IT,Project Manager,Senior,Miami,20-11-2017,Active,Intern
+EMP1410,Marcus Savage,27,Other,IT,Marine Scientist,Director,Los Angeles,29-05-2015,Active,Full-time
+EMP1411,Joseph Norman,32,Male,Operations,Project Manager,Entry,San Francisco,22-10-2020,Active,Part-time
+EMP1412,Alicia Contreras,53,Other,Finance,HR Manager,Senior,Miami,24-12-2023,Active,Part-time
+EMP1413,Patricia Fox,25,Male,Operations,Physiotherapist,Entry,Los Angeles,30-11-2021,Active,Contract
+EMP1414,Ryan Dixon,52,Male,Marketing,Project Manager,Director,Miami,17-08-2017,Inactive,Intern
+EMP1415,Stephen Jones,39,Other,Marketing,Financial Analyst,Entry,Chicago,03-08-2021,Inactive,Contract
+EMP1416,Kara Newton,47,Female,IT,Marine Scientist,Senior,Los Angeles,24-01-2017,Inactive,Full-time
+EMP1417,Leslie Coleman,40,Female,HR,Data Analyst,Senior,Houston,07-03-2022,Active,Part-time
+EMP1418,Peter Johnson,51,Male,Marketing,Project Manager,Entry,Houston,11-07-2024,Inactive,Contract
+EMP1419,Erica Miller,39,Female,Finance,Software Engineer,Entry,Chicago,12-10-2019,Inactive,Full-time
+EMP1420,Shawn Cooper,54,Other,IT,Marine Scientist,Director,Chicago,24-01-2025,Active,Full-time
+EMP1421,Tara Sheppard,54,Female,Finance,Project Manager,Director,Los Angeles,22-06-2018,Inactive,Full-time
+EMP1422,Megan Schneider,57,Male,Sales,Software Engineer,Senior,San Francisco,20-02-2016,Active,Intern
+EMP1423,Kenneth Burton,59,Other,Marketing,Data Analyst,Director,Houston,17-06-2022,Active,Contract
+EMP1424,Adam Pierce,24,Female,Finance,Marketing Executive,Manager,Houston,16-03-2022,Inactive,Full-time
+EMP1425,Laura Wilson MD,46,Male,IT,Financial Analyst,Entry,Houston,11-07-2021,Inactive,Part-time
+EMP1426,David Warner,55,Other,Operations,Data Analyst,Manager,Los Angeles,21-05-2022,Active,Contract
+EMP1427,Nicholas Smith,31,Male,Sales,Marketing Executive,Senior,New York,22-12-2018,Inactive,Part-time
+EMP1428,Chelsea Harris,29,Other,Marketing,Data Analyst,Senior,Houston,21-08-2015,Inactive,Full-time
+EMP1429,Keith Franco,32,Male,IT,HR Manager,Senior,Miami,07-11-2019,Active,Contract
+EMP1430,Kyle Hudson,54,Female,IT,Physiotherapist,Manager,Miami,04-09-2021,Inactive,Intern
+EMP1431,Bill Powell,54,Female,Marketing,Marine Scientist,Senior,Los Angeles,13-12-2018,Active,Full-time
+EMP1432,David Chan,43,Male,IT,Data Analyst,Mid,New York,01-02-2020,Inactive,Contract
+EMP1433,Leslie Rosario,56,Other,IT,Marketing Executive,Manager,Los Angeles,06-04-2023,Active,Intern
+EMP1434,Eric Peters,32,Female,HR,Financial Analyst,Mid,New York,19-12-2015,Inactive,Intern
+EMP1435,Olivia Wilkins,44,Other,IT,Marketing Executive,Entry,San Francisco,23-07-2015,Active,Full-time
+EMP1436,Christopher Gordon,30,Female,Operations,Financial Analyst,Entry,Chicago,06-04-2019,Active,Full-time
+EMP1437,Ashley Boyd,58,Male,HR,Data Analyst,Director,Houston,29-05-2024,Inactive,Intern
+EMP1438,Mary Murphy,43,Female,Operations,Physiotherapist,Director,Houston,18-11-2015,Inactive,Intern
+EMP1439,Erin Garcia,33,Other,Operations,Marketing Executive,Entry,Houston,02-02-2018,Active,Intern
+EMP1440,Natasha Davis,24,Female,Sales,Software Engineer,Mid,Los Angeles,02-10-2019,Inactive,Full-time
+EMP1441,Bethany Leonard,31,Male,IT,HR Manager,Mid,Chicago,06-08-2020,Active,Full-time
+EMP1442,Michael Flores,24,Other,Sales,Financial Analyst,Director,Chicago,27-04-2019,Inactive,Full-time
+EMP1443,Sandra Cummings,44,Other,Operations,HR Manager,Entry,New York,08-03-2018,Active,Full-time
+EMP1444,Tina Roberts,26,Male,Marketing,HR Manager,Mid,Los Angeles,21-12-2018,Inactive,Full-time
+EMP1445,Christina Kelly,43,Other,Operations,Physiotherapist,Mid,Los Angeles,19-10-2016,Inactive,Full-time
+EMP1446,Cindy Mitchell,57,Other,HR,Physiotherapist,Mid,Chicago,04-09-2017,Active,Intern
+EMP1447,Stephanie Evans,39,Other,Marketing,Physiotherapist,Senior,San Francisco,03-03-2022,Active,Intern
+EMP1448,Allen Clarke,31,Male,Marketing,Financial Analyst,Manager,San Francisco,29-05-2022,Inactive,Part-time
+EMP1449,Dr. Matthew Peterson,27,Other,HR,Financial Analyst,Director,Los Angeles,28-12-2018,Inactive,Contract
+EMP1450,Veronica Simon,49,Female,Sales,Marine Scientist,Mid,Los Angeles,31-05-2015,Inactive,Contract
+EMP1451,Scott Soto,51,Female,Operations,Software Engineer,Senior,Miami,18-11-2015,Inactive,Part-time
+EMP1452,Manuel Farley,23,Other,Marketing,HR Manager,Senior,Houston,03-03-2018,Active,Intern
+EMP1453,Stacy Freeman,43,Other,Operations,Marine Scientist,Manager,San Francisco,09-11-2017,Inactive,Intern
+EMP1454,Aaron Cross,36,Female,HR,Financial Analyst,Entry,Houston,08-01-2018,Active,Part-time
+EMP1455,Charles Warren,47,Female,Operations,HR Manager,Manager,Los Angeles,10-09-2023,Active,Intern
+EMP1456,Bryan Barajas,22,Female,HR,HR Manager,Director,Miami,17-02-2017,Inactive,Full-time
+EMP1457,Tiffany Scott,29,Female,Finance,Marketing Executive,Senior,Miami,09-06-2017,Inactive,Contract
+EMP1458,Mrs. Amy Roberts MD,39,Female,IT,Marine Scientist,Director,Chicago,24-05-2017,Active,Intern
+EMP1459,David Smith,50,Male,Marketing,Marine Scientist,Senior,San Francisco,29-06-2020,Inactive,Part-time
+EMP1460,Christine Bailey,30,Male,IT,Software Engineer,Entry,Chicago,26-07-2018,Inactive,Part-time
+EMP1461,Jennifer Myers,24,Female,Marketing,Software Engineer,Mid,Houston,06-09-2018,Active,Full-time
+EMP1462,Christian Weeks,36,Male,Finance,Physiotherapist,Entry,Los Angeles,15-11-2017,Inactive,Intern
+EMP1463,Scott Johnston,31,Female,Marketing,Marine Scientist,Senior,Chicago,04-03-2021,Active,Intern
+EMP1464,Michael Johnson,46,Other,HR,Marine Scientist,Manager,Chicago,18-11-2022,Inactive,Part-time
+EMP1465,Steven Ward,28,Female,Marketing,Project Manager,Mid,San Francisco,11-12-2020,Active,Full-time
+EMP1466,Nicholas Harrington,36,Male,IT,Marketing Executive,Mid,Chicago,20-07-2024,Inactive,Full-time
+EMP1467,Ronald Owens,28,Male,Sales,Marine Scientist,Director,Chicago,08-01-2016,Active,Part-time
+EMP1468,Autumn Delgado,36,Male,HR,Project Manager,Manager,San Francisco,16-09-2019,Active,Part-time
+EMP1469,Mary Morris,29,Male,IT,Financial Analyst,Entry,Houston,20-05-2019,Inactive,Intern
+EMP1470,James Delgado,57,Other,Marketing,Project Manager,Director,Miami,04-02-2017,Active,Intern
+EMP1471,Shelley Thompson,42,Female,Sales,Marketing Executive,Mid,Los Angeles,14-07-2024,Inactive,Contract
+EMP1472,Bryan Stephenson,22,Male,Sales,Software Engineer,Director,San Francisco,22-09-2018,Active,Contract
+EMP1473,David Joyce,24,Male,HR,Project Manager,Mid,Chicago,28-06-2015,Active,Intern
+EMP1474,Zachary Ford,34,Male,Sales,Marketing Executive,Manager,New York,01-04-2023,Inactive,Intern
+EMP1475,Paula Cook,56,Male,Finance,Marketing Executive,Entry,Chicago,03-03-2018,Active,Full-time
+EMP1476,Ronald Johnston,52,Male,Finance,Software Engineer,Mid,Los Angeles,02-03-2025,Active,Part-time
+EMP1477,Danielle Carpenter,57,Female,HR,HR Manager,Director,Miami,14-11-2018,Active,Part-time
+EMP1478,Daniel Perez,35,Female,Marketing,Marine Scientist,Entry,Miami,18-09-2015,Inactive,Intern
+EMP1479,Nicholas Brown,35,Male,Marketing,Marketing Executive,Entry,San Francisco,03-01-2023,Inactive,Intern
+EMP1480,Alexander Moon,47,Male,Sales,Marketing Executive,Manager,Chicago,21-03-2018,Active,Part-time
+EMP1481,Steven Wagner,49,Male,Operations,Marine Scientist,Manager,San Francisco,13-08-2022,Active,Part-time
+EMP1482,Margaret Mcgrath,45,Male,Operations,Software Engineer,Senior,San Francisco,07-10-2017,Active,Part-time
+EMP1483,Peter Cunningham,35,Other,Finance,HR Manager,Senior,Houston,01-09-2023,Active,Contract
+EMP1484,William Lynn,58,Female,Sales,Software Engineer,Entry,Miami,15-12-2017,Active,Contract
+EMP1485,James Moore,39,Male,IT,Marine Scientist,Mid,Chicago,29-05-2022,Active,Full-time
+EMP1486,Kelsey Barrett,31,Female,Finance,Project Manager,Entry,Miami,15-07-2018,Active,Intern
+EMP1487,Sarah Anderson,60,Female,IT,Project Manager,Director,New York,02-07-2021,Inactive,Part-time
+EMP1488,Mrs. Mariah Wells,50,Female,HR,Data Analyst,Senior,Houston,27-04-2022,Active,Part-time
+EMP1489,Deborah Freeman,40,Male,Sales,Data Analyst,Director,San Francisco,19-09-2016,Inactive,Full-time
+EMP1490,Ian Cooley,31,Female,Sales,Marketing Executive,Director,Chicago,18-05-2016,Inactive,Part-time
+EMP1491,Jeffrey Thompson,28,Other,IT,HR Manager,Mid,Miami,01-09-2020,Active,Contract
+EMP1492,Daniel Parker,35,Male,Operations,HR Manager,Director,San Francisco,14-04-2019,Inactive,Intern
+EMP1493,Tyler Gallagher,22,Female,Finance,Data Analyst,Director,Chicago,20-08-2022,Active,Intern
+EMP1494,Jessica Rogers,43,Male,Operations,Physiotherapist,Senior,Chicago,20-09-2023,Inactive,Part-time
+EMP1495,Shannon Hodge,42,Male,Finance,Marketing Executive,Mid,San Francisco,14-02-2017,Active,Contract
+EMP1496,Trevor Watkins,46,Female,Finance,Marine Scientist,Manager,Los Angeles,27-04-2023,Inactive,Contract
+EMP1497,Mr. Keith Bates,27,Male,IT,Marine Scientist,Entry,San Francisco,26-08-2020,Inactive,Full-time
+EMP1498,April Price,31,Other,HR,Software Engineer,Director,Los Angeles,26-02-2025,Inactive,Contract
+EMP1499,Linda Taylor,54,Female,HR,Data Analyst,Mid,Los Angeles,04-01-2018,Inactive,Intern
+EMP1500,Alan Carroll,41,Female,Finance,Financial Analyst,Senior,New York,27-09-2016,Active,Intern
+EMP1501,David Fuller,42,Male,IT,Marketing Executive,Entry,New York,27-07-2021,Active,Intern
+EMP1502,Joseph Barton,33,Other,IT,Marine Scientist,Entry,San Francisco,29-11-2022,Active,Part-time
+EMP1503,Michael Smith,33,Female,Finance,Project Manager,Mid,Los Angeles,21-06-2022,Inactive,Part-time
+EMP1504,Destiny Macias,60,Other,Finance,Marine Scientist,Director,Houston,13-09-2018,Active,Intern
+EMP1505,Michael Wilkinson,43,Female,Operations,Project Manager,Mid,San Francisco,09-03-2018,Active,Part-time
+EMP1506,Mario Becker,26,Female,Finance,Software Engineer,Entry,Los Angeles,24-06-2023,Active,Intern
+EMP1507,David Estes,23,Other,IT,HR Manager,Director,San Francisco,15-04-2023,Active,Contract
+EMP1508,Lisa Riley,23,Male,IT,Financial Analyst,Director,New York,23-02-2018,Inactive,Contract
+EMP1509,Gabriel Martin,27,Female,Finance,Data Analyst,Mid,Los Angeles,11-07-2022,Active,Intern
+EMP1510,Vincent Reed,26,Other,IT,Data Analyst,Senior,San Francisco,25-09-2017,Inactive,Full-time
+EMP1511,Kathryn Brown,39,Other,Operations,Marine Scientist,Entry,San Francisco,08-06-2022,Inactive,Intern
+EMP1512,Susan Ryan,48,Male,IT,Marketing Executive,Entry,San Francisco,22-08-2021,Inactive,Part-time
+EMP1513,Sergio Peters,52,Female,Finance,Financial Analyst,Director,Miami,07-02-2025,Active,Contract
+EMP1514,Thomas Prince,58,Female,Finance,Project Manager,Director,Houston,10-08-2017,Inactive,Part-time
+EMP1515,Scott Martin,46,Other,Operations,Marine Scientist,Entry,Los Angeles,18-01-2025,Inactive,Full-time
+EMP1516,Jacqueline Long,27,Other,Operations,Financial Analyst,Entry,New York,08-07-2022,Inactive,Part-time
+EMP1517,Samantha Smith,28,Male,Finance,Marine Scientist,Manager,Chicago,23-10-2020,Active,Part-time
+EMP1518,Lauren Anderson,24,Male,Sales,Marketing Executive,Entry,Chicago,12-06-2021,Active,Part-time
+EMP1519,Kristy Smith,30,Male,IT,Marine Scientist,Senior,Houston,13-02-2023,Inactive,Full-time
+EMP1520,Joseph Beck,54,Other,Operations,Project Manager,Manager,Chicago,01-06-2015,Inactive,Intern
+EMP1521,Trevor Kane,36,Male,Marketing,Financial Analyst,Senior,Miami,23-10-2015,Active,Intern
+EMP1522,Debbie Porter,53,Male,Sales,Financial Analyst,Mid,Los Angeles,16-02-2021,Active,Part-time
+EMP1523,William Taylor,23,Female,IT,Software Engineer,Mid,Chicago,19-04-2018,Inactive,Part-time
+EMP1524,Emma Maldonado,45,Male,IT,Physiotherapist,Manager,San Francisco,23-11-2022,Active,Intern
+EMP1525,Andre Graham,57,Other,HR,Marketing Executive,Entry,Los Angeles,15-09-2018,Inactive,Intern
+EMP1526,Justin Gardner,60,Male,Marketing,Physiotherapist,Entry,Chicago,07-04-2021,Inactive,Contract
+EMP1527,Theresa Cruz,30,Other,Operations,HR Manager,Mid,Los Angeles,12-05-2015,Active,Part-time
+EMP1528,Jessica Young,36,Male,IT,Physiotherapist,Manager,Miami,21-02-2022,Inactive,Intern
+EMP1529,David Smith,24,Other,Sales,Financial Analyst,Director,Miami,01-05-2023,Inactive,Part-time
+EMP1530,Christopher Gutierrez,54,Male,Finance,Financial Analyst,Manager,San Francisco,30-07-2023,Inactive,Part-time
+EMP1531,Jodi Johnson,29,Female,HR,Data Analyst,Mid,Los Angeles,14-11-2022,Active,Full-time
+EMP1532,Tyler Carlson,58,Female,Operations,Software Engineer,Mid,Houston,17-02-2023,Active,Contract
+EMP1533,Melissa George,48,Male,Operations,Software Engineer,Mid,Chicago,01-01-2019,Active,Part-time
+EMP1534,Nicole Cook,34,Female,Finance,Physiotherapist,Entry,Houston,12-05-2020,Inactive,Full-time
+EMP1535,Marcus Simmons,31,Male,Finance,HR Manager,Entry,Los Angeles,29-01-2025,Inactive,Full-time
+EMP1536,Keith Hogan,43,Male,IT,Financial Analyst,Senior,New York,07-10-2021,Active,Intern
+EMP1537,Gregory Johnson,48,Female,Operations,Software Engineer,Entry,Los Angeles,30-09-2021,Inactive,Intern
+EMP1538,Patrick Kelley,54,Other,HR,HR Manager,Senior,Chicago,17-10-2017,Active,Part-time
+EMP1539,Steve Clements,44,Other,Finance,Software Engineer,Manager,Houston,19-11-2015,Inactive,Contract
+EMP1540,Nicholas Smith,30,Other,Sales,Software Engineer,Entry,Los Angeles,21-08-2019,Inactive,Full-time
+EMP1541,William Herman,45,Other,IT,Marine Scientist,Senior,New York,03-12-2019,Active,Contract
+EMP1542,James Jackson,56,Male,HR,Marine Scientist,Senior,Chicago,14-09-2017,Active,Full-time
+EMP1543,Dr. Samantha Davis,38,Female,Marketing,Marketing Executive,Senior,Houston,11-03-2023,Active,Part-time
+EMP1544,Rodney Sloan,34,Male,Sales,Software Engineer,Manager,Chicago,02-07-2017,Inactive,Full-time
+EMP1545,Eric Austin MD,22,Female,Finance,Project Manager,Director,Chicago,12-08-2024,Active,Intern
+EMP1546,Danielle Smith,54,Female,Finance,HR Manager,Manager,San Francisco,07-02-2019,Inactive,Part-time
+EMP1547,Elizabeth Christensen,53,Male,Marketing,Software Engineer,Entry,Houston,02-09-2022,Inactive,Intern
+EMP1548,Jasmine Smith,34,Male,Operations,Project Manager,Manager,Chicago,25-02-2021,Inactive,Full-time
+EMP1549,Deborah Cannon,60,Other,Finance,Project Manager,Senior,Chicago,18-07-2024,Inactive,Part-time
+EMP1550,Thomas Herrera,36,Male,HR,Software Engineer,Senior,New York,26-10-2021,Inactive,Contract
+EMP1551,Scott Bradley,46,Other,IT,HR Manager,Entry,Los Angeles,26-02-2019,Active,Intern
+EMP1552,Zachary Carrillo,46,Male,Marketing,Marine Scientist,Manager,Los Angeles,26-08-2019,Active,Part-time
+EMP1553,Stephanie Henry,45,Other,Marketing,Financial Analyst,Senior,San Francisco,17-10-2020,Inactive,Contract
+EMP1554,Holly Larson,35,Other,Operations,Project Manager,Manager,Chicago,15-04-2015,Inactive,Contract
+EMP1555,Nichole Hogan,37,Female,Finance,Software Engineer,Manager,Los Angeles,08-04-2022,Inactive,Part-time
+EMP1556,Julie Rowe,37,Male,Marketing,Physiotherapist,Manager,San Francisco,28-04-2017,Active,Part-time
+EMP1557,Tyler Aguirre,24,Female,Operations,Data Analyst,Director,Los Angeles,26-02-2023,Inactive,Part-time
+EMP1558,Daniel Lewis DDS,41,Male,Sales,Marketing Executive,Entry,Miami,25-10-2017,Active,Intern
+EMP1559,Micheal Blair,39,Male,HR,Marine Scientist,Mid,Miami,20-11-2015,Active,Full-time
+EMP1560,Damon Mckenzie,31,Male,IT,Software Engineer,Manager,Chicago,23-01-2022,Active,Contract
+EMP1561,Cindy Anderson,42,Other,Marketing,Software Engineer,Entry,Chicago,06-10-2016,Active,Intern
+EMP1562,Catherine Harris,39,Other,Operations,Project Manager,Entry,New York,11-10-2020,Active,Full-time
+EMP1563,Daniel Le,27,Male,Marketing,Marine Scientist,Entry,Houston,13-07-2024,Active,Part-time
+EMP1564,Lauren James,26,Other,Sales,Marketing Executive,Senior,Houston,22-09-2024,Active,Contract
+EMP1565,Alan Pitts,42,Female,Operations,Physiotherapist,Manager,New York,25-02-2023,Inactive,Part-time
+EMP1566,Luis Miller,36,Other,Sales,Marine Scientist,Manager,New York,21-08-2020,Active,Contract
+EMP1567,Jennifer Wang,42,Female,Marketing,HR Manager,Senior,Chicago,30-08-2016,Active,Contract
+EMP1568,James Peck,41,Other,Sales,Physiotherapist,Senior,Miami,19-08-2018,Inactive,Full-time
+EMP1569,Jade Le,41,Other,HR,Physiotherapist,Entry,New York,01-11-2024,Active,Part-time
+EMP1570,Luke Logan,48,Female,IT,Project Manager,Director,Miami,25-03-2022,Active,Part-time
+EMP1571,Rachel Morton,35,Male,HR,Marketing Executive,Entry,Houston,17-03-2015,Inactive,Intern
+EMP1572,Angela Wilson,41,Male,IT,Marine Scientist,Senior,San Francisco,22-04-2016,Inactive,Part-time
+EMP1573,Amy Silva,59,Male,Finance,Marine Scientist,Mid,Houston,12-02-2017,Active,Contract
+EMP1574,Michael Suarez,51,Male,HR,HR Manager,Senior,Chicago,19-08-2023,Active,Contract
+EMP1575,Valerie Carson,28,Other,HR,Project Manager,Entry,Chicago,12-05-2023,Inactive,Part-time
+EMP1576,James Clayton,32,Male,HR,Software Engineer,Senior,Los Angeles,27-03-2021,Active,Full-time
+EMP1577,Hailey Powell,47,Male,Marketing,Financial Analyst,Mid,Houston,24-10-2023,Active,Full-time
+EMP1578,Carlos Perry,23,Male,HR,Data Analyst,Director,New York,28-07-2022,Inactive,Full-time
+EMP1579,Bonnie Walker,46,Male,Marketing,Marketing Executive,Director,Houston,15-09-2024,Inactive,Full-time
+EMP1580,Jose Jordan,47,Female,Finance,Physiotherapist,Mid,Los Angeles,21-02-2020,Active,Contract
+EMP1581,Mary Price,29,Other,Finance,Data Analyst,Manager,Chicago,14-08-2022,Active,Contract
+EMP1582,Eric Whitney,47,Other,Finance,Software Engineer,Senior,Los Angeles,03-01-2022,Inactive,Intern
+EMP1583,Alexa Cole,35,Other,HR,Project Manager,Manager,Los Angeles,28-04-2018,Inactive,Intern
+EMP1584,Danny Simmons Jr.,27,Female,HR,Software Engineer,Director,San Francisco,12-01-2017,Inactive,Part-time
+EMP1585,Todd Kelly,50,Male,Operations,HR Manager,Senior,Houston,03-10-2018,Active,Contract
+EMP1586,Victor Kelly,46,Male,Finance,HR Manager,Manager,Houston,14-05-2024,Inactive,Contract
+EMP1587,Stephanie Martin,23,Male,IT,Financial Analyst,Entry,Los Angeles,06-02-2025,Active,Full-time
+EMP1588,Jeremy Andersen,39,Male,Operations,Marketing Executive,Director,New York,17-10-2020,Inactive,Full-time
+EMP1589,Adam Smith,47,Male,Marketing,Financial Analyst,Director,Houston,25-03-2024,Active,Full-time
+EMP1590,Elizabeth Landry,47,Male,IT,HR Manager,Mid,Miami,20-09-2021,Active,Full-time
+EMP1591,Eric Osborne,39,Male,Finance,HR Manager,Entry,Houston,07-01-2018,Active,Contract
+EMP1592,Colin Wang,43,Other,Sales,Physiotherapist,Senior,Miami,04-06-2024,Active,Intern
+EMP1593,Pamela Ballard,60,Female,Marketing,Physiotherapist,Director,Los Angeles,19-05-2017,Active,Full-time
+EMP1594,Katie Hayes,24,Female,Operations,Project Manager,Mid,Los Angeles,19-11-2022,Inactive,Contract
+EMP1595,Aaron Anderson,27,Other,Operations,Financial Analyst,Entry,Chicago,31-08-2024,Inactive,Part-time
+EMP1596,Heather Sanchez,58,Male,Sales,HR Manager,Manager,Miami,02-08-2021,Active,Contract
+EMP1597,Devin Davis,38,Female,Sales,HR Manager,Entry,Houston,24-01-2024,Inactive,Full-time
+EMP1598,Andrew Hodges,29,Male,Operations,Marine Scientist,Mid,Miami,05-06-2015,Active,Contract
+EMP1599,David Johns,43,Other,IT,Project Manager,Senior,Houston,05-02-2020,Active,Part-time
+EMP1600,James Andrews,56,Other,Finance,Marketing Executive,Entry,Houston,23-08-2023,Active,Full-time
+EMP1601,Belinda Lindsey,25,Other,Sales,HR Manager,Senior,San Francisco,03-08-2022,Active,Full-time
+EMP1602,Aaron Blanchard,54,Female,Operations,Data Analyst,Entry,Houston,13-11-2021,Inactive,Contract
+EMP1603,Billy Osborn,30,Male,IT,Financial Analyst,Manager,Houston,24-12-2021,Inactive,Part-time
+EMP1604,Matthew Holland,36,Female,Finance,Marine Scientist,Director,Chicago,12-01-2023,Active,Contract
+EMP1605,Kelly Ayala,47,Female,Finance,Data Analyst,Manager,San Francisco,21-10-2015,Inactive,Full-time
+EMP1606,Gregory Marquez,52,Female,HR,Marine Scientist,Entry,Chicago,26-11-2019,Active,Intern
+EMP1607,Samantha Snyder,40,Other,Sales,Project Manager,Senior,Los Angeles,07-09-2016,Active,Part-time
+EMP1608,Stacy Frank,43,Female,Operations,Marine Scientist,Entry,New York,01-04-2015,Active,Part-time
+EMP1609,Michael Morse,53,Male,Finance,Marketing Executive,Senior,New York,29-03-2021,Active,Intern
+EMP1610,Mrs. Susan Long,46,Female,IT,Marketing Executive,Entry,Los Angeles,14-06-2023,Active,Intern
+EMP1611,Christopher Torres,23,Male,Finance,Financial Analyst,Mid,San Francisco,29-02-2024,Inactive,Contract
+EMP1612,Alfred Michael,32,Male,Operations,Software Engineer,Director,Miami,25-07-2021,Active,Part-time
+EMP1613,Angie Cruz,23,Male,Sales,Project Manager,Entry,Los Angeles,15-11-2023,Active,Part-time
+EMP1614,Peter Miller,55,Other,Marketing,Software Engineer,Senior,Miami,22-03-2015,Active,Intern
+EMP1615,Marcus Calderon,27,Other,Marketing,Marine Scientist,Director,Houston,07-02-2020,Inactive,Contract
+EMP1616,Christopher Johnson,52,Other,Marketing,Project Manager,Director,New York,20-06-2015,Active,Part-time
+EMP1617,Meredith Torres,57,Male,IT,Financial Analyst,Mid,New York,04-01-2016,Active,Contract
+EMP1618,Christy Bowers,38,Female,Operations,Marketing Executive,Director,San Francisco,27-05-2017,Active,Full-time
+EMP1619,Jennifer Hughes,57,Male,IT,Marine Scientist,Manager,San Francisco,25-12-2016,Inactive,Full-time
+EMP1620,Laura Clarke,60,Female,Sales,Marine Scientist,Director,Chicago,12-07-2024,Inactive,Intern
+EMP1621,Sydney Clark,51,Male,Marketing,Physiotherapist,Senior,San Francisco,29-10-2022,Inactive,Part-time
+EMP1622,Willie Lee,34,Other,HR,HR Manager,Entry,New York,28-11-2022,Active,Contract
+EMP1623,Mark Johnson,31,Female,Finance,Financial Analyst,Entry,San Francisco,13-11-2016,Active,Intern
+EMP1624,Stephen Walsh,35,Other,Finance,Physiotherapist,Director,Houston,30-04-2020,Active,Full-time
+EMP1625,Alexander Henderson,56,Other,IT,Marine Scientist,Mid,Houston,30-07-2018,Active,Part-time
+EMP1626,Chad Harrington,30,Male,IT,Software Engineer,Senior,Los Angeles,23-06-2022,Inactive,Part-time
+EMP1627,Jose Garza,37,Male,IT,Software Engineer,Mid,San Francisco,20-02-2019,Inactive,Full-time
+EMP1628,Angelica Sanchez,29,Female,Marketing,Software Engineer,Mid,Houston,03-01-2022,Inactive,Full-time
+EMP1629,Jessica Copeland,32,Male,HR,Marine Scientist,Director,Chicago,27-10-2024,Inactive,Contract
+EMP1630,William Gomez,46,Other,IT,Project Manager,Manager,New York,23-12-2016,Active,Intern
+EMP1631,Debbie Foster,42,Female,Finance,Physiotherapist,Director,Chicago,09-02-2021,Inactive,Intern
+EMP1632,Richard Williams,27,Male,Marketing,Project Manager,Entry,New York,24-07-2016,Active,Full-time
+EMP1633,Katrina Wheeler,37,Other,Sales,Software Engineer,Director,Los Angeles,25-05-2016,Active,Full-time
+EMP1634,Darrell Le,29,Other,IT,Marketing Executive,Entry,Houston,30-01-2018,Inactive,Intern
+EMP1635,Kelly Davis,42,Male,HR,Marine Scientist,Director,Chicago,07-04-2018,Active,Contract
+EMP1636,Daniel Mcdonald,47,Other,HR,Data Analyst,Senior,San Francisco,25-03-2024,Active,Full-time
+EMP1637,William Kelly,42,Female,Operations,Data Analyst,Mid,San Francisco,01-02-2024,Active,Intern
+EMP1638,Michael Nelson,39,Female,Operations,Data Analyst,Entry,Chicago,27-12-2015,Inactive,Contract
+EMP1639,Emily Thomas DDS,24,Other,HR,Project Manager,Senior,Chicago,29-07-2017,Active,Part-time
+EMP1640,Elizabeth Young,46,Female,Operations,HR Manager,Entry,Chicago,17-09-2019,Inactive,Part-time
+EMP1641,Randy Oconnor,48,Male,Operations,HR Manager,Entry,New York,07-02-2020,Active,Contract
+EMP1642,Melissa Richards,35,Other,IT,HR Manager,Manager,San Francisco,24-01-2020,Active,Intern
+EMP1643,Christopher Mason,44,Female,Operations,Project Manager,Entry,Miami,29-10-2023,Inactive,Part-time
+EMP1644,Antonio Reyes,42,Other,Marketing,Project Manager,Senior,Miami,18-02-2019,Active,Intern
+EMP1645,Todd Owens,58,Other,Sales,Software Engineer,Mid,San Francisco,20-08-2024,Inactive,Full-time
+EMP1646,Laura Davila,53,Female,Operations,Software Engineer,Director,Los Angeles,06-12-2021,Inactive,Intern
+EMP1647,Stephen Orozco,24,Female,Sales,Software Engineer,Director,New York,08-01-2017,Inactive,Intern
+EMP1648,Timothy Dyer,43,Female,Marketing,Marine Scientist,Mid,San Francisco,19-10-2016,Active,Intern
+EMP1649,Justin Wallace,51,Female,HR,Physiotherapist,Mid,San Francisco,01-03-2023,Active,Full-time
+EMP1650,Zachary Solomon,31,Female,HR,Financial Analyst,Senior,Houston,03-02-2022,Inactive,Part-time
+EMP1651,Zachary Williams,59,Female,Marketing,Marketing Executive,Manager,New York,05-11-2024,Inactive,Full-time
+EMP1652,April Hernandez,25,Other,Operations,Marine Scientist,Entry,Houston,28-10-2019,Active,Part-time
+EMP1653,Bryan Gallagher,51,Male,HR,Software Engineer,Manager,New York,26-10-2015,Inactive,Full-time
+EMP1654,Manuel Jones,33,Male,Sales,Software Engineer,Mid,Houston,09-11-2015,Inactive,Part-time
+EMP1655,Isaac Crane,30,Female,Sales,Marine Scientist,Entry,Houston,08-03-2021,Active,Full-time
+EMP1656,Abigail Mclean,54,Male,Marketing,Physiotherapist,Director,New York,15-12-2018,Active,Full-time
+EMP1657,Tonya Jackson,51,Other,Marketing,Project Manager,Mid,Chicago,05-07-2016,Active,Intern
+EMP1658,Derrick Potts,51,Other,Finance,Physiotherapist,Manager,Chicago,09-01-2019,Active,Intern
+EMP1659,Richard Garcia,40,Male,IT,Data Analyst,Entry,Houston,21-05-2020,Active,Part-time
+EMP1660,Elizabeth Anderson,44,Female,Finance,Marine Scientist,Senior,New York,05-11-2021,Inactive,Full-time
+EMP1661,Jon Holland,58,Other,IT,Physiotherapist,Senior,New York,02-03-2024,Inactive,Contract
+EMP1662,Audrey Ray,42,Female,IT,Software Engineer,Director,Houston,04-07-2016,Active,Part-time
+EMP1663,Jerry Lane,48,Other,Finance,Financial Analyst,Mid,Los Angeles,17-03-2015,Active,Full-time
+EMP1664,Cindy Middleton,39,Other,Operations,Physiotherapist,Entry,Houston,22-02-2016,Active,Full-time
+EMP1665,Carolyn Hoover,37,Female,HR,Physiotherapist,Entry,Chicago,09-05-2015,Inactive,Contract
+EMP1666,Olivia Gordon,27,Male,Operations,Software Engineer,Mid,New York,13-06-2015,Active,Contract
+EMP1667,Joseph Kelly Jr.,34,Female,Operations,Project Manager,Director,Chicago,26-10-2017,Inactive,Part-time
+EMP1668,Scott Norris,31,Female,Sales,Data Analyst,Manager,Los Angeles,01-12-2016,Active,Contract
+EMP1669,Lindsay Ross,52,Male,Sales,Project Manager,Mid,San Francisco,24-12-2018,Inactive,Contract
+EMP1670,Amanda Jenkins,52,Other,Operations,Software Engineer,Entry,New York,30-01-2019,Active,Intern
+EMP1671,Ricardo Wilkins,50,Male,Finance,Marine Scientist,Director,San Francisco,18-06-2022,Inactive,Contract
+EMP1672,John Sullivan,44,Male,Finance,Marine Scientist,Entry,Houston,18-02-2023,Active,Part-time
+EMP1673,Brian Castro,27,Male,Finance,Financial Analyst,Senior,New York,06-06-2019,Inactive,Contract
+EMP1674,Samantha Murphy,42,Male,Finance,HR Manager,Mid,Houston,08-03-2021,Inactive,Full-time
+EMP1675,Jessica Butler,34,Male,Finance,Project Manager,Mid,San Francisco,01-12-2021,Inactive,Contract
+EMP1676,Jesse West,37,Female,IT,Financial Analyst,Director,Miami,28-11-2020,Inactive,Intern
+EMP1677,Kelly Olson,37,Female,Finance,Project Manager,Director,Chicago,02-02-2020,Inactive,Intern
+EMP1678,Jordan Thomas,30,Male,HR,Marketing Executive,Mid,Chicago,31-12-2019,Active,Full-time
+EMP1679,Anthony Brown,23,Female,Operations,Financial Analyst,Manager,Los Angeles,10-07-2021,Active,Part-time
+EMP1680,Ryan Cruz,34,Other,Finance,HR Manager,Director,San Francisco,15-02-2024,Inactive,Intern
+EMP1681,Cynthia Edwards,57,Male,IT,Physiotherapist,Manager,Houston,09-11-2016,Inactive,Contract
+EMP1682,Abigail Rice MD,35,Male,IT,Physiotherapist,Manager,San Francisco,09-04-2019,Inactive,Contract
+EMP1683,Ruth Johnson,29,Other,HR,Marketing Executive,Director,Miami,20-05-2017,Inactive,Full-time
+EMP1684,David Clark,50,Female,Sales,HR Manager,Senior,San Francisco,10-04-2018,Inactive,Full-time
+EMP1685,Brianna Ryan,60,Other,Finance,Software Engineer,Director,Chicago,15-07-2019,Inactive,Part-time
+EMP1686,Jennifer Foster,46,Male,Sales,Software Engineer,Mid,San Francisco,08-01-2022,Inactive,Part-time
+EMP1687,Douglas Donovan,39,Male,Sales,Software Engineer,Director,New York,19-08-2018,Active,Full-time
+EMP1688,Jeffrey Choi,24,Male,Sales,Software Engineer,Mid,Miami,26-03-2016,Inactive,Full-time
+EMP1689,Javier Montgomery,56,Other,Finance,Project Manager,Director,Los Angeles,14-03-2023,Inactive,Contract
+EMP1690,Mark Gardner,52,Female,IT,Marketing Executive,Entry,San Francisco,04-01-2022,Active,Intern
+EMP1691,Tammy Lucas,47,Male,Finance,Data Analyst,Director,Chicago,25-03-2021,Active,Part-time
+EMP1692,Kelly Wilcox,45,Other,Finance,Physiotherapist,Entry,Houston,15-03-2023,Inactive,Part-time
+EMP1693,Jay Brown,50,Male,Finance,Project Manager,Senior,Miami,01-09-2017,Inactive,Intern
+EMP1694,Carol Armstrong,59,Female,HR,Physiotherapist,Entry,Houston,07-04-2021,Active,Contract
+EMP1695,Tyler Rogers,59,Male,HR,Marine Scientist,Senior,San Francisco,02-03-2017,Inactive,Part-time
+EMP1696,Sarah Abbott,48,Female,Sales,Software Engineer,Director,Chicago,24-09-2019,Inactive,Full-time
+EMP1697,Gary Banks,51,Male,IT,Project Manager,Entry,San Francisco,29-06-2023,Inactive,Part-time
+EMP1698,Kevin Potter,57,Female,HR,Physiotherapist,Entry,Miami,11-11-2024,Inactive,Part-time
+EMP1699,John Davis,35,Male,IT,Financial Analyst,Manager,Los Angeles,13-12-2015,Inactive,Full-time
+EMP1700,Danielle Hernandez,45,Other,IT,Financial Analyst,Mid,Los Angeles,10-08-2023,Active,Full-time
+EMP1701,Brenda Butler MD,49,Other,Operations,Software Engineer,Senior,New York,30-04-2021,Inactive,Part-time
+EMP1702,Thomas Cannon,24,Other,IT,Physiotherapist,Senior,New York,01-09-2023,Inactive,Contract
+EMP1703,Kenneth Duffy,28,Other,IT,HR Manager,Entry,Houston,07-01-2019,Active,Part-time
+EMP1704,Donna Harris,49,Other,IT,Data Analyst,Director,New York,07-10-2016,Inactive,Full-time
+EMP1705,Mary Anderson,40,Female,Marketing,Marketing Executive,Mid,San Francisco,12-07-2024,Inactive,Part-time
+EMP1706,Ricardo Nguyen,58,Other,Sales,Project Manager,Manager,Houston,08-12-2015,Inactive,Full-time
+EMP1707,Xavier Ray,31,Other,Finance,Marine Scientist,Entry,Miami,24-02-2022,Inactive,Contract
+EMP1708,Yolanda Edwards,31,Other,Operations,Data Analyst,Director,Chicago,01-03-2024,Inactive,Part-time
+EMP1709,Jeffrey Sweeney,58,Other,HR,Marketing Executive,Senior,Los Angeles,27-10-2015,Inactive,Intern
+EMP1710,Clarence Smith,28,Female,Marketing,Data Analyst,Director,Miami,14-10-2015,Inactive,Part-time
+EMP1711,Gabriel Brown,42,Male,HR,Marine Scientist,Senior,Miami,27-09-2021,Inactive,Intern
+EMP1712,Kelsey Copeland,38,Other,Marketing,Financial Analyst,Manager,New York,12-12-2018,Inactive,Full-time
+EMP1713,Renee Thompson,23,Other,Marketing,Financial Analyst,Entry,Chicago,29-06-2015,Inactive,Contract
+EMP1714,David Macias,55,Male,Sales,Project Manager,Director,Los Angeles,07-02-2025,Active,Part-time
+EMP1715,Morgan Vasquez,28,Female,Sales,Software Engineer,Director,Miami,13-02-2016,Active,Full-time
+EMP1716,Dr. Carrie Hernandez,39,Female,Operations,Marine Scientist,Entry,Houston,22-04-2016,Inactive,Part-time
+EMP1717,Jessica Davis,23,Male,IT,Project Manager,Senior,Houston,17-08-2016,Inactive,Full-time
+EMP1718,Natasha Campbell,35,Female,Finance,Project Manager,Entry,New York,08-01-2025,Inactive,Full-time
+EMP1719,Kyle Mullen,25,Male,IT,HR Manager,Manager,San Francisco,11-02-2024,Inactive,Intern
+EMP1720,Lisa Riggs,25,Other,Operations,Financial Analyst,Manager,San Francisco,17-04-2020,Active,Contract
+EMP1721,Randy Fletcher,26,Female,IT,Marine Scientist,Entry,San Francisco,16-08-2023,Inactive,Part-time
+EMP1722,Nathan Harris,46,Female,Operations,Project Manager,Senior,New York,26-09-2022,Active,Contract
+EMP1723,Randall Davis,59,Female,Finance,Software Engineer,Mid,San Francisco,24-06-2016,Inactive,Intern
+EMP1724,Larry Smith,44,Male,Sales,Marine Scientist,Senior,San Francisco,05-11-2018,Active,Part-time
+EMP1725,Micheal Brooks,54,Female,Finance,HR Manager,Entry,Miami,13-08-2015,Active,Contract
+EMP1726,Janet Sherman,33,Female,Marketing,Marine Scientist,Mid,San Francisco,02-03-2025,Active,Part-time
+EMP1727,Richard Herrera,29,Male,HR,Data Analyst,Entry,Chicago,22-12-2021,Active,Contract
+EMP1728,Wendy Hickman,42,Other,Finance,Marine Scientist,Entry,Houston,09-02-2018,Active,Part-time
+EMP1729,Curtis Lloyd,25,Other,Sales,HR Manager,Senior,San Francisco,01-08-2016,Inactive,Contract
+EMP1730,Sharon Davidson,58,Male,Finance,Physiotherapist,Entry,San Francisco,18-01-2025,Active,Full-time
+EMP1731,Michael Thomas,23,Other,IT,Project Manager,Entry,Chicago,03-02-2024,Active,Part-time
+EMP1732,Kelly Davis,52,Male,Finance,Marketing Executive,Mid,San Francisco,11-08-2017,Active,Part-time
+EMP1733,Suzanne Moore,34,Female,Sales,Software Engineer,Senior,Houston,15-05-2016,Inactive,Intern
+EMP1734,Clifford Gutierrez,47,Other,Finance,Software Engineer,Entry,New York,01-02-2023,Active,Full-time
+EMP1735,Dr. Alicia Spencer,28,Other,Marketing,Software Engineer,Manager,Chicago,05-05-2024,Active,Full-time
+EMP1736,David Adkins,31,Other,Finance,Marketing Executive,Mid,San Francisco,26-04-2022,Inactive,Contract
+EMP1737,Curtis Cunningham,28,Other,HR,Project Manager,Mid,Los Angeles,21-03-2023,Active,Intern
+EMP1738,Mr. Scott Robinson,35,Male,Sales,Marine Scientist,Entry,Miami,16-08-2016,Inactive,Full-time
+EMP1739,Thomas Barrett PhD,36,Female,HR,HR Manager,Senior,Los Angeles,18-09-2024,Inactive,Intern
+EMP1740,Robert Berg,41,Male,Sales,Data Analyst,Mid,Los Angeles,14-07-2019,Active,Part-time
+EMP1741,Jeanette Villanueva,37,Other,IT,Marine Scientist,Entry,Chicago,18-07-2024,Active,Part-time
+EMP1742,Stacy Hudson,53,Other,Finance,Marketing Executive,Entry,Houston,30-12-2021,Active,Part-time
+EMP1743,Rebecca Pierce,37,Male,Marketing,Software Engineer,Mid,Miami,24-08-2023,Inactive,Full-time
+EMP1744,Jesse Atkins,40,Other,Sales,Financial Analyst,Entry,Houston,03-05-2023,Inactive,Full-time
+EMP1745,William Martinez,36,Male,IT,Physiotherapist,Manager,Chicago,03-02-2020,Inactive,Full-time
+EMP1746,Steven Baird,29,Male,Marketing,Marketing Executive,Senior,Miami,18-11-2021,Inactive,Contract
+EMP1747,Lisa Smith,35,Other,Finance,Financial Analyst,Senior,Los Angeles,27-06-2018,Active,Contract
+EMP1748,Juan Jones,40,Female,Marketing,HR Manager,Manager,Chicago,02-06-2015,Active,Full-time
+EMP1749,James Watts,60,Male,Sales,Financial Analyst,Senior,Chicago,16-01-2021,Active,Intern
+EMP1750,Thomas Huber,55,Other,Marketing,HR Manager,Mid,Los Angeles,21-07-2015,Active,Part-time
+EMP1751,Kimberly Medina,60,Female,Finance,Software Engineer,Director,San Francisco,18-05-2020,Inactive,Contract
+EMP1752,Richard Keith,59,Female,Sales,Marketing Executive,Entry,Houston,24-10-2020,Active,Part-time
+EMP1753,Elizabeth Morris,60,Female,Sales,Marine Scientist,Senior,Houston,20-08-2024,Active,Part-time
+EMP1754,Monica Fields,59,Female,HR,Marine Scientist,Mid,New York,06-04-2020,Active,Intern
+EMP1755,Jane Knox,31,Other,Sales,Financial Analyst,Entry,Miami,10-07-2015,Inactive,Contract
+EMP1756,Tanya Reynolds,46,Male,IT,HR Manager,Manager,Los Angeles,16-07-2020,Inactive,Full-time
+EMP1757,Summer Walker,55,Female,Sales,Software Engineer,Senior,Chicago,03-06-2022,Active,Full-time
+EMP1758,Rachel Chapman,33,Other,Operations,HR Manager,Senior,Los Angeles,05-11-2017,Inactive,Full-time
+EMP1759,Elaine Taylor,25,Female,IT,Marketing Executive,Senior,Miami,07-12-2019,Active,Part-time
+EMP1760,Kyle Avila,41,Other,IT,HR Manager,Entry,Houston,14-08-2022,Active,Part-time
+EMP1761,Brittany Coleman,35,Female,HR,Data Analyst,Entry,San Francisco,03-10-2021,Inactive,Intern
+EMP1762,Jonathan Burgess,36,Other,Marketing,Physiotherapist,Manager,New York,15-12-2016,Active,Contract
+EMP1763,Fernando Taylor,52,Male,Operations,Data Analyst,Mid,Los Angeles,15-07-2016,Active,Part-time
+EMP1764,Jessica Evans,23,Other,IT,Software Engineer,Senior,Los Angeles,11-09-2019,Active,Contract
+EMP1765,Todd Shannon,57,Male,Sales,Marketing Executive,Director,New York,13-04-2019,Active,Contract
+EMP1766,Rita Contreras,53,Male,IT,Physiotherapist,Manager,New York,28-11-2015,Inactive,Contract
+EMP1767,Krista Rivera MD,57,Female,Marketing,Marine Scientist,Senior,San Francisco,06-04-2024,Inactive,Part-time
+EMP1768,Hector Stevens,27,Female,Marketing,Marketing Executive,Entry,San Francisco,28-04-2023,Active,Intern
+EMP1769,Eric Vasquez,39,Other,Marketing,Marketing Executive,Director,Houston,30-12-2017,Inactive,Part-time
+EMP1770,Becky Christian DVM,58,Male,Operations,Data Analyst,Entry,Los Angeles,29-11-2019,Inactive,Part-time
+EMP1771,Rhonda Zimmerman,52,Female,Marketing,Marketing Executive,Senior,San Francisco,27-04-2017,Inactive,Part-time
+EMP1772,Megan Vazquez,43,Other,Sales,HR Manager,Mid,Los Angeles,02-08-2019,Active,Intern
+EMP1773,Cindy Johnson,44,Female,Operations,Software Engineer,Mid,Los Angeles,05-02-2016,Inactive,Intern
+EMP1774,Ashley Kelley,59,Female,Finance,Data Analyst,Senior,Los Angeles,06-11-2023,Active,Full-time
+EMP1775,Dennis Pratt,59,Male,Sales,Marine Scientist,Mid,Miami,18-01-2024,Active,Intern
+EMP1776,Jonathan Nicholson,36,Female,Operations,Marine Scientist,Manager,New York,11-09-2023,Inactive,Part-time
+EMP1777,Ricardo King,59,Female,Finance,Financial Analyst,Mid,Los Angeles,04-03-2017,Inactive,Part-time
+EMP1778,Keith Hernandez,46,Female,Finance,Financial Analyst,Mid,Los Angeles,07-01-2019,Inactive,Intern
+EMP1779,Alfred Sanford,45,Female,IT,Software Engineer,Manager,Houston,14-11-2024,Inactive,Part-time
+EMP1780,John Nixon,47,Female,HR,Data Analyst,Senior,Chicago,05-09-2022,Inactive,Intern
+EMP1781,Bryan Stanton,34,Other,Operations,Marketing Executive,Entry,Los Angeles,20-03-2016,Inactive,Intern
+EMP1782,Albert Yang,46,Male,Operations,Marketing Executive,Senior,Chicago,11-05-2022,Active,Part-time
+EMP1783,Lauren Jones,50,Female,Sales,Software Engineer,Mid,San Francisco,04-04-2022,Inactive,Full-time
+EMP1784,Jonathan Mitchell,55,Male,Operations,Physiotherapist,Mid,New York,22-10-2017,Inactive,Intern
+EMP1785,Katie Nguyen,50,Other,Finance,Financial Analyst,Senior,Chicago,12-07-2016,Active,Intern
+EMP1786,Cameron Johnson,47,Female,Operations,Marketing Executive,Entry,Houston,14-05-2015,Inactive,Contract
+EMP1787,Garrett Ruiz,46,Female,IT,Marketing Executive,Senior,San Francisco,06-04-2023,Inactive,Full-time
+EMP1788,Neil Adams,38,Female,Operations,Financial Analyst,Manager,San Francisco,05-11-2021,Active,Intern
+EMP1789,Alexander Taylor,36,Other,Marketing,Project Manager,Manager,Chicago,10-09-2019,Inactive,Intern
+EMP1790,Andrew Franco,48,Female,Sales,Marketing Executive,Senior,Chicago,01-04-2021,Active,Intern
+EMP1791,Cynthia David,32,Male,HR,Software Engineer,Mid,Los Angeles,02-05-2022,Active,Contract
+EMP1792,Joshua Williams,35,Male,Sales,Marketing Executive,Entry,Los Angeles,05-08-2018,Inactive,Full-time
+EMP1793,Robert Harper,59,Male,Finance,Financial Analyst,Director,Chicago,10-03-2022,Inactive,Part-time
+EMP1794,Katherine Carrillo,60,Female,Operations,Marketing Executive,Entry,Houston,20-01-2018,Active,Part-time
+EMP1795,Matthew Kane,60,Female,IT,Data Analyst,Senior,Houston,11-12-2015,Active,Contract
+EMP1796,Bryan Jacobs,35,Female,Finance,Project Manager,Entry,Los Angeles,02-02-2022,Active,Full-time
+EMP1797,Sheena Figueroa,40,Female,Sales,Software Engineer,Director,San Francisco,09-09-2015,Active,Contract
+EMP1798,Sarah Alvarez,42,Male,HR,HR Manager,Entry,New York,15-10-2019,Inactive,Contract
+EMP1799,Patrick Martinez,40,Other,Marketing,Marine Scientist,Senior,Houston,23-11-2016,Active,Intern
+EMP1800,Joseph Evans,42,Female,Marketing,HR Manager,Mid,Miami,27-02-2020,Inactive,Full-time
+EMP1801,Madison Peters,25,Other,Operations,Software Engineer,Mid,Houston,18-03-2022,Active,Contract
+EMP1802,Brian Flynn,45,Female,Operations,Financial Analyst,Entry,New York,23-04-2018,Active,Part-time
+EMP1803,Eric Campos,33,Male,Finance,Financial Analyst,Director,Miami,06-09-2023,Inactive,Full-time
+EMP1804,Jeffrey Boyd,26,Other,IT,Financial Analyst,Mid,San Francisco,14-07-2021,Active,Contract
+EMP1805,Sandra Mcfarland,59,Female,Marketing,Data Analyst,Director,Los Angeles,04-12-2024,Active,Intern
+EMP1806,Robert Cox,59,Female,Finance,Software Engineer,Director,Los Angeles,20-02-2016,Inactive,Intern
+EMP1807,Michael Torres,29,Other,HR,Software Engineer,Director,Los Angeles,29-12-2024,Active,Part-time
+EMP1808,David Davis,41,Other,HR,Physiotherapist,Mid,Houston,30-08-2021,Inactive,Contract
+EMP1809,Nicole Turner,47,Male,Sales,HR Manager,Manager,Los Angeles,02-10-2022,Active,Full-time
+EMP1810,Jeanne Cole,33,Male,IT,Data Analyst,Mid,Chicago,25-07-2019,Active,Full-time
+EMP1811,Sally Clayton,22,Male,Sales,Data Analyst,Manager,San Francisco,09-04-2024,Active,Contract
+EMP1812,Gregory Zuniga,57,Female,Marketing,Marine Scientist,Entry,Miami,04-09-2019,Active,Contract
+EMP1813,Kayla Williams,29,Other,IT,Financial Analyst,Manager,San Francisco,15-04-2015,Inactive,Part-time
+EMP1814,Scott Kelly,29,Male,HR,Marine Scientist,Director,San Francisco,25-07-2017,Inactive,Contract
+EMP1815,Mr. Anthony Edwards,43,Female,Operations,Software Engineer,Director,Los Angeles,02-05-2020,Inactive,Contract
+EMP1816,William Brady,28,Female,Finance,Data Analyst,Manager,Chicago,23-08-2018,Active,Contract
+EMP1817,Jeremiah Vargas,28,Male,Operations,Physiotherapist,Manager,San Francisco,25-03-2018,Active,Part-time
+EMP1818,Lauren Edwards,50,Male,HR,Data Analyst,Entry,New York,18-04-2020,Inactive,Contract
+EMP1819,Mark Perez,28,Female,Marketing,Marine Scientist,Entry,Los Angeles,14-03-2015,Inactive,Contract
+EMP1820,Shannon Beasley,49,Male,Operations,HR Manager,Mid,Los Angeles,15-01-2025,Active,Part-time
+EMP1821,Mary Brown,38,Other,Sales,Data Analyst,Entry,Los Angeles,19-10-2023,Active,Contract
+EMP1822,Leah Gallagher,29,Other,IT,Marine Scientist,Manager,Houston,29-01-2025,Inactive,Part-time
+EMP1823,Jeremy Simmons,53,Female,Finance,Marketing Executive,Entry,Chicago,13-02-2019,Active,Part-time
+EMP1824,Timothy Mcknight,50,Male,Operations,Marine Scientist,Director,Chicago,10-06-2020,Inactive,Full-time
+EMP1825,Dr. Catherine Potter,58,Other,IT,Marketing Executive,Director,New York,04-07-2017,Active,Intern
+EMP1826,Steven Campbell,23,Other,Sales,Marine Scientist,Senior,Miami,21-09-2018,Inactive,Contract
+EMP1827,Andrew Lee,47,Female,Operations,Financial Analyst,Senior,Chicago,29-03-2022,Active,Intern
+EMP1828,Juan French,38,Other,Sales,HR Manager,Entry,San Francisco,02-07-2015,Inactive,Intern
+EMP1829,Linda Winters,34,Other,IT,Marine Scientist,Director,Chicago,16-07-2023,Active,Part-time
+EMP1830,Darryl Young,30,Male,Sales,Data Analyst,Director,Houston,26-06-2020,Inactive,Full-time
+EMP1831,Patricia Ayala,49,Other,HR,Software Engineer,Senior,Chicago,17-02-2019,Inactive,Intern
+EMP1832,Theresa Lee,37,Other,HR,Software Engineer,Mid,San Francisco,10-06-2017,Inactive,Full-time
+EMP1833,James Shelton,38,Other,HR,Marketing Executive,Entry,New York,06-04-2019,Active,Intern
+EMP1834,Stacy Gordon,39,Female,HR,Project Manager,Senior,New York,06-11-2017,Inactive,Intern
+EMP1835,Edward Gray,48,Other,Marketing,HR Manager,Mid,New York,03-06-2023,Inactive,Full-time
+EMP1836,Pamela Valdez,41,Female,Finance,HR Manager,Entry,Los Angeles,08-10-2019,Active,Intern
+EMP1837,Katelyn Campbell,52,Male,IT,Project Manager,Mid,Los Angeles,26-06-2022,Inactive,Full-time
+EMP1838,David Davis,29,Other,Sales,Physiotherapist,Mid,Miami,01-12-2024,Inactive,Part-time
+EMP1839,Christina Ramirez,33,Male,Operations,HR Manager,Director,Miami,08-07-2024,Inactive,Full-time
+EMP1840,Brittany Young,36,Male,Sales,Software Engineer,Mid,Miami,26-10-2015,Active,Intern
+EMP1841,Kellie Hamilton,58,Female,IT,Project Manager,Senior,Chicago,18-08-2022,Active,Intern
+EMP1842,Paula Salazar,39,Male,Finance,HR Manager,Manager,Houston,17-05-2017,Inactive,Intern
+EMP1843,James Dunn,56,Male,Finance,Software Engineer,Mid,Houston,24-05-2023,Active,Intern
+EMP1844,Alan Williams,38,Male,Marketing,Financial Analyst,Manager,Houston,11-03-2015,Active,Part-time
+EMP1845,Joseph Graham,25,Female,Operations,Project Manager,Senior,San Francisco,26-07-2019,Active,Full-time
+EMP1846,John Allen,44,Female,IT,Financial Analyst,Senior,New York,19-02-2018,Inactive,Part-time
+EMP1847,Anita Jenkins,36,Male,Operations,Marketing Executive,Director,Los Angeles,26-05-2018,Inactive,Full-time
+EMP1848,Natalie Wilson,33,Male,Finance,Software Engineer,Director,San Francisco,22-07-2024,Inactive,Part-time
+EMP1849,Crystal Moore,54,Other,IT,Financial Analyst,Manager,Los Angeles,27-09-2023,Inactive,Part-time
+EMP1850,Eugene Wheeler,48,Female,HR,Marine Scientist,Director,Chicago,21-11-2015,Inactive,Part-time
+EMP1851,Christopher Hale,54,Other,Operations,Marketing Executive,Entry,San Francisco,07-03-2016,Inactive,Contract
+EMP1852,Emily Terry,46,Other,Marketing,Marine Scientist,Entry,San Francisco,02-10-2018,Active,Full-time
+EMP1853,Jennifer Lee,32,Female,IT,Project Manager,Director,San Francisco,30-09-2019,Active,Full-time
+EMP1854,Kara Huang,58,Other,IT,Marine Scientist,Mid,Miami,22-09-2022,Active,Contract
+EMP1855,Thomas Ruiz,44,Male,Marketing,Marine Scientist,Director,Los Angeles,07-04-2024,Active,Full-time
+EMP1856,Thomas Cox,47,Other,Sales,Data Analyst,Director,Miami,07-06-2018,Active,Intern
+EMP1857,Eric Marshall,34,Female,HR,Marketing Executive,Senior,New York,01-09-2020,Active,Full-time
+EMP1858,Timothy Andrews,38,Female,Sales,Software Engineer,Senior,Chicago,08-07-2019,Inactive,Contract
+EMP1859,Rose Sanchez,36,Male,Sales,Project Manager,Mid,Houston,03-04-2016,Active,Intern
+EMP1860,Sara Rivera,56,Male,HR,Financial Analyst,Director,Chicago,23-10-2016,Inactive,Full-time
+EMP1861,Jeremy Ross,44,Other,Marketing,Data Analyst,Mid,Houston,09-03-2021,Inactive,Part-time
+EMP1862,Maria Rubio,37,Male,HR,Marine Scientist,Senior,San Francisco,13-12-2018,Inactive,Intern
+EMP1863,Joseph Bell,34,Female,Finance,Financial Analyst,Director,Chicago,23-07-2020,Active,Contract
+EMP1864,Leslie Fletcher,35,Male,Sales,HR Manager,Mid,Chicago,27-10-2015,Inactive,Part-time
+EMP1865,Mallory Browning,33,Male,Marketing,Marine Scientist,Entry,Chicago,09-05-2020,Inactive,Part-time
+EMP1866,Taylor Suarez,39,Male,HR,Software Engineer,Mid,Miami,06-03-2019,Active,Contract
+EMP1867,Kathleen Wilson,31,Other,Finance,Software Engineer,Entry,New York,25-07-2021,Active,Full-time
+EMP1868,Christina Hubbard,58,Male,HR,Data Analyst,Entry,Miami,20-01-2021,Inactive,Full-time
+EMP1869,Laura Tyler,58,Other,Operations,Marketing Executive,Senior,Los Angeles,05-09-2024,Active,Intern
+EMP1870,Peggy Lee,32,Other,IT,Data Analyst,Manager,Chicago,16-03-2017,Inactive,Part-time
+EMP1871,Ryan Blake,45,Other,Marketing,Financial Analyst,Manager,New York,15-01-2023,Active,Full-time
+EMP1872,Catherine Lee,40,Female,Operations,Physiotherapist,Manager,Chicago,22-03-2020,Inactive,Intern
+EMP1873,Charles Fleming,41,Male,Finance,Software Engineer,Director,San Francisco,08-10-2023,Active,Contract
+EMP1874,Andrew Green,47,Female,Marketing,Physiotherapist,Director,New York,01-09-2024,Inactive,Part-time
+EMP1875,Loretta Gutierrez,56,Female,Sales,Data Analyst,Senior,San Francisco,25-08-2016,Active,Part-time
+EMP1876,Tina Davis,29,Other,Finance,Marine Scientist,Director,Los Angeles,19-11-2021,Active,Full-time
+EMP1877,Desiree Lynch,40,Female,Marketing,Software Engineer,Senior,Los Angeles,16-01-2025,Inactive,Intern
+EMP1878,Patrick Castro,33,Female,Operations,Marketing Executive,Entry,Los Angeles,23-07-2020,Inactive,Contract
+EMP1879,Marvin Williams,34,Other,Marketing,Data Analyst,Senior,New York,23-05-2016,Active,Full-time
+EMP1880,Scott Barnes,31,Female,IT,Data Analyst,Entry,Los Angeles,12-09-2015,Inactive,Part-time
+EMP1881,Daniel Fowler,53,Male,Sales,Marine Scientist,Senior,Miami,23-09-2024,Active,Full-time
+EMP1882,Adam Vasquez,42,Other,Sales,Marketing Executive,Entry,New York,07-07-2023,Active,Contract
+EMP1883,Mary Edwards,51,Male,HR,Marine Scientist,Entry,New York,22-09-2020,Inactive,Contract
+EMP1884,Daniel Downs,32,Male,HR,Physiotherapist,Director,Houston,04-12-2015,Inactive,Part-time
+EMP1885,Sydney Rowe,25,Other,IT,Physiotherapist,Entry,Miami,27-12-2019,Inactive,Part-time
+EMP1886,Christine Santana,30,Male,Finance,Financial Analyst,Senior,Chicago,04-08-2019,Inactive,Full-time
+EMP1887,Reginald Davidson,24,Male,Operations,Financial Analyst,Director,New York,01-12-2020,Inactive,Part-time
+EMP1888,Sergio Casey,47,Male,HR,HR Manager,Mid,Miami,27-04-2019,Inactive,Contract
+EMP1889,Sara Cooper,37,Female,IT,Physiotherapist,Mid,Los Angeles,23-05-2024,Inactive,Full-time
+EMP1890,Glenn Levy,37,Female,Finance,Software Engineer,Director,Houston,25-08-2017,Active,Contract
+EMP1891,Audrey Smith,45,Female,Marketing,Physiotherapist,Director,San Francisco,03-07-2023,Active,Contract
+EMP1892,Sarah Harris,46,Female,IT,Data Analyst,Entry,Chicago,16-05-2021,Inactive,Part-time
+EMP1893,Mr. Joshua Goodman,37,Male,HR,Software Engineer,Entry,Miami,08-03-2024,Active,Part-time
+EMP1894,Benjamin Ramirez,40,Male,Finance,Marketing Executive,Senior,Houston,03-11-2020,Active,Full-time
+EMP1895,Kenneth Holloway,42,Female,Finance,HR Manager,Manager,Los Angeles,24-01-2016,Inactive,Full-time
+EMP1896,Maria Cannon,54,Other,Finance,Marine Scientist,Entry,Chicago,01-10-2024,Active,Intern
+EMP1897,Katherine Brown,53,Male,Sales,Software Engineer,Manager,New York,08-12-2015,Active,Contract
+EMP1898,Jonathan Bernard,47,Other,Operations,Data Analyst,Senior,New York,09-03-2021,Active,Part-time
+EMP1899,Nancy Garcia,43,Male,Finance,Software Engineer,Director,Houston,04-02-2017,Active,Contract
+EMP1900,Randy Green,51,Other,Operations,Physiotherapist,Director,Miami,26-07-2015,Active,Full-time
+EMP1901,Joseph Reyes,56,Other,HR,Software Engineer,Senior,Chicago,19-07-2024,Active,Full-time
+EMP1902,Larry Nelson,39,Other,Marketing,Data Analyst,Entry,Chicago,06-03-2018,Inactive,Part-time
+EMP1903,Joshua Harris,43,Male,Operations,Physiotherapist,Senior,Los Angeles,26-09-2018,Inactive,Part-time
+EMP1904,Tiffany Wood,59,Other,Sales,Data Analyst,Director,Chicago,25-08-2021,Active,Intern
+EMP1905,Melinda Jacobs,41,Male,Operations,Marine Scientist,Manager,New York,30-12-2019,Active,Full-time
+EMP1906,Samantha Hill,29,Male,Finance,Data Analyst,Entry,Los Angeles,11-02-2017,Active,Part-time
+EMP1907,Christine Williams,54,Other,IT,Marine Scientist,Senior,New York,01-02-2024,Inactive,Part-time
+EMP1908,Andrew Webb,46,Female,Finance,Marine Scientist,Mid,New York,27-06-2020,Active,Intern
+EMP1909,Isaac Cruz,22,Male,Marketing,Project Manager,Director,Miami,27-02-2022,Inactive,Full-time
+EMP1910,James Shannon,50,Male,HR,Physiotherapist,Mid,Los Angeles,01-04-2019,Active,Part-time
+EMP1911,Brandon Duran,48,Female,HR,Data Analyst,Manager,Chicago,25-03-2023,Inactive,Contract
+EMP1912,Stephen Patel,26,Other,Sales,HR Manager,Director,Houston,01-10-2015,Active,Part-time
+EMP1913,Kathryn Orozco,51,Male,Sales,Data Analyst,Entry,Los Angeles,14-05-2024,Active,Intern
+EMP1914,Jeffrey Wagner,58,Male,HR,Marine Scientist,Senior,Houston,13-11-2017,Active,Contract
+EMP1915,Alicia Harding,46,Female,HR,Software Engineer,Director,Miami,11-05-2018,Active,Contract
+EMP1916,Carmen White,37,Other,HR,Data Analyst,Director,Miami,11-10-2017,Active,Full-time
+EMP1917,Anthony Hernandez,24,Other,HR,Marine Scientist,Manager,San Francisco,24-02-2016,Active,Part-time
+EMP1918,Bryan Hayes,55,Male,Finance,Marine Scientist,Director,Chicago,29-12-2020,Inactive,Full-time
+EMP1919,Ashley Miller,32,Female,HR,Software Engineer,Manager,New York,13-04-2018,Inactive,Contract
+EMP1920,Michael Blackburn,53,Female,Marketing,Project Manager,Senior,Miami,25-08-2022,Inactive,Full-time
+EMP1921,Daniel Holmes,41,Male,Operations,Physiotherapist,Entry,Los Angeles,16-12-2019,Inactive,Contract
+EMP1922,Andrew Miller,47,Male,HR,Data Analyst,Senior,New York,25-12-2023,Inactive,Full-time
+EMP1923,Robert Harris,30,Female,Operations,Physiotherapist,Director,New York,17-06-2022,Inactive,Contract
+EMP1924,Michelle Williams PhD,33,Male,HR,Physiotherapist,Entry,Miami,20-03-2016,Inactive,Part-time
+EMP1925,Kaylee Smith,57,Other,Sales,HR Manager,Senior,Houston,08-11-2016,Active,Part-time
+EMP1926,Charles Parker,42,Female,IT,Data Analyst,Mid,Los Angeles,28-04-2015,Active,Intern
+EMP1927,Jeffrey Coleman,31,Female,IT,HR Manager,Entry,Chicago,17-03-2023,Inactive,Contract
+EMP1928,Martin Thompson,22,Male,Finance,Software Engineer,Director,San Francisco,12-06-2020,Inactive,Full-time
+EMP1929,Christopher Ortega DDS,51,Male,Marketing,Software Engineer,Mid,New York,28-12-2018,Active,Contract
+EMP1930,Gregory Vega Jr.,59,Other,Sales,Physiotherapist,Manager,New York,26-11-2018,Active,Intern
+EMP1931,John Copeland,42,Female,HR,Marine Scientist,Senior,Chicago,18-10-2019,Active,Contract
+EMP1932,Ethan Hanson,47,Other,HR,Financial Analyst,Senior,New York,07-01-2016,Active,Intern
+EMP1933,Derrick Estrada,35,Other,Finance,Data Analyst,Entry,Miami,11-02-2021,Inactive,Contract
+EMP1934,Lori Duffy,47,Female,IT,Software Engineer,Manager,New York,30-06-2022,Active,Contract
+EMP1935,Cynthia Aguilar,44,Female,Finance,Data Analyst,Entry,New York,07-08-2015,Inactive,Full-time
+EMP1936,Jeffrey Jones,32,Male,Operations,Marine Scientist,Entry,Los Angeles,15-04-2017,Inactive,Intern
+EMP1937,Lauren Mclaughlin,22,Female,Operations,Financial Analyst,Entry,Los Angeles,10-11-2018,Active,Contract
+EMP1938,Nathan Munoz,26,Male,Finance,Data Analyst,Director,Chicago,30-06-2023,Inactive,Contract
+EMP1939,Jodi Allen,55,Male,Sales,Project Manager,Director,San Francisco,18-06-2015,Inactive,Contract
+EMP1940,Vicki Jones,30,Female,IT,HR Manager,Manager,Los Angeles,20-03-2023,Active,Full-time
+EMP1941,Derek Phillips,52,Other,Sales,HR Manager,Senior,Miami,21-01-2021,Active,Intern
+EMP1942,Fred Ball,38,Female,Finance,Physiotherapist,Senior,Chicago,01-11-2023,Inactive,Full-time
+EMP1943,Jeff Day,38,Other,Marketing,HR Manager,Manager,Miami,11-12-2016,Inactive,Full-time
+EMP1944,Rebecca Cruz,25,Male,Marketing,HR Manager,Entry,New York,20-02-2018,Active,Full-time
+EMP1945,Cynthia Hopkins,46,Male,Operations,Marine Scientist,Director,Houston,04-02-2025,Active,Intern
+EMP1946,Billy Johnson,57,Other,HR,Software Engineer,Manager,New York,09-10-2021,Inactive,Contract
+EMP1947,Linda Jennings,41,Female,Operations,Physiotherapist,Senior,Chicago,31-05-2018,Inactive,Contract
+EMP1948,Mrs. Janet Hudson,48,Male,Finance,Marketing Executive,Manager,Houston,03-01-2020,Active,Full-time
+EMP1949,Keith Weiss,58,Female,Sales,Physiotherapist,Mid,San Francisco,31-10-2015,Inactive,Intern
+EMP1950,Jordan Stewart,45,Female,Finance,Data Analyst,Senior,Houston,03-07-2023,Active,Intern
+EMP1951,Zachary Brown,38,Female,Sales,Software Engineer,Entry,Chicago,28-07-2017,Active,Intern
+EMP1952,Carly Davis,37,Other,Finance,Physiotherapist,Mid,New York,17-11-2019,Active,Part-time
+EMP1953,Alicia Molina,26,Male,HR,Data Analyst,Entry,Houston,26-07-2020,Active,Intern
+EMP1954,Heather Morris,54,Other,Operations,Physiotherapist,Entry,Chicago,04-06-2020,Inactive,Intern
+EMP1955,Stephanie Johnson,53,Other,Marketing,HR Manager,Manager,New York,11-08-2020,Active,Contract
+EMP1956,Andrew Davis,57,Female,IT,Data Analyst,Senior,San Francisco,08-08-2015,Active,Contract
+EMP1957,John Pope,57,Male,IT,Data Analyst,Entry,Chicago,26-08-2020,Inactive,Intern
+EMP1958,Kenneth Cruz,40,Male,Sales,Project Manager,Senior,Miami,17-02-2024,Active,Full-time
+EMP1959,Samuel Casey,50,Other,Marketing,Physiotherapist,Manager,New York,17-07-2022,Inactive,Contract
+EMP1960,Terry Ho,35,Male,Finance,Software Engineer,Entry,Los Angeles,19-04-2019,Inactive,Intern
+EMP1961,Joseph Anderson,32,Other,Marketing,Physiotherapist,Entry,San Francisco,28-07-2018,Inactive,Part-time
+EMP1962,Jacob Harris,31,Female,Sales,Financial Analyst,Senior,New York,17-08-2019,Inactive,Contract
+EMP1963,Tyrone Morgan,50,Female,Operations,HR Manager,Entry,Chicago,08-07-2022,Inactive,Part-time
+EMP1964,Brooke Sullivan MD,23,Male,Operations,HR Manager,Senior,Miami,12-04-2024,Inactive,Intern
+EMP1965,Matthew Ferguson,28,Male,IT,Marketing Executive,Manager,Houston,26-12-2019,Inactive,Part-time
+EMP1966,Jessica Hernandez,22,Male,Finance,Marine Scientist,Manager,Miami,21-08-2021,Active,Full-time
+EMP1967,Michael Smith,57,Male,HR,Financial Analyst,Director,New York,02-08-2016,Active,Part-time
+EMP1968,Carlos Bean,37,Female,HR,Software Engineer,Entry,Chicago,13-11-2016,Active,Contract
+EMP1969,Rodney Miller,34,Male,Sales,Physiotherapist,Director,New York,11-10-2019,Active,Intern
+EMP1970,Shannon Fox,33,Female,Finance,Marketing Executive,Senior,Chicago,12-05-2015,Active,Intern
+EMP1971,Andrew Taylor,55,Male,Sales,Physiotherapist,Senior,Miami,09-03-2021,Inactive,Intern
+EMP1972,Oscar Pierce,32,Other,Finance,Software Engineer,Mid,San Francisco,17-12-2021,Inactive,Part-time
+EMP1973,Sarah Delgado,50,Male,Operations,Financial Analyst,Entry,Chicago,25-07-2023,Inactive,Full-time
+EMP1974,Mary Armstrong,52,Male,HR,Project Manager,Mid,New York,15-08-2015,Inactive,Intern
+EMP1975,Samantha Martinez,50,Female,IT,Financial Analyst,Entry,Los Angeles,02-12-2016,Active,Intern
+EMP1976,Eric Robertson,24,Male,Finance,Financial Analyst,Senior,Los Angeles,21-12-2020,Active,Contract
+EMP1977,Teresa Dyer,41,Female,HR,Financial Analyst,Director,Houston,05-03-2016,Inactive,Full-time
+EMP1978,Kevin Noble,46,Other,Finance,Marine Scientist,Entry,Los Angeles,10-10-2019,Inactive,Intern
+EMP1979,Kevin Lozano PhD,24,Female,Operations,Software Engineer,Director,New York,25-08-2017,Inactive,Part-time
+EMP1980,Tammy Ruiz,50,Female,Sales,Financial Analyst,Director,Chicago,04-07-2017,Inactive,Intern
+EMP1981,Mr. Fernando Harrison,47,Other,Operations,Data Analyst,Mid,New York,30-12-2021,Active,Full-time
+EMP1982,Patrick Ryan,28,Female,HR,Marine Scientist,Senior,San Francisco,23-05-2018,Inactive,Full-time
+EMP1983,Regina Decker,36,Female,Marketing,Data Analyst,Senior,Miami,21-08-2022,Inactive,Part-time
+EMP1984,Tina Webster,58,Male,Sales,Financial Analyst,Senior,Houston,20-02-2018,Active,Intern
+EMP1985,Richard Davidson,42,Female,IT,Financial Analyst,Director,Los Angeles,10-01-2018,Active,Intern
+EMP1986,Jamie Cruz,27,Male,HR,Project Manager,Manager,San Francisco,13-04-2017,Active,Full-time
+EMP1987,Danielle Morgan,34,Other,Finance,Marine Scientist,Senior,Houston,07-08-2023,Active,Contract
+EMP1988,Lisa Hendricks,28,Female,Operations,Marine Scientist,Mid,Los Angeles,05-04-2021,Active,Contract
+EMP1989,Susan Ingram,38,Other,Sales,Project Manager,Senior,New York,28-01-2017,Active,Contract
+EMP1990,Keith Jones,28,Other,Operations,Financial Analyst,Director,Los Angeles,17-07-2016,Inactive,Intern
+EMP1991,Jessica Smith,35,Male,Sales,Project Manager,Director,Houston,03-07-2021,Active,Full-time
+EMP1992,Karen Johns,37,Other,IT,Software Engineer,Director,Chicago,29-08-2024,Inactive,Part-time
+EMP1993,Robert Branch,47,Male,Finance,Software Engineer,Entry,New York,09-12-2022,Inactive,Contract
+EMP1994,Laurie Vargas,36,Female,Operations,Physiotherapist,Entry,Los Angeles,09-11-2016,Inactive,Full-time
+EMP1995,Sheila Gonzalez,50,Male,Sales,Project Manager,Director,Chicago,03-02-2017,Inactive,Full-time
+EMP1996,Michael Miller,31,Other,Marketing,Project Manager,Manager,San Francisco,30-01-2023,Active,Full-time
+EMP1997,David Wells,49,Male,Finance,Marine Scientist,Senior,New York,16-07-2021,Inactive,Intern
+EMP1998,Jessica Gardner,41,Other,Marketing,Marketing Executive,Senior,San Francisco,09-06-2019,Active,Intern
+EMP1999,Larry Evans,49,Male,HR,Financial Analyst,Manager,Los Angeles,24-05-2019,Inactive,Part-time
+EMP2000,Tina Lawrence,47,Other,Marketing,Marine Scientist,Director,Chicago,26-07-2015,Inactive,Intern
